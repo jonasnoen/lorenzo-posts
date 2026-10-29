@@ -1,0 +1,35 @@
+{
+  "budget": {
+    "monthlyLimitUsd": 50,
+    "note": "Nutzer hat 50 EUR/Monat für Generierung freigegeben. Gezählt werden die costUsd aller Einträge im laufenden Kalendermonat (Europe/Berlin) plus Setup-Kosten."
+  },
+  "setupCosts": [
+    {
+      "date": "2026-10-29",
+      "what": "Profilbild-Varianten (4x Nano Banana Pro) und realistische Turnaround-Referenz (2x)",
+      "costUsd": 2.01
+    }
+  ],
+  "posts": [
+    {
+      "id": "R001",
+      "type": "reel",
+      "format": "crowd-night",
+      "status": "ready",
+      "title": "POV: you take him out in Florence",
+      "files": {
+        "video": "posts/R001/reel.mp4",
+        "cover": "posts/R001/startframe.jpg"
+      },
+      "createdAt": "2026-10-29",
+      "costUsd": 1.84,
+      "caption": "Florence nights hit different 🌙🇮🇹\n\nWhat's your perfect Italian night out?\n\n#florence #italy #dolcevita #nightout #italiansummer #aiinfluencer",
+      "tiktokTitle": "POV: you take him out in Florence 🌙",
+      "metricool": {
+        "instagram": null,
+        "tiktok": null
+      },
+      "publishedAt": null
+    }
+  ]
+}
