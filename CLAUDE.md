@@ -7,6 +7,8 @@ Aufgabe, liest zuerst diese Datei und `register.json`.
 **Alles hier ist öffentlich.** Keine Zugangsdaten, Tokens, privaten Daten oder Entwürfe ablegen.
 Nur fertige, freigegebene Medien, Referenzen, Musik und die Post-Liste.
 
+Hintergrund, Entscheidungen des Nutzers und Verlauf: `KONTEXT.md`. Formatideen: `formats.md`.
+
 **Getrennt von Jonas Noen:** Niemals Dateien in `jonasnoen/jonasnoen-posts` ändern und niemals die
 Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 
@@ -75,9 +77,9 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
    `creative_add_flow_asset_node` (generation_id) an Port `start_frame`. Erst `estimate_only`, dann starten.
 3. Video herunterladen, Einzelbilder ansehen (Gesicht stabil, keine Verformungen). Bei Fehlern höchstens EIN
    neuer Versuch.
-4. Schnitt mit ffmpeg wie bei R001: kurzer Zoom-In (erste 12 Frames 1,12 → 1,0), Hook-Text oben (Inter Bold 62 px,
-   weiß mit schwarzem Rand, erste 3 s), Musik aus `assets/music/` (oder neu generiert, instrumental) + leise
-   Atmo, Ausblenden am Ende, H.264 CRF 18, AAC, 1080×1920.
+4. Schnitt mit `scripts/edit_reel.sh roh.mp4 "Hook Zeile 1" "Zeile 2" posts/<ID>/reel.mp4 [musik] [atmo]`:
+   kurzer Zoom-In, Hook-Text oben (erste 3 s), Musik aus `assets/music/` (oder neu generiert, instrumental) +
+   leise Atmo, Ausblenden am Ende, 1080×1920. Passende neue Musik/Atmo nach `assets/music/` legen.
 
 ## Veröffentlichen über Metricool
 
