@@ -1,7 +1,8 @@
 {
   "budget": {
     "monthlyLimitUsd": 50,
-    "note": "Nutzer hat 50 EUR/Monat für Generierung freigegeben. Gezählt werden die costUsd aller Einträge im laufenden Kalendermonat (Europe/Berlin) plus Setup-Kosten."
+    "note": "Nutzer hat 50 EUR/Monat für Generierung freigegeben. Gezählt werden die costUsd aller Einträge im laufenden Kalendermonat (Europe/Berlin) plus Setup-Kosten.",
+    "metricoolBlogId": 7732285
   },
   "setupCosts": [
     {
@@ -15,7 +16,7 @@
       "id": "R001",
       "type": "reel",
       "format": "crowd-night",
-      "status": "ready",
+      "status": "sending",
       "title": "POV: you take him out in Florence",
       "files": {
         "video": "posts/R001/reel.mp4",

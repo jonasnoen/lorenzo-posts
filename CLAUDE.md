@@ -83,7 +83,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 ## Veröffentlichen über Metricool
 
-1. Lorenzos Marke in Metricool per `getBrandSettings` finden (Instagram `lorenzovalenti.life`). Ist sie NICHT
+1. Lorenzos Metricool-Marke: **„Lorenzo Valenti“, blogId 7732285** (Instagram `lorenzovalenti.life`, TikTok `lorenzovalenti.life`, Zeitzone Europe/Berlin). Per `getBrandSettings` bestätigen. Ist sie NICHT
    vorhanden: nichts posten, im Bericht melden „Lorenzo ist noch nicht in Metricool verbunden“.
 2. Dateien ins Repo, Eintrag in `register.json` mit Status `sending`, committen und pushen.
 3. Planen für HEUTE 19:30 Europe/Berlin (liegt das in der Vergangenheit: 10 Minuten ab jetzt), `autoPublish` true.

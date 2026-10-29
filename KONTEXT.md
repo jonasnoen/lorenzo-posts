@@ -19,7 +19,7 @@ vor der Kamera stehen.
 | Name | Lorenzo Valenti |
 | Profilbild | `assets/reference/profil.jpg` (Café-Terrasse, Altstadt) |
 | Generierung | ElevenLabs-Connector (Bilder, Video, Musik, Geräusche) — kein eigener API-Key nötig |
-| Posten | Metricool-Connector, eigene Marke für Lorenzo (getrennt von `jonas.noen`, blogId 7001759) |
+| Posten | Metricool-Connector, Marke „Lorenzo Valenti“ **blogId 7732285** (getrennt von `jonas.noen`, blogId 7001759) |
 | Recherche | vidIQ-Connector (Instagram/TikTok-Outlier) |
 | Automatik | Geplante Aufgabe „Lorenzo Valenti · täglicher Post“, täglich 18:47 Europe/Berlin, Post um 19:30 |
 | Repo | `jonasnoen/lorenzo-posts` (öffentlich, weil Metricool die Medien über raw.githubusercontent.com lädt) |
