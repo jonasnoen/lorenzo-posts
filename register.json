@@ -16,7 +16,7 @@
       "id": "R001",
       "type": "reel",
       "format": "crowd-night",
-      "status": "scheduled",
+      "status": "published",
       "title": "POV: you take him out in Florence",
       "files": {
         "video": "posts/R001/reel.mp4",
@@ -34,9 +34,13 @@
           "instagram",
           "tiktok"
         ],
-        "aiLabel": true
+        "aiLabel": true,
+        "urls": {
+          "instagram": "https://www.instagram.com/reel/DfFqd-8jdln/",
+          "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7702160225293454614"
+        }
       },
-      "publishedAt": null,
+      "publishedAt": "2026-10-29T19:35:00+01:00",
       "scheduledFor": "2026-10-29T19:35:00+01:00"
     }
   ]
