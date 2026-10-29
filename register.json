@@ -16,7 +16,7 @@
       "id": "R001",
       "type": "reel",
       "format": "crowd-night",
-      "status": "sending",
+      "status": "scheduled",
       "title": "POV: you take him out in Florence",
       "files": {
         "video": "posts/R001/reel.mp4",
@@ -27,10 +27,17 @@
       "caption": "Florence nights hit different 🌙🇮🇹\n\nWhat's your perfect Italian night out?\n\n#florence #italy #dolcevita #nightout #italiansummer #aiinfluencer",
       "tiktokTitle": "POV: you take him out in Florence 🌙",
       "metricool": {
-        "instagram": null,
-        "tiktok": null
+        "postId": 410399919,
+        "uuid": "-7580409172681275582",
+        "blogId": 7732285,
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "aiLabel": true
       },
-      "publishedAt": null
+      "publishedAt": null,
+      "scheduledFor": "2026-10-29T19:35:00+01:00"
     }
   ]
 }
