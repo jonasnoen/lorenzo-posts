@@ -42,6 +42,24 @@
       },
       "publishedAt": "2026-10-29T19:35:00+01:00",
       "scheduledFor": "2026-10-29T19:35:00+01:00"
+    },
+    {
+      "id": "R002",
+      "type": "reel",
+      "format": "F2 walk-in (Blickkontakt, Loop)",
+      "status": "sending",
+      "title": "POV: he said meet me at the harbour",
+      "scene": "Hafenpromenade eines Küstendorfs zur blauen Stunde, Lichterketten, Fischerboote; weißes Leinenhemd, beige Leinenhose, Wildleder-Loafer; frontal, läuft auf Kamera zu",
+      "files": {
+        "video": "posts/R002/reel.mp4",
+        "cover": "posts/R002/startframe.jpg"
+      },
+      "createdAt": "2026-10-30",
+      "costUsd": 1.77,
+      "costDetail": "3x Nano Banana Pro 2K 9:16 (1,21 $) + Kling 3.0 Pro 5 s (0,56 $)",
+      "elevenlabsFlow": "MY9GULiUhr7W8ljabKIv",
+      "caption": "Blue hour by the harbour 🌊🇮🇹\n\nSunset walk or late dinner by the sea, what are you choosing?\n\n#dolcevita #italy #harbour #bluehour #italianstyle #aiinfluencer",
+      "tiktokTitle": "POV: he said meet me at the harbour 🌊"
     }
   ]
 }
