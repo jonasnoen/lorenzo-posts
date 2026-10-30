@@ -47,7 +47,7 @@
       "id": "R002",
       "type": "reel",
       "format": "F2 walk-in (Blickkontakt, Loop)",
-      "status": "sending",
+      "status": "scheduled",
       "title": "POV: he said meet me at the harbour",
       "scene": "Hafenpromenade eines Küstendorfs zur blauen Stunde, Lichterketten, Fischerboote; weißes Leinenhemd, beige Leinenhose, Wildleder-Loafer; frontal, läuft auf Kamera zu",
       "files": {
@@ -59,7 +59,19 @@
       "costDetail": "3x Nano Banana Pro 2K 9:16 (1,21 $) + Kling 3.0 Pro 5 s (0,56 $)",
       "elevenlabsFlow": "MY9GULiUhr7W8ljabKIv",
       "caption": "Blue hour by the harbour 🌊🇮🇹\n\nSunset walk or late dinner by the sea, what are you choosing?\n\n#dolcevita #italy #harbour #bluehour #italianstyle #aiinfluencer",
-      "tiktokTitle": "POV: he said meet me at the harbour 🌊"
+      "tiktokTitle": "POV: he said meet me at the harbour 🌊",
+      "scheduledFor": "2026-10-30T19:30:00+01:00",
+      "metricool": {
+        "postId": 411513689,
+        "uuid": "-7642945772350913210",
+        "blogId": 7732285,
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "aiLabel": true,
+        "mediaCommit": "05fcd59bf0ec6718d65c177304b84efe101b90e4"
+      }
     }
   ]
 }
