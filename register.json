@@ -82,7 +82,7 @@
       "id": "P001",
       "type": "photo",
       "format": "Foto (Sa) · Terrasse zur goldenen Stunde",
-      "status": "sending",
+      "status": "scheduled",
       "title": "Espresso on a rooftop terrace at golden hour",
       "scene": "Dachterrasse einer italienischen Hügelstadt zur goldenen Stunde, Ziegeldächer, Glockenturm, Zitronenbäumchen und Geranien; salbeigrünes Leinenhemd, cremefarbene Leinenhose, braune Loafer; sitzt frontal auf Steinmauer mit Espresso, Blick in Kamera",
       "files": {
@@ -95,7 +95,22 @@
       "elevenlabsFlow": "pDEGZNy4mBXgoZIO46Xl",
       "caption": "Golden hour, espresso, no plans ☕🇮🇹\n\nRooftop sunset or seaside sunset, which one are you picking?\n\n#dolcevita #italy #goldenhour #italianstyle #linen #aiinfluencer",
       "tiktokTitle": "Espresso with a view, Italian golden hour ☕",
-      "scheduledFor": "2026-10-31T19:30:00+01:00"
+      "scheduledFor": "2026-10-31T19:30:00+01:00",
+      "metricool": {
+        "blogId": 7732285,
+        "aiLabel": true,
+        "mediaCommit": "192c6184ff9868d1f0fd24c98a9e061aa96f2371",
+        "instagram": {
+          "postId": 412341937,
+          "uuid": "4009325266435460481",
+          "type": "POST"
+        },
+        "tiktok": {
+          "postId": 412342011,
+          "uuid": "4392038512487319451",
+          "type": "video (6 s Zoom)"
+        }
+      }
     }
   ]
 }
