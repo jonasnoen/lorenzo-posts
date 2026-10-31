@@ -47,7 +47,7 @@
       "id": "R002",
       "type": "reel",
       "format": "F2 walk-in (Blickkontakt, Loop)",
-      "status": "scheduled",
+      "status": "published",
       "title": "POV: he said meet me at the harbour",
       "scene": "Hafenpromenade eines Küstendorfs zur blauen Stunde, Lichterketten, Fischerboote; weißes Leinenhemd, beige Leinenhose, Wildleder-Loafer; frontal, läuft auf Kamera zu",
       "files": {
@@ -70,8 +70,32 @@
           "tiktok"
         ],
         "aiLabel": true,
-        "mediaCommit": "05fcd59bf0ec6718d65c177304b84efe101b90e4"
-      }
+        "mediaCommit": "05fcd59bf0ec6718d65c177304b84efe101b90e4",
+        "urls": {
+          "instagram": "https://www.instagram.com/reel/DfIOxg_AD5T/",
+          "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7702530105532321046"
+        }
+      },
+      "publishedAt": "2026-10-30T19:30:00+01:00"
+    },
+    {
+      "id": "P001",
+      "type": "photo",
+      "format": "Foto (Sa) · Terrasse zur goldenen Stunde",
+      "status": "sending",
+      "title": "Espresso on a rooftop terrace at golden hour",
+      "scene": "Dachterrasse einer italienischen Hügelstadt zur goldenen Stunde, Ziegeldächer, Glockenturm, Zitronenbäumchen und Geranien; salbeigrünes Leinenhemd, cremefarbene Leinenhose, braune Loafer; sitzt frontal auf Steinmauer mit Espresso, Blick in Kamera",
+      "files": {
+        "photo": "posts/P001/photo.jpg",
+        "tiktokVideo": "posts/P001/tiktok.mp4"
+      },
+      "createdAt": "2026-10-31",
+      "costUsd": 0.8,
+      "costDetail": "2x Nano Banana Pro 2K 4:5 (2 x 0,402 $); TikTok-Zoomvideo per ffmpeg mit italian_night_house_02.mp3 (kostenlos)",
+      "elevenlabsFlow": "pDEGZNy4mBXgoZIO46Xl",
+      "caption": "Golden hour, espresso, no plans ☕🇮🇹\n\nRooftop sunset or seaside sunset, which one are you picking?\n\n#dolcevita #italy #goldenhour #italianstyle #linen #aiinfluencer",
+      "tiktokTitle": "Espresso with a view, Italian golden hour ☕",
+      "scheduledFor": "2026-10-31T19:30:00+01:00"
     }
   ]
 }
