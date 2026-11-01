@@ -82,7 +82,7 @@
       "id": "P001",
       "type": "photo",
       "format": "Foto (Sa) · Terrasse zur goldenen Stunde",
-      "status": "scheduled",
+      "status": "published",
       "title": "Espresso on a rooftop terrace at golden hour",
       "scene": "Dachterrasse einer italienischen Hügelstadt zur goldenen Stunde, Ziegeldächer, Glockenturm, Zitronenbäumchen und Geranien; salbeigrünes Leinenhemd, cremefarbene Leinenhose, braune Loafer; sitzt frontal auf Steinmauer mit Espresso, Blick in Kamera",
       "files": {
@@ -109,8 +109,33 @@
           "postId": 412342011,
           "uuid": "4392038512487319451",
           "type": "video (6 s Zoom)"
+        },
+        "urls": {
+          "instagram": "https://www.instagram.com/p/DfKzqIOiExO/",
+          "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7702901500384709910"
         }
-      }
+      },
+      "publishedAt": "2026-10-31T19:30:00+01:00"
+    },
+    {
+      "id": "R003",
+      "type": "reel",
+      "format": "F6 Event-Auftritt (b) Fotowand mit Paparazzi · Sonntag",
+      "status": "sending",
+      "title": "WHO IS HE?? caught between the flashes",
+      "scene": "Erfundenes Abend-Event, neutrale schwarze Fotowand ohne Logos, Fotografen (erfundene Erwachsene) im Vordergrund mit Blitzlicht; schwarzer Smoking mit Satinrevers, weißes Hemd offen; frontal, schaut zu Fotografen, dann in Kamera, knöpft Sakko zu",
+      "files": {
+        "video": "posts/R003/reel.mp4",
+        "cover": "posts/R003/startframe.jpg"
+      },
+      "createdAt": "2026-11-01",
+      "costUsd": 1.77,
+      "costDetail": "3x Nano Banana Pro 2K 9:16 (3 x 0,402 $) + Kling 3.0 Pro 5 s (0,560 $) + SFX Paparazzi-Atmo (0,003 $)",
+      "elevenlabsFlow": "0VirtwUvlhHM2FTvVVWP",
+      "note": "Sonntag: noch keine Statistik vorhanden (erste Auswertung Mo 02.11.), daher F6 als laut Outlier-Daten stärkstes Format und Wochenpflicht gewählt.",
+      "caption": "Caught between the flashes 📸✨\n\nRed carpet or afterparty, where would you find me first?\n\n#runway #redcarpet #italianstyle #menswear #virtualmodel #aiinfluencer",
+      "tiktokTitle": "WHO IS HE?? 📸 caught between the flashes",
+      "scheduledFor": null
     }
   ]
 }
