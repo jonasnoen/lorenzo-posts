@@ -121,7 +121,7 @@
       "id": "R003",
       "type": "reel",
       "format": "F6 Event-Auftritt (b) Fotowand mit Paparazzi · Sonntag",
-      "status": "sending",
+      "status": "scheduled",
       "title": "WHO IS HE?? caught between the flashes",
       "scene": "Erfundenes Abend-Event, neutrale schwarze Fotowand ohne Logos, Fotografen (erfundene Erwachsene) im Vordergrund mit Blitzlicht; schwarzer Smoking mit Satinrevers, weißes Hemd offen; frontal, schaut zu Fotografen, dann in Kamera, knöpft Sakko zu",
       "files": {
@@ -135,7 +135,18 @@
       "note": "Sonntag: noch keine Statistik vorhanden (erste Auswertung Mo 02.11.), daher F6 als laut Outlier-Daten stärkstes Format und Wochenpflicht gewählt.",
       "caption": "Caught between the flashes 📸✨\n\nRed carpet or afterparty, where would you find me first?\n\n#runway #redcarpet #italianstyle #menswear #virtualmodel #aiinfluencer",
       "tiktokTitle": "WHO IS HE?? 📸 caught between the flashes",
-      "scheduledFor": null
+      "scheduledFor": "2026-11-01T19:30:00+01:00",
+      "metricool": {
+        "postId": 413125179,
+        "uuid": "1038790870917597783",
+        "blogId": 7732285,
+        "networks": [
+          "instagram",
+          "tiktok"
+        ],
+        "aiLabel": true,
+        "mediaCommit": "5169233dab22ab35de60f13d6a5e4cd0ba325f35"
+      }
     }
   ]
 }
