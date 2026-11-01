@@ -41,7 +41,8 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
 
 ## Regeln, die der Nutzer und die Plattformen vorgeben
 - **KI-Kennzeichnung bei jedem Post** (Instagram „AI info“ / TikTok „KI-generierte Inhalte“). EU AI Act Art. 50
-  gilt seit 2.8.2026. „AI creator“ steht in der Bio (bewusst „AI“ statt „virtual“, weil eindeutiger).
+  gilt seit 2.8.2026. Bio ab 01.11.2026 auf Wunsch des Nutzers im Stil anderer KI-Models: „Virtual model & creator“
+  (Vorbild @skybound.sterling). Die Pflicht-Kennzeichnung läuft über das KI-Label je Post.
 - **Keine fremden Videos/Gesichter.** Virale Clips anderer nur als Format-Vorbild. Kein Face-Swap in fremde Clips.
 - Keine Behauptung, dass Szenen echt passiert sind; keine echten Prominenten oder erkennbaren Orte als Werbung.
 - Referenzbilder selbst nie posten („du sollst nicht einfach meine Referenz nehmen“), immer eigene neue Szenen.
@@ -55,6 +56,9 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
   Gesicht. Instagram-Konten @lorenzovalenti.life und @alessiamoretti.life angelegt.
 - **28.10.2026**: Erster Lorenzo-Post (roter Anzug) und Terrassenszene auf Instagram. **Alessia ist pausiert**
   (keine Posts, keine Profiländerungen ohne neue Freigabe).
+- **30.–31.10.2026**: Tägliche Läufe funktionieren: R002 Hafen-Walk-in (Reel), P001 Dachterrasse (Foto).
+- **01.11.2026**: Analyse @skybound.sterling + KI-Influencer-Outlier → neues Format F6 (Event/Runway/Paparazzi,
+  nur erfundene Events), Outlier-Suche jetzt immer auch nach KI-Influencern, Bio-Wechsel auf „Virtual model & creator“.
 - **29.10.2026** (dieser Neustart):
   - Gesicht mit blaugrünen Augen festgelegt, Körperreferenz gewählt.
   - Neues Profilbild (Café-Terrasse), realistische Ansicht von allen Seiten (`turnaround_a.jpg`).

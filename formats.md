@@ -40,6 +40,46 @@ Ein Schnitt, Lorenzo schaut/lächelt in die Kamera, oben ein provokanter oder na
 - Umsetzung: Startbild + 5 s Kling mit kaum Bewegung, oder nur ein Foto mit Zoom. Kosten 0,40–1,40 $.
   Sätze charmant und harmlos halten, nichts Sexuelles.
 
+### F6 · Event-Auftritt: Runway, Fotowand, Paparazzi (STÄRKSTES Format für Model-Accounts) — ab 01.11.2026
+Lorenzo kommt bei einem schicken Abend-Event an, Blitzlichter, Fotografen rufen, er posiert vor einer Fotowand,
+läuft über einen Runway oder sitzt in der ersten Reihe. Handkamera-Look, Umgebungsgeräusch (Auslöser, Rufe) + Musik.
+- Belege: @skybound.sterling (KI-Model, 12 Tsd. Follower): ihre 3 Fashion-Week-Reels 72 Tsd., 36 Tsd., 18 Tsd. Aufrufe,
+  alles andere 0,5–4 Tsd. → **20–100× ihr Normalwert**. Dazu echte Event-Clips: Ankunft im Blitzlicht
+  (@britishvogue 2,1 Mio, @voguehongkong 883 Tsd), Fotografen-Menge (@julioocezar 4,2 Mio), Front-Row-POV
+  (@acnestudios 9,2 Mio), roter Teppich (@countrynow 1,9 Mio, 254×), und ein **KI-Account** mit simuliertem
+  Red Carpet (@virtualrealitea 2,9 Mio, 37×).
+- Varianten: (a) Ankunft aus dem Auto ins Blitzlicht, (b) Posen vor der Fotowand mit rufenden Fotografen,
+  (c) Runway-Walk mit Publikum, das Handys hochhält, (d) „POV: you're sitting front row“, (e) kurzes Red-Carpet-
+  „Interview“ mit Mikrofon (Hook: „WHO DO WE GOT HERE??“), (f) Montage „getting ready → arrival → afterparty“.
+- **Pflichtregeln (anders als @skybound.sterling, die echte Events und Designer taggt):**
+  - NUR erfundene Events: keine echten Eventnamen (nicht „Milan/Paris/New York Fashion Week“, nicht „Met Gala“),
+    keine echten Logos auf der Fotowand (Fotowand neutral oder mit erfundenem Fantasie-Logo ohne lesbaren Markennamen),
+    keine echten Designer/Marken taggen oder nennen, keine echten Prominenten im Bild.
+  - Keine Behauptung, Lorenzo sei wirklich dort gewesen oder für eine Marke gelaufen. Captions als Stimmung
+    („runway nights“, „caught between the flashes“, „front row mood“), nicht als Bericht.
+  - KI-Label wie immer.
+- Umsetzung: Startbild 9:16 (Nano Banana Pro, beide Referenzen) mit Fotografen-Menge, Blitzlicht, neutraler
+  Fotowand; Kling 3.0 Pro 5 s; Schnitt mit `scripts/edit_reel.sh` + Atmo „paparazzi camera shutters, people shouting
+  his name, crowd“ (ElevenLabs SFX ≈ 0,003 $). Kosten ≈ 1,80 $. **Mindestens 1× pro Woche einplanen.**
+
+## KI-Influencer-spezifische Muster (Suche „AI influencer / virtual model“, 01.11.2026)
+- **Foto-Slideshow im Takt** funktioniert auch bei KI-Accounts (@queenbee_priyanka KI-Fotos im 80er-Stil 2,2 Mio, 42×;
+  @museofmansi 899 Tsd, 417×; @deepeworte „Men from every country as AI“ 1,2 Mio). → bestätigt F3.
+  Themen-Idee: „Lorenzo through the decades“ (60er Riviera, 70er Disco, 80er, 90er) als Slideshow.
+- **KI-Männer-Model im Showcase-Edit**: @trueadam222 KI-Model, Zeitlupe, Gesicht-Nahaufnahme, langsamer Song,
+  11,1 Mio (29×). Format: Zeitlupen-Close-up + Blick zur Seite + Song, kein Text nötig.
+- **„GRWM as an AI influencer“** mit Outfit-Wechsel-Schnitten (@iamfacelesszara 298 Tsd, 12×) — offener Umgang mit KI
+  schadet nicht. Variante für Lorenzo: „getting ready for the runway“ (passt zu F6).
+- Nicht übernehmen: „Wie man einen KI-Influencer baut“-Tutorials (anderes Publikum), echte Prominente per KI
+  (@virtualrealitea nutzt echte Namen → für uns tabu).
+
+## Beobachtungen zu @skybound.sterling (Analyse 01.11.2026)
+- Bio: „Virtual fashion model & influencer • NYC • Slavic × Italian • Lifestyle, travel & beauty • bookings via DM“.
+- 12,1 Tsd. Follower, 99 Posts. Normale Reels nur 450–4 Tsd. Aufrufe bei 3–19 Likes → Event-Reels tragen den Account.
+- Gesicht wechselt sichtbar zwischen den Reels (blond, brünett, andere Gesichtszüge) — Lorenzo bleibt konsistent,
+  das ist ein Vorteil.
+- Sie taggt echte Designer und nennt echte Fashion Weeks → genau das machen wir NICHT (siehe F6-Regeln).
+
 ## Unbestätigte Einzelbelege (beobachten)
 
 - **Café-Porträt eines KI-Creators**: @mrleoleone.ai (KI-Account!) „Coffee talk“, 1,1 Mio, ruhige Einstellung, romantische

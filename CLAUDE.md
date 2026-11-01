@@ -99,8 +99,12 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 - Montags: Metricool-Zahlen der letzten 7 Tage je Post (Aufrufe, Reichweite, Likes, Kommentare, Saves, Shares,
   neue Follower) in `register.json` unter `stats` eintragen; fehlende Werte als fehlend, nie erfinden.
-- Montags zusätzlich EIN kurzer vidIQ-Outlier-Check (Instagram/TikTok, Nische italienischer Männer-Lifestyle,
-  letzte 7 Tage). Neue Formate als Ideen in `formats.md` ergänzen. Keine vidIQ-Suche an anderen Tagen.
+- Montags zusätzlich ein kurzer vidIQ-Outlier-Check (letzte 7 Tage) mit ZWEI Suchen: (1) KI-Influencer selbst
+  („AI influencer, virtual model, virtual creator, AI-generated male model“) und (2) Model-/Event-/Lifestyle-Nische
+  („male model, fashion week, runway, red carpet, paparazzi, Italian lifestyle“). Neue Formate als Ideen in
+  `formats.md` ergänzen (Muster erst ab zwei Belegen). Keine vidIQ-Suche an anderen Tagen.
+- **Event-Format F6 (Runway/Fotowand/Paparazzi) mindestens einmal pro Woche einplanen**, am besten an einem Reel-Tag.
+  Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten (Regeln in `formats.md`).
 - Sonntag: das Format mit den besten Zahlen in neuer Szene wiederholen; bei zu wenig Daten ehrlich sagen.
 
 ## Bericht
