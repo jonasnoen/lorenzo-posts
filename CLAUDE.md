@@ -44,15 +44,23 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 | Mo | Di | Mi | Do | Fr | Sa | So |
 |---|---|---|---|---|---|---|
-| Reel | – | Reel | – | Reel | Karussell | – |
+| Reel | Vorrat-Post | Reel | Vorrat-Post | Reel | Karussell | Vorrat-Post |
 
 - Reels rotieren über drei Arme (`"arm"`: `mode`, `koerper`, `portraet`), bis jeder Arm 4 Reels hat; nie zweimal
   hintereinander derselbe Arm. Karussell = Serie „Milano to Amalfi“ oder „Lorenzo's Wardrobe“. Siehe `STRATEGIE.md`.
-- An Tagen ohne Post („–“) nichts generieren und nichts posten, nur ggf. die 48-h-/7-Tage-Auswertung.
+- **Vorrat-Post (Di/Do/So)**: KEIN Video generieren. Ein Bild aus dem Vorrat (`register.json` → `stock`, Status
+  `stock`) als Foto-Post: Instagram 4:5 Bild, TikTok 6-s-Zoom-Video mit Musik aus `assets/music/` (ffmpeg, kostenlos).
+  Gibt es keinen passenden Vorrat: EIN Foto erzeugen (2 Varianten, ≈ 0,80 $), die zweite gute Variante in den Vorrat.
+  Vorrat-Posts zählen zu keinem Test-Arm (`"arm": "vorrat"`) und gehören thematisch zu einer der drei Serien.
+- **Vorrat aufbauen**: Bei jedem Reel- und Karussell-Lauf alle guten, nicht verwendeten Varianten (ansehen: Gesicht,
+  Hände, keine Fehler) als `posts/stock/S###.jpg` (4:5-Zuschnitt) speichern und in `register.json` unter `stock` mit
+  Szene, Serie und Status `stock` eintragen. Zusätzlich pro Reel-Lauf EIN extra 4:5-Bild derselben Szene in anderer
+  Pose/Einstellung erzeugen (≈ 0,40 $). Ein Vorrat-Bild nie zweimal posten (nach Verwendung Status `used` + Post-ID).
+  Nie zwei Tage hintereinander Bilder derselben Szene posten.
 - Nach dem 30.11.: Endauswertung schreiben, dann so weitermachen, bis der Nutzer den neuen Mix festlegt.
 - Höchstens ein Post pro Tag. Vorher in Metricool und `register.json` prüfen, ob heute schon etwas geplant
   oder veröffentlicht ist. Wenn ja: nichts tun.
-- Ein Eintrag mit Status `ready` in `register.json` wird zuerst verwendet (egal welcher Wochentag).
+- Ein Eintrag in `posts` mit Status `ready` wird zuerst verwendet (egal welcher Wochentag). `stock`-Einträge nur an Vorrat-Tagen.
 - Ist das Budget erreicht: nur noch Fotos aus günstigen Läufen oder gar nichts; nie überziehen.
 
 ## Budget (Pflicht)

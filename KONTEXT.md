@@ -61,7 +61,7 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
   nur erfundene Events), Outlier-Suche jetzt immer auch nach KI-Influencern, Bio-Wechsel auf „Virtual model & creator“.
 - **02.11.2026**: Lauf ausgefallen (Claude-Nutzungslimit des Kontos erreicht, betraf auch Jonas Noen).
 - **03.11.2026**: Nutzer-Briefing übernommen: Hauptrichtung **Stil + Dolce Vita**, körperbetonte Inhalte = ein Drittel
-  als Testarm, keine Comedy, kein AI slop. 4-Wochen-Test bis 30.11. (Mo/Mi/Fr Reel, Sa Karussell) → `STRATEGIE.md`.
+  als Testarm, keine Comedy, kein AI slop. 4-Wochen-Test bis 30.11. (Mo/Mi/Fr Reel, Sa Karussell, Di/Do/So Vorrat-Post ohne Video) → `STRATEGIE.md`.
 - **29.10.2026** (dieser Neustart):
   - Gesicht mit blaugrünen Augen festgelegt, Körperreferenz gewählt.
   - Neues Profilbild (Café-Terrasse), realistische Ansicht von allen Seiten (`turnaround_a.jpg`).

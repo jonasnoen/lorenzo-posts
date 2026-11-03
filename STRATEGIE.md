@@ -35,13 +35,15 @@ Freien, Szenen mit bewundernden Blicken. Immer mit Stil-Bezug in der Caption (z.
 Nachtleben-Crowd wie R001 zählt zum Körper-Arm.
 
 ## 4-Wochen-Test (03.11.–30.11.2026)
-- **Pro Woche 3 Reels + 1 Karussell** = 4 Posts (Mo, Mi, Fr Reel; Sa Karussell), 19:30 Europe/Berlin.
-  Di, Do, So: kein Post (spart Budget und Nutzungslimit).
+- **Täglich ein Post**, 19:30 Europe/Berlin: Mo, Mi, Fr Reel; Sa Karussell; **Di, Do, So Vorrat-Post** (Foto aus dem
+  Vorrat, kein Video, meist 0 $). Entscheidung des Nutzers vom 03.11.2026: täglich posten, aber an den Vorrat-Tagen
+  ohne neue Videogenerierung, damit Budget und Claude-Nutzungslimit reichen.
 - **12 Reels, gleichmäßig auf 3 Arme**: je 4× Mode/Styling, 4× Körper/Lifestyle, 4× Porträt/Atmosphäre.
   Reihenfolge rotiert (Mo/Mi/Fr nie zweimal hintereinander derselbe Arm). Jeder Reel-Eintrag bekommt `"arm"`.
 - **4 Karussells** (Serie „Milano to Amalfi“ oder „Lorenzo's Wardrobe“), 4–6 Bilder, 4:5.
 - Vergleichbar halten: Reels 5–8 s, gleicher Schnittstil, gleiche Uhrzeit, Hook-Text oben.
-- Budget: Reel ≈ 1,80 $, Karussell ≈ 2,40 $ (6 Bilder) → ≈ 7,80 $/Woche ≈ 31 $ in 4 Wochen. Puffer für Fehlversuche.
+- Budget: Reel ≈ 1,80 $ + Vorratbild 0,40 $, Karussell ≈ 2,40 $, Vorrat-Posts meist 0 $ → ≈ 9–10 $/Woche ≈ 38 $ in
+  4 Wochen. Vorrat-Posts fließen nicht in den Arm-Vergleich ein.
 
 ## Qualitätsregeln (gegen generische KI-Inhalte)
 - Jeder Post braucht eine **konkrete Idee** (Styling-Nutzen, Bildgeschichte oder eigener Gedanke). Ohne Idee kein Post.

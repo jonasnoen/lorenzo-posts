@@ -21,7 +21,7 @@ Alle Inhalte sind KI-generiert und werden als solche gekennzeichnet.
 | `scripts/edit_reel.sh` | Schnitt: rohes Video → fertiges Reel mit Zoom, Hook-Text, Musik |
 
 ## Automatik
-Geplante Aufgabe „Lorenzo Valenti · täglicher Post“ läuft Mo/Mi/Fr/Sa 18:47 Europe/Berlin in der Cloud, liest diese
+Geplante Aufgabe „Lorenzo Valenti · täglicher Post“ läuft täglich 18:47 Europe/Berlin in der Cloud, liest diese
 Dateien, erstellt bzw. nimmt den nächsten Post und plant ihn über Metricool für 19:30.
 
 **Öffentliches Repo:** keine Zugangsdaten, Tokens oder privaten Daten ablegen.
