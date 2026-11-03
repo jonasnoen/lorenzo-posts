@@ -14,15 +14,20 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 
 ## Identität (verbindlich)
 
+- **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
 - Referenzen in `assets/reference/`:
-  - `ref_a.png` = **Gesicht** (Hauptreferenz): helle blaugrüne Augen mit natürlichem Glanz, dunkelbraunes
-    welliges Haar, kurzer Bart, ca. 27 Jahre.
-  - `ref_b.png` = **Körper**: groß (~2 m), breite Schultern, volle Brust, schmale Taille, definiert.
-  - `turnaround_a.jpg` = realistische Ansicht vorne / schräg / Profil / Rücken (für Szenen aus anderen Winkeln).
+  - `ref_gesicht_2026-11-03.png` = **Gesicht (einzige Gesichtsreferenz)**: glatt rasiert, helle blaugrüne Augen,
+    dunkelbraunes, leicht feuchtes, zurückgestrichenes Haar, markanter Kiefer, ca. 27 Jahre.
+  - `ref_b_koerper_ohne_kopf.png` = **Körper** (ohne Kopf, damit kein zweites Gesicht einfließt): groß (~2 m),
+    breite Schultern, volle Brust, definierter Bauch, schmale Taille.
+  - Alt, NICHT mehr als Referenz anhängen: `ref_a.png` (mit Bart), `ref_b.png` (mit Kopf), `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild.
-- Bei JEDER Bildgenerierung `ref_a.png` UND `ref_b.png` als Referenzen anhängen (Raw-URL mit Commit-SHA),
-  bei Rücken-/Seitenansichten zusätzlich `turnaround_a.jpg`.
-- Look: realistisches Handyfoto, natürliche Haut mit Poren, kein Studio-Glanz, kein Plastik-Look.
+- Bei JEDER Bildgenerierung genau diese zwei anhängen (Raw-URL mit Commit-SHA), niemals mehrere Gesichter
+  gleichzeitig. Im Prompt: „face, head and hair exact copy of the FIRST image; SECOND image only body build“.
+- Immer **frisch aus den Referenzen** generieren, keine Bearbeitungsketten (Bild → Edit → Edit macht das Gesicht künstlich).
+- Look: natürliches Handyfoto, weiches natürliches Licht, echte Haut, nicht überretuschiert, kein Plastik-Look.
+  Mimik: ruhig, intensiv, subtiles Halblächeln/Smirk; beim Lachen leise mit geschlossenem Mund, kein breites Grinsen.
+- Immer „exactly two arms and two hands“ in den Prompt; Selfie-Arme vermeiden (lieber „photo taken by a friend“).
 - Referenzbilder selbst NIE als Post veröffentlichen. Immer eigene, neue Szenen.
 
 ## Positionierung und Ton (seit 03.11.2026, Details in `STRATEGIE.md` — ZUERST LESEN)
@@ -76,7 +81,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_a.png` + `ref_b.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_gesicht_2026-11-03.png` + `ref_b_koerper_ohne_kopf.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten.
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,

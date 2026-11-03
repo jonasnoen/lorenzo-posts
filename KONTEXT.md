@@ -35,7 +35,8 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
 - Ausdrücklich gewünscht: auch oberkörperfrei, Fitnesskörper, **Frauen, die ihn anhimmeln** (fiktive erwachsene
   Figuren, natürliche Interaktion: Blickkontakt, Lachen, gemeinsame Fotos — nichts Sexuelles).
 - Kleidung: Leinen, offene Hemdkragen, dunkle oder bordeauxrote Anzüge, Strick, Loafer. Keine Logo-Sammlung.
-- Gesicht-Referenz: `assets/reference/ref_a.png` (vom Nutzer am 29.10. als Referenz geschickt). Eine fast
+- **Seit 03.11.2026: glatt rasiert, Gesicht = `ref_gesicht_2026-11-03.png`, Körper = `ref_b_koerper_ohne_kopf.png`** (Nutzer: alte Bilder wirkten mit Bart ungepflegt, Gesicht schwankte durch gemischte Referenzen).
+- Alte Gesicht-Referenz: `assets/reference/ref_a.png` (vom Nutzer am 29.10. als Referenz geschickt). Eine fast
   identische zweite Version liegt im SSD-Ordner als `Lorenzo-Hauptreferenz-FINAL-29-10.png`.
 - Körper-Referenz: `assets/reference/ref_b.png` (= `Lorenzo-Koerperreferenz-FINAL-29-10.png`).
 
@@ -60,6 +61,7 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
 - **01.11.2026**: Analyse @skybound.sterling + KI-Influencer-Outlier → neues Format F6 (Event/Runway/Paparazzi,
   nur erfundene Events), Outlier-Suche jetzt immer auch nach KI-Influencern, Bio-Wechsel auf „Virtual model & creator“.
 - **02.11.2026**: Lauf ausgefallen (Claude-Nutzungslimit des Kontos erreicht, betraf auch Jonas Noen).
+- **03.11.2026 abends**: Neuer Look (glatt rasiert, natürliches Licht, nur eine Gesichtsreferenz), siehe CLAUDE.md „Identität“.
 - **03.11.2026**: Nutzer-Briefing übernommen: Hauptrichtung **Stil + Dolce Vita**, körperbetonte Inhalte = ein Drittel
   als Testarm, keine Comedy, kein AI slop. 4-Wochen-Test bis 30.11. (Mo/Mi/Fr Reel, Sa Karussell, Di/Do/So Vorrat-Post ohne Video) → `STRATEGIE.md`.
 - **29.10.2026** (dieser Neustart):

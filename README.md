@@ -15,7 +15,7 @@ Alle Inhalte sind KI-generiert und werden als solche gekennzeichnet.
 
 | Pfad | Inhalt |
 |---|---|
-| `assets/reference/` | Identität: `ref_a.png` Gesicht, `ref_b.png` Körper, `turnaround_a.jpg` alle Seiten, `profil.jpg` |
+| `assets/reference/` | Identität seit 03.11.: `ref_gesicht_2026-11-03.png` Gesicht (glatt rasiert), `ref_b_koerper_ohne_kopf.png` Körper; alt: `ref_a.png`, `ref_b.png`, `turnaround_a.jpg` |
 | `assets/music/` | selbst generierte Musik und Atmo (rechtefrei nutzbar) |
 | `posts/<ID>/` | fertige Medien je Post (z. B. `posts/R001/reel.mp4`) |
 | `scripts/edit_reel.sh` | Schnitt: rohes Video → fertiges Reel mit Zoom, Hook-Text, Musik |
