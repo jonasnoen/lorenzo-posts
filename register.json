@@ -353,6 +353,30 @@
       "model": "gpt-image-2",
       "reference": "ref_sitzend_2026-11-03d.png",
       "costUsd": 0.38
+    },
+    {
+      "id": "S009",
+      "date": "2026-11-03",
+      "file": "posts/stock/S009.jpg",
+      "scene": "Kieselstrand in Bucht, kommt aus dem Meer, oberkörperfrei, Hand im Haar",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "bhPlvQcRdad5yq6o4yKi",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S010",
+      "date": "2026-11-03",
+      "file": "posts/stock/S010.jpg",
+      "scene": "Weiße Ferienhaus-Terrasse mit Bougainvillea, oberkörperfrei, Leinenhose, Kaffee",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "yfkoUwGnCGBorsl7KMjf",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
     }
   ]
 }
