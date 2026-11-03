@@ -16,8 +16,9 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
 - Referenzen in `assets/reference/`:
-  - `ref_gesicht_2026-11-03.png` = **Gesicht (einzige Gesichtsreferenz)**: glatt rasiert, helle blaugrüne Augen,
-    dunkelbraunes, leicht feuchtes, zurückgestrichenes Haar, markanter Kiefer, ca. 27 Jahre.
+  - `ref_gesicht_2026-11-03_v27.png` = **Gesicht (einzige Gesichtsreferenz, freigegeben 03.11. abends)**: glatt rasiert
+    (höchstens Hauch Stoppeln), helle blaugrüne Augen, dunkelbraunes, lockig-zerzaustes Haar, markanter Kiefer,
+    freches Lächeln, ca. 27 Jahre. Vorher `ref_gesicht_2026-11-03.png` (überholt, nicht mehr anhängen).
   - `ref_b_koerper_ohne_kopf.png` = **Körper** (ohne Kopf, damit kein zweites Gesicht einfließt): groß (~2 m),
     breite Schultern, volle Brust, definierter Bauch, schmale Taille.
   - Alt, NICHT mehr als Referenz anhängen: `ref_a.png` (mit Bart), `ref_b.png` (mit Kopf), `turnaround_a.jpg`.
@@ -81,7 +82,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_gesicht_2026-11-03.png` + `ref_b_koerper_ohne_kopf.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_gesicht_2026-11-03_v27.png` + `ref_b_koerper_ohne_kopf.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten.
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,

@@ -35,7 +35,7 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
 - Ausdrücklich gewünscht: auch oberkörperfrei, Fitnesskörper, **Frauen, die ihn anhimmeln** (fiktive erwachsene
   Figuren, natürliche Interaktion: Blickkontakt, Lachen, gemeinsame Fotos — nichts Sexuelles).
 - Kleidung: Leinen, offene Hemdkragen, dunkle oder bordeauxrote Anzüge, Strick, Loafer. Keine Logo-Sammlung.
-- **Seit 03.11.2026: glatt rasiert, Gesicht = `ref_gesicht_2026-11-03.png`, Körper = `ref_b_koerper_ohne_kopf.png`** (Nutzer: alte Bilder wirkten mit Bart ungepflegt, Gesicht schwankte durch gemischte Referenzen).
+- **Seit 03.11.2026: glatt rasiert, Gesicht = `ref_gesicht_2026-11-03_v27.png`, Körper = `ref_b_koerper_ohne_kopf.png`** (Nutzer: alte Bilder wirkten mit Bart ungepflegt, Gesicht schwankte durch gemischte Referenzen).
 - Alte Gesicht-Referenz: `assets/reference/ref_a.png` (vom Nutzer am 29.10. als Referenz geschickt). Eine fast
   identische zweite Version liegt im SSD-Ordner als `Lorenzo-Hauptreferenz-FINAL-29-10.png`.
 - Körper-Referenz: `assets/reference/ref_b.png` (= `Lorenzo-Koerperreferenz-FINAL-29-10.png`).
