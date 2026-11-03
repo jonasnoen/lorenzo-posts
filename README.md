@@ -5,10 +5,11 @@ Alle Inhalte sind KI-generiert und werden als solche gekennzeichnet.
 
 ## Für einen neuen Chat: in dieser Reihenfolge lesen
 
-1. **`CLAUDE.md`**: verbindliche Arbeitsanleitung (Identität, Wochenplan, Budget, Ablauf, Metricool, KI-Label).
-2. **`KONTEXT.md`**: warum alles so ist (Entscheidungen des Nutzers, Accounts, Verlauf, offene Punkte).
-3. **`register.json`**: alle Posts mit Status, Dateien, Metricool-IDs und Kosten (Budgetzähler).
-4. **`formats.md`**: Formatkatalog aus der Outlier-Analyse (was viral geht und wie wir es nachbauen).
+1. **`STRATEGIE.md`**: Positionierung, Serien, 4-Wochen-Test und Qualitätsregeln (verbindlich seit 03.11.2026).
+2. **`CLAUDE.md`**: verbindliche Arbeitsanleitung (Identität, Wochenplan, Budget, Ablauf, Metricool, KI-Label).
+3. **`KONTEXT.md`**: warum alles so ist (Entscheidungen des Nutzers, Accounts, Verlauf, offene Punkte).
+4. **`register.json`**: alle Posts mit Status, Dateien, Metricool-IDs und Kosten (Budgetzähler).
+5. **`formats.md`**: Formatkatalog aus der Outlier-Analyse (was viral geht und wie wir es nachbauen).
 
 ## Ordner
 
@@ -20,7 +21,7 @@ Alle Inhalte sind KI-generiert und werden als solche gekennzeichnet.
 | `scripts/edit_reel.sh` | Schnitt: rohes Video → fertiges Reel mit Zoom, Hook-Text, Musik |
 
 ## Automatik
-Geplante Aufgabe „Lorenzo Valenti · täglicher Post“ läuft täglich 18:47 Europe/Berlin in der Cloud, liest diese
+Geplante Aufgabe „Lorenzo Valenti · täglicher Post“ läuft Mo/Mi/Fr/Sa 18:47 Europe/Berlin in der Cloud, liest diese
 Dateien, erstellt bzw. nimmt den nächsten Post und plant ihn über Metricool für 19:30.
 
 **Öffentliches Repo:** keine Zugangsdaten, Tokens oder privaten Daten ablegen.

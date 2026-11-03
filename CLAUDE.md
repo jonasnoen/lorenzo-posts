@@ -7,7 +7,7 @@ Aufgabe, liest zuerst diese Datei und `register.json`.
 **Alles hier ist öffentlich.** Keine Zugangsdaten, Tokens, privaten Daten oder Entwürfe ablegen.
 Nur fertige, freigegebene Medien, Referenzen, Musik und die Post-Liste.
 
-Hintergrund, Entscheidungen des Nutzers und Verlauf: `KONTEXT.md`. Formatideen: `formats.md`.
+**Strategie und 4-Wochen-Test: `STRATEGIE.md` (verbindlich).** Hintergrund und Verlauf: `KONTEXT.md`. Formatideen: `formats.md`.
 
 **Getrennt von Jonas Noen:** Niemals Dateien in `jonasnoen/jonasnoen-posts` ändern und niemals die
 Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
@@ -25,11 +25,13 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 - Look: realistisches Handyfoto, natürliche Haut mit Poren, kein Studio-Glanz, kein Plastik-Look.
 - Referenzbilder selbst NIE als Post veröffentlichen. Immer eigene, neue Szenen.
 
-## Nische und Ton
+## Positionierung und Ton (seit 03.11.2026, Details in `STRATEGIE.md` — ZUERST LESEN)
 
-Italienischer Lifestyle, „Dolce Vita“: Altstadt, Meer, Terrassen, Vespa, Nachtleben, Training, Mode
-(Leinen, Anzug). Lorenzo ist attraktiv und selbstbewusst; Formate mit bewundernden Blicken funktionieren.
-Captions auf Englisch, kurz, eine Frage an die Zuschauer, 4–6 Hashtags.
+Lorenzo ist ein **italienischer Stil-Creator mit Dolce-Vita-Welt**. Kern ist Männerstil, eine konkrete, nachmachbare
+Idee pro Post. Drei Serien: „Lorenzo's Wardrobe“, „Milano to Amalfi“, „A moment with Lorenzo“. Körperbetonte
+Inhalte sind ein Testarm (ein Drittel der Reels), nicht die ganze Marke. **Keine Comedy, kein generischer KI-Content.**
+Captions auf Englisch: Detail erklären oder kleine Geschichte (2–4 Sätze), dann eine echte Frage, 4–6 Hashtags.
+Keine Motivationssprüche, keine echten Marken nennen oder taggen.
 
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
@@ -38,12 +40,16 @@ Keine Behauptung, dass eine Szene echt passiert ist.
 **Virale Vorlagen:** Format, Bildaufbau, Hook und Bewegung von erfolgreichen Clips übernehmen, aber NIE fremdes
 Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetzen.
 
-## Wochenplan (ein Post pro Tag, 19:30 Uhr Europe/Berlin)
+## Wochenplan im 4-Wochen-Test (03.11.–30.11.2026, 19:30 Uhr Europe/Berlin)
 
 | Mo | Di | Mi | Do | Fr | Sa | So |
 |---|---|---|---|---|---|---|
-| Reel | Foto | Reel | Foto/Karussell | Reel | Foto | Reel-Wiederholung des besten Formats |
+| Reel | – | Reel | – | Reel | Karussell | – |
 
+- Reels rotieren über drei Arme (`"arm"`: `mode`, `koerper`, `portraet`), bis jeder Arm 4 Reels hat; nie zweimal
+  hintereinander derselbe Arm. Karussell = Serie „Milano to Amalfi“ oder „Lorenzo's Wardrobe“. Siehe `STRATEGIE.md`.
+- An Tagen ohne Post („–“) nichts generieren und nichts posten, nur ggf. die 48-h-/7-Tage-Auswertung.
+- Nach dem 30.11.: Endauswertung schreiben, dann so weitermachen, bis der Nutzer den neuen Mix festlegt.
 - Höchstens ein Post pro Tag. Vorher in Metricool und `register.json` prüfen, ob heute schon etwas geplant
   oder veröffentlicht ist. Wenn ja: nichts tun.
 - Ein Eintrag mit Status `ready` in `register.json` wird zuerst verwendet (egal welcher Wochentag).
@@ -69,6 +75,16 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
    dann aufgeben und melden.
 4. Für TikTok zusätzlich ein 9:16-Bild (gleicher Prompt mit 9:16) ODER das Foto als kurzes Zoom-Video (ffmpeg,
    6 s, langsamer Zoom, Musik aus `assets/music/`).
+
+## Ablauf Karussell (samstags)
+
+1. Eine Idee, 4–6 Bilder, Serie „Milano to Amalfi“ (abwechselnd Stadt/Küste, gleicher Anlass) oder
+   „Lorenzo's Wardrobe“ (ein Teil, mehrere Kombinationen; Detail + Ganzkörper + Porträt). Slide 1 = stärkstes Bild.
+2. Wie Foto-Post, aber alle Bilder in EINEM Flow mit denselben Referenzen und gleicher Lichtstimmung, `aspect_ratio`
+   4:5, je Bild 1 Variante (bei Fehler einzeln neu). Kleidung und Ort bleiben über alle Slides logisch konsistent.
+3. Optional dezenter Text auf Slide 1 (Titel der Serie) per PIL, keine Textwände.
+4. Metricool: Instagram `type` POST mit allen Bildern in `media` (Karussell); TikTok als Foto-Post mit denselben
+   Bildern im Format 9:16 (Bilder mit Unschärfe-Rand auf 1080×1920 bringen) oder als 8-s-Slideshow-Video mit Musik.
 
 ## Ablauf Reel
 
@@ -97,15 +113,16 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 ## Auswertung
 
-- Montags: Metricool-Zahlen der letzten 7 Tage je Post (Aufrufe, Reichweite, Likes, Kommentare, Saves, Shares,
-  neue Follower) in `register.json` unter `stats` eintragen; fehlende Werte als fehlend, nie erfinden.
+- Bei JEDEM Lauf: für Posts, die 48 h bzw. 7 Tage alt sind, Metricool-Zahlen holen (`getAnalyticsAvailableMetrics`,
+  dann `getAnalyticsDataByMetrics`): Reichweite (Nicht-Follower falls verfügbar), Aufrufe, Wiedergabezeit, Saves,
+  Shares, Profilbesuche, neue Follower → `register.json` `stats.h48` / `stats.d7`. Fehlende Werte als fehlend, nie erfinden.
 - Montags zusätzlich ein kurzer vidIQ-Outlier-Check (letzte 7 Tage) mit ZWEI Suchen: (1) KI-Influencer selbst
   („AI influencer, virtual model, virtual creator, AI-generated male model“) und (2) Model-/Event-/Lifestyle-Nische
   („male model, fashion week, runway, red carpet, paparazzi, Italian lifestyle“). Neue Formate als Ideen in
   `formats.md` ergänzen (Muster erst ab zwei Belegen). Keine vidIQ-Suche an anderen Tagen.
-- **Event-Format F6 (Runway/Fotowand/Paparazzi) mindestens einmal pro Woche einplanen**, am besten an einem Reel-Tag.
-  Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten (Regeln in `formats.md`).
-- Sonntag: das Format mit den besten Zahlen in neuer Szene wiederholen; bei zu wenig Daten ehrlich sagen.
+- Event-Format F6 (Runway/Fotowand/Paparazzi) nur als gelegentliche Fashion-Episode, höchstens alle zwei Wochen,
+  zählt zum Arm `mode`. Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten.
+- Gewinner erst ab 3 Posts je Arm benennen; Endauswertung am 30.11. nach `STRATEGIE.md`.
 
 ## Bericht
 

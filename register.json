@@ -41,7 +41,9 @@
         }
       },
       "publishedAt": "2026-10-29T19:35:00+01:00",
-      "scheduledFor": "2026-10-29T19:35:00+01:00"
+      "scheduledFor": "2026-10-29T19:35:00+01:00",
+      "pretest": true,
+      "arm": "koerper"
     },
     {
       "id": "R002",
@@ -76,7 +78,9 @@
           "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7702530105532321046"
         }
       },
-      "publishedAt": "2026-10-30T19:30:00+01:00"
+      "publishedAt": "2026-10-30T19:30:00+01:00",
+      "pretest": true,
+      "arm": "portraet"
     },
     {
       "id": "P001",
@@ -115,7 +119,8 @@
           "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7702901500384709910"
         }
       },
-      "publishedAt": "2026-10-31T19:30:00+01:00"
+      "publishedAt": "2026-10-31T19:30:00+01:00",
+      "pretest": true
     },
     {
       "id": "R003",
@@ -146,7 +151,16 @@
         ],
         "aiLabel": true,
         "mediaCommit": "5169233dab22ab35de60f13d6a5e4cd0ba325f35"
-      }
+      },
+      "pretest": true,
+      "arm": "mode"
     }
-  ]
+  ],
+  "test": {
+    "name": "4-Wochen-Test Stil + Dolce Vita",
+    "from": "2026-11-03",
+    "to": "2026-11-30",
+    "plan": "Mo/Mi/Fr Reel (Arme mode/koerper/portraet je 4x), Sa Karussell (4x)",
+    "details": "STRATEGIE.md"
+  }
 }
