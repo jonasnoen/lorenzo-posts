@@ -15,27 +15,21 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 ## Identität (verbindlich)
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
-- **Referenz-Set i (04.11.2026 00:02, vom Nutzer freigegeben, alle aus `ref_e_terrasse_2026-11-03.jpg`) – IMMER diese drei anhängen:**
-  - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg` (Gesicht) und `ref_i3_koerper_final.png` (Körper,
-    vom Nutzer gewählt 04.11. 00:05: dunkelblaue Leinenhose vor weißer Wand; `ref_i3_ganzkoerper.jpg` ist überholt).
+- **Referenzen (04.11.2026, vom Nutzer freigegeben) – in `assets/reference/` liegen NUR noch diese, IMMER alle drei anhängen:**
+  - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg` (Gesicht), `ref_i3_koerper_final.png` (Körper).
   - Aussehen: ca. 24–25 (nicht älter machen), kräftige gerade dunkle Brauen, eisblaue Augen, kräftiger Kiefer,
-    Sommersprossen, zerzauste dunkelbraune Locken; sehr muskulös, volle Brust, breite runde Schultern, tiefes Sixpack.
-  - Überholt: Set g (`ref_g*.jpg`, wirkte zu alt), Set h.
-  - Ältere Quellen (nur Herkunft, nicht anhängen): `ref_e_terrasse_2026-11-03.jpg`, `ref_e_strand_2026-11-03.jpg`,
-    `ref_f_oberkoerperfrei_2026-11-03.jpg`.
-  - Lieblingsbild des Nutzers (Blick + Körper): Vorrat S013 (Balkon, offenes Leinenhemd, Golden Hour). Diesen intensiven,
-    ruhigen Blick in die Kamera als Standard-Mimik nehmen. ABER: S013 wirkt dem Nutzer zu weichgezeichnet. Nie
-    Weichzeichner-/Glow-Look: immer „sharp focus, crisp detail, no soft focus, no glow, no haze, no dreamy filter“ in den Prompt.
-  - Herkunft: `ref_sitzend_2026-11-03d.png` (ChatGPT-Gesicht des Nutzers), `ref_ganzkoerper_2026-11-03c.png`.
-  - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
-  - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
+    Sommersprossen, zerzauste dunkelbraune Locken; sehr muskulös, volle Brust, breite runde Schultern, tiefes Sixpack,
+    schmale Taille. Mimik: ruhiger, intensiver Blick, subtiles Halblächeln mit geschlossenem Mund.
+  - Nie Weichzeichner-/Glow-Look: immer „sharp focus, crisp detail, no soft focus, no glow, no haze“ in den Prompt.
+  - Alle älteren Referenzbilder und Vorrat-Bilder S001–S015 am 04.11. auf Wunsch gelöscht (nur Git-Historie).
+    Videos bleiben. `profil.jpg` = altes Profilbild, muss erneuert werden.
 - **Bildmodell (Nutzer 03.11. 23:44): `gemini-3-pro-image`** (Nano Banana Pro), `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16.
-  Mit Set i hält Nano Banana das Gesicht (Vergleich 04.11.); Prompt immer „about 24, do not make him older“. Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
+  Mit Set i hält Nano Banana das Gesicht (Vergleich 04.11.); Prompt immer „about 24, do not make him older“.
   `gpt-image-2` (quality high) nur für enge Nahaufnahmen, wenn Gemini das Gesicht verändert.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
   lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
-- Bei JEDER Bildgenerierung genau die drei i-Referenzen anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
+- Bei JEDER Bildgenerierung genau die drei Referenzen anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in all three
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,

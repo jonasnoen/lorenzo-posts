@@ -86,3 +86,6 @@ Ein Claude-Konto kann nur EIN GitHub-Konto und EIN Metricool-Login verbinden. De
 - `gemini-3-pro-image` (Nano Banana Pro) hält das Gesicht mit zwei Referenzen sehr gut; ≈ 0,30 $ (1K) bzw. 0,40 $ (2K).
 - Kling 3.0 Pro, 9:16, 5 s, 1080p, ohne Ton ≈ 0,56 $, Laufzeit ca. 2–3 Minuten.
 - Schnitt: siehe `scripts/edit_reel.sh`.
+
+
+**04.11.2026:** Identität neu festgelegt, Referenzen nur noch `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg`, `ref_i3_koerper_final.png`; Modell Nano Banana Pro; alte Referenzen und Vorrat S001–S015 gelöscht.

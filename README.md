@@ -25,3 +25,6 @@ Geplante Aufgabe „Lorenzo Valenti · täglicher Post“ läuft täglich 18:47 
 Dateien, erstellt bzw. nimmt den nächsten Post und plant ihn über Metricool für 19:30.
 
 **Öffentliches Repo:** keine Zugangsdaten, Tokens oder privaten Daten ablegen.
+
+
+**04.11.2026:** Identität neu festgelegt, Referenzen nur noch `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg`, `ref_i3_koerper_final.png`; Modell Nano Banana Pro; alte Referenzen und Vorrat S001–S015 gelöscht.
