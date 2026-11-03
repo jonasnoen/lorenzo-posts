@@ -28,9 +28,13 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   - Herkunft: `ref_sitzend_2026-11-03d.png` (ChatGPT-Gesicht des Nutzers), `ref_ganzkoerper_2026-11-03c.png`.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
-- **Bildmodell: `gpt-image-2`** (dasselbe wie ChatGPT, hält dieses Gesicht als einziges treu), `quality` high,
-  `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16. Gemini/Seedream/Flux verändern das Gesicht, nicht verwenden.
-- Bei JEDER Bildgenerierung genau diese zwei anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
+- **Bildmodell (Nutzer 03.11. 23:44): `gemini-3-pro-image`** (Nano Banana Pro), `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16.
+  Mit den Referenzen e + f am natürlichsten. Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
+  `gpt-image-2` (quality high) nur für enge Nahaufnahmen, wenn Gemini das Gesicht verändert.
+- Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
+  cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
+  lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
+- Bei JEDER Bildgenerierung genau diese drei anhängen (e terrasse, e strand, f) (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
@@ -85,7 +89,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Vor jeder bezahlten Generierung: Summe `costUsd` des laufenden Monats + Schätzung (`estimate_only`) prüfen.
   Würde das Limit überschritten: nicht generieren, im Bericht melden.
 - Tatsächliche Kosten (aus der ElevenLabs-Antwort, `price_cents`) im Eintrag als `costUsd` speichern.
-- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,40 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
+- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,50 $ (mit 3 Referenzen), GPT Image 2 high ≈ 0,38 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
   Musik 12 s ≈ 0,03 $; Geräusch ≈ 0,003 $.
 
 ## Ablauf Foto-Post
@@ -93,7 +97,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
 2. ElevenLabs: Flow anlegen, `ref_e_terrasse_2026-11-03.jpg` + `ref_e_strand_2026-11-03.jpg` + `ref_f_oberkoerperfrei_2026-11-03.jpg` (Körper, immer) per `creative_attach_reference_file` (Raw-URL) anhängen,
-   Bildknoten `gpt-image-2` (quality high), `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,38 $ je Bild).
+   Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,50 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
    dann aufgeben und melden.

@@ -13,7 +13,7 @@
     {
       "date": "2026-11-03",
       "what": "Referenzsuche Lorenzo neues Gesicht (Gemini/Seedream/Flux/GPT-Tests)",
-      "costUsd": 5.0
+      "costUsd": 6.8
     }
   ],
   "posts": [
@@ -427,6 +427,21 @@
       "model": "gpt-image-2",
       "reference": "ref_e",
       "costUsd": 0.38
+    },
+    {
+      "id": "S015",
+      "date": "2026-11-03",
+      "file": "posts/stock/S015.jpg",
+      "format": "9:16",
+      "scene": "Steinbalkon Küstenstadt, weißes Leinenhemd offen, dunkelblaue Hose, Tageslicht (Reel-Startbild)",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "yeA9qIOSCHea2eRsGSjk",
+      "model": "gemini-3-pro-image",
+      "reference": "ref_e + ref_f",
+      "costUsd": 0.5,
+      "favorite": true,
+      "note": "Vom Nutzer gewählt als Look-Vorbild"
     }
   ]
 }
