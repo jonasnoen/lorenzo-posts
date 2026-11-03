@@ -64,7 +64,8 @@
           },
           "tiktok": null
         }
-      }
+      },
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
     },
     {
       "id": "R002",
@@ -117,7 +118,8 @@
           },
           "tiktok": null
         }
-      }
+      },
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
     },
     {
       "id": "P001",
@@ -173,7 +175,8 @@
           },
           "tiktok": null
         }
-      }
+      },
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
     },
     {
       "id": "R003",
@@ -211,7 +214,8 @@
       },
       "pretest": true,
       "arm": "mode",
-      "publishedAt": "2026-11-01T19:30:00+01:00"
+      "publishedAt": "2026-11-01T19:30:00+01:00",
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
     },
     {
       "id": "V001",
