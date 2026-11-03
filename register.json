@@ -43,7 +43,23 @@
       "publishedAt": "2026-10-29T19:35:00+01:00",
       "scheduledFor": "2026-10-29T19:35:00+01:00",
       "pretest": true,
-      "arm": "koerper"
+      "arm": "koerper",
+      "stats": {
+        "h48": {
+          "fetchedAt": "2026-11-03T18:55+01:00",
+          "note": "verspätet abgerufen (~5 Tage statt 48 h)",
+          "instagram": {
+            "reach": 45,
+            "views": 71,
+            "avgWatchTimeS": 4.99,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0
+          },
+          "tiktok": null
+        }
+      }
     },
     {
       "id": "R002",
@@ -80,7 +96,23 @@
       },
       "publishedAt": "2026-10-30T19:30:00+01:00",
       "pretest": true,
-      "arm": "portraet"
+      "arm": "portraet",
+      "stats": {
+        "h48": {
+          "fetchedAt": "2026-11-03T18:55+01:00",
+          "note": "verspätet abgerufen (~95 h statt 48 h)",
+          "instagram": {
+            "reach": 133,
+            "views": 192,
+            "avgWatchTimeS": 4.032,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0
+          },
+          "tiktok": null
+        }
+      }
     },
     {
       "id": "P001",
@@ -120,13 +152,29 @@
         }
       },
       "publishedAt": "2026-10-31T19:30:00+01:00",
-      "pretest": true
+      "pretest": true,
+      "stats": {
+        "h48": {
+          "fetchedAt": "2026-11-03T18:55+01:00",
+          "note": "verspätet abgerufen (~71 h statt 48 h)",
+          "instagram": {
+            "reach": 2,
+            "views": 3,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 2,
+            "follows": 0
+          },
+          "tiktok": null
+        }
+      }
     },
     {
       "id": "R003",
       "type": "reel",
       "format": "F6 Event-Auftritt (b) Fotowand mit Paparazzi · Sonntag",
-      "status": "scheduled",
+      "status": "published",
       "title": "WHO IS HE?? caught between the flashes",
       "scene": "Erfundenes Abend-Event, neutrale schwarze Fotowand ohne Logos, Fotografen (erfundene Erwachsene) im Vordergrund mit Blitzlicht; schwarzer Smoking mit Satinrevers, weißes Hemd offen; frontal, schaut zu Fotografen, dann in Kamera, knöpft Sakko zu",
       "files": {
@@ -150,10 +198,37 @@
           "tiktok"
         ],
         "aiLabel": true,
-        "mediaCommit": "5169233dab22ab35de60f13d6a5e4cd0ba325f35"
+        "mediaCommit": "5169233dab22ab35de60f13d6a5e4cd0ba325f35",
+        "urls": {
+          "instagram": "https://www.instagram.com/reel/DfNYYVUFOwm/",
+          "tiktok": "https://www.tiktok.com/@lorenzovalenti.life/video/7703272430759841046"
+        }
       },
       "pretest": true,
-      "arm": "mode"
+      "arm": "mode",
+      "publishedAt": "2026-11-01T19:30:00+01:00"
+    },
+    {
+      "id": "V001",
+      "type": "photo",
+      "arm": "vorrat",
+      "series": "Lorenzo's Wardrobe",
+      "status": "sending",
+      "format": "Vorrat-Post (Di) · Farbregel",
+      "title": "Navy, stone, olive: three colours that always work",
+      "idea": "Farbregel Navy · Stein · Oliv als nachmachbare Herbstkombination",
+      "scene": "Ruhige Mailänder Kopfsteinpflaster-Gasse, grauer Novembernachmittag; lehnt mit Schulter an ockerfarbener Steinwand, Ganzkörper leicht schräg, Hand in Hosentasche, olivgrüner Wollmantel über dem Unterarm; navy Merino-Rundhalspullover, steinbeige Bundfaltenhose aus Wolle, dunkelbraune Wildleder-Loafer; Blick in Kamera",
+      "files": {
+        "photo": "posts/V001/photo.jpg",
+        "tiktokVideo": "posts/V001/tiktok.mp4"
+      },
+      "createdAt": "2026-11-03",
+      "costUsd": 0.8,
+      "costDetail": "2x Nano Banana Pro 2K 4:5 (2 x 0,402 $); Vorrat war leer, zweite Variante als S001 in den Vorrat; TikTok-Zoomvideo per ffmpeg mit italian_night_house_01.mp3 (kostenlos)",
+      "elevenlabsFlow": "plx6HQXdPKgL9oNLLuVY",
+      "caption": "Navy, stone, olive. Three quiet colours that never fight each other, so you can get dressed in the dark in November.\n\nNavy knit on top, stone wool trousers, and the olive coat for when the wind picks up. Brown suede shoes tie it together.\n\nWhich of the three would you wear first?\n\n#italianstyle #menswear #autumnoutfit #milanstyle #colorcombination #aiinfluencer",
+      "tiktokTitle": "Navy, stone, olive: the Italian autumn colour rule 🇮🇹",
+      "scheduledFor": "2026-11-03T19:30:00+01:00"
     }
   ],
   "test": {
@@ -163,5 +238,17 @@
     "plan": "Mo/Mi/Fr Reel (Arme mode/koerper/portraet je 4x), Sa Karussell (4x)",
     "details": "STRATEGIE.md"
   },
-  "stock": []
+  "stock": [
+    {
+      "id": "S001",
+      "file": "posts/stock/S001.jpg",
+      "status": "stock",
+      "series": "Lorenzo's Wardrobe",
+      "scene": "Wie V001 (Mailänder Gasse, Navy/Stein/Oliv), gespiegelte Ansicht: lehnt rechts an Steinwand neben Holztür, Roller links, Mantel über linkem Arm",
+      "note": "Nicht direkt nach V001 posten (gleiche Szene)",
+      "createdAt": "2026-11-03",
+      "generationId": "xirkZqTcgglBTBwcvG4O",
+      "flow": "plx6HQXdPKgL9oNLLuVY"
+    }
+  ]
 }
