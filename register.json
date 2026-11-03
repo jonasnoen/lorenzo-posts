@@ -263,7 +263,56 @@
     "plan": "Mo/Mi/Fr Reel (Arme mode/koerper/portraet je 4x), Sa Karussell (4x)",
     "details": "STRATEGIE.md"
   },
-  "stock": [],
+  "stock": [
+    {
+      "id": "S016",
+      "date": "2026-11-04",
+      "file": "posts/stock/S016.jpg",
+      "scene": "Altstadtgasse, weißes Hemd offen, braune Hosenträger, anthrazit Bundfaltenhose",
+      "serie": "Lorenzo's Wardrobe",
+      "status": "stock",
+      "generationId": "tppA4iIsPUXWTqRNsnZk",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0.5
+    },
+    {
+      "id": "S017",
+      "date": "2026-11-04",
+      "file": "posts/stock/S017.jpg",
+      "scene": "Palazzo-Treppe abends, dunkelblauer Zweireiher, weißes Hemd offen",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "u9yE02DO3AxU29gKx0Zv",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0.5
+    },
+    {
+      "id": "S018",
+      "date": "2026-11-04",
+      "file": "posts/stock/S018.jpg",
+      "scene": "Promenade morgens nach dem Laufen, schwarzes Haarband, weißes Tanktop",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "5v6CCFj3KmOMoUXI3TC4",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0.5
+    },
+    {
+      "id": "S019",
+      "date": "2026-11-04",
+      "file": "posts/stock/S019.jpg",
+      "scene": "Holzboot in türkiser Bucht, Leinenhemd offen, Leinenhose, Goldkette",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "mg1oabW5G1aaOkLRP8L1",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0.5
+    }
+  ],
   "stockArchive": {
     "note": "Alte Vorrat-Bilder S001–S015 (alte Gesichter) am 04.11.2026 auf Wunsch des Nutzers gelöscht, nur noch in der Git-Historie.",
     "ids": [
