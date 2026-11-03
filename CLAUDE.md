@@ -23,7 +23,8 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   - `ref_f_oberkoerperfrei_2026-11-03.jpg` = **feste Körperreferenz (vom Nutzer bestätigt 23:30)**, IMMER als drittes Bild
     anhängen: Frontalansicht vor weißer Wand, oberkörperfrei, Muskelmasse und Proportionen verbindlich.
   - Lieblingsbild des Nutzers (Blick + Körper): Vorrat S013 (Balkon, offenes Leinenhemd, Golden Hour). Diesen intensiven,
-    ruhigen Blick in die Kamera als Standard-Mimik nehmen.
+    ruhigen Blick in die Kamera als Standard-Mimik nehmen. ABER: S013 wirkt dem Nutzer zu weichgezeichnet. Nie
+    Weichzeichner-/Glow-Look: immer „sharp focus, crisp detail, no soft focus, no glow, no haze, no dreamy filter“ in den Prompt.
   - Herkunft: `ref_sitzend_2026-11-03d.png` (ChatGPT-Gesicht des Nutzers), `ref_ganzkoerper_2026-11-03c.png`.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
@@ -32,7 +33,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 - Bei JEDER Bildgenerierung genau diese zwei anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
-- Natürlich wirken lassen: „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
+- Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
   kleine Unregelmäßigkeiten, „no airbrushing, no beauty filter, normal phone colours, slight noise“.
 - Immer **frisch aus den Referenzen** generieren, keine Bearbeitungsketten (Bild → Edit → Edit macht das Gesicht künstlich).
 - Look: natürliches Handyfoto, weiches natürliches Licht, echte Haut, nicht überretuschiert, kein Plastik-Look.
