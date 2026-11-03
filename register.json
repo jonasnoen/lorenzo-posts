@@ -9,6 +9,11 @@
       "date": "2026-10-29",
       "what": "Profilbild-Varianten (4x Nano Banana Pro) und realistische Turnaround-Referenz (2x)",
       "costUsd": 2.01
+    },
+    {
+      "date": "2026-11-03",
+      "what": "Referenzsuche Lorenzo neues Gesicht (Gemini/Seedream/Flux/GPT-Tests)",
+      "costUsd": 3.17
     }
   ],
   "posts": [
@@ -257,10 +262,10 @@
     {
       "id": "S001",
       "file": "posts/stock/S001.jpg",
-      "status": "stock",
+      "status": "retired",
       "series": "Lorenzo's Wardrobe",
       "scene": "Wie V001 (Mailänder Gasse, Navy/Stein/Oliv), gespiegelte Ansicht: lehnt rechts an Steinwand neben Holztür, Roller links, Mantel über linkem Arm",
-      "note": "Nicht direkt nach V001 posten (gleiche Szene)",
+      "note": "altes Gesicht, nicht posten",
       "createdAt": "2026-11-03",
       "generationId": "xirkZqTcgglBTBwcvG4O",
       "flow": "plx6HQXdPKgL9oNLLuVY"
@@ -271,10 +276,11 @@
       "file": "posts/stock/S002.jpg",
       "scene": "Küstenterrasse, offenes weißes Leinenhemd, Halbtotale, Golden Hour",
       "serie": "Milano to Amalfi",
-      "status": "stock",
+      "status": "retired",
       "generationId": "jt9Y6LnjXMjyOKvdUHNP",
       "reference": "ref_gesicht_2026-11-03_v27.png",
-      "costUsd": 0.4
+      "costUsd": 0.4,
+      "note": "altes Gesicht, nicht posten"
     },
     {
       "id": "S003",
@@ -282,10 +288,11 @@
       "file": "posts/stock/S003.jpg",
       "scene": "Café Mailand, cremefarbenes Strick-Polo, Espresso, Dreiviertel",
       "serie": "Lorenzo's Wardrobe",
-      "status": "stock",
+      "status": "retired",
       "generationId": "Q4u2pDleya9nONfCyXMH",
       "reference": "ref_gesicht_2026-11-03_v27.png",
-      "costUsd": 0.4
+      "costUsd": 0.4,
+      "note": "altes Gesicht, nicht posten"
     },
     {
       "id": "S004",
@@ -293,10 +300,59 @@
       "file": "posts/stock/S004.jpg",
       "scene": "Felsstrand, kommt aus dem Meer, oberkörperfrei, Ganzkörper",
       "serie": "A moment with Lorenzo",
-      "status": "stock",
+      "status": "retired",
       "generationId": "5hHDEnk0Ecyaihf79pnk",
       "reference": "ref_gesicht_2026-11-03_v27.png",
-      "costUsd": 0.4
+      "costUsd": 0.4,
+      "note": "altes Gesicht, nicht posten"
+    },
+    {
+      "id": "S005",
+      "date": "2026-11-03",
+      "file": "posts/stock/S005.jpg",
+      "scene": "Holzboot in Bucht, nach dem Schwimmen, Handtuch über Schulter, oberkörperfrei",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "jdusC4SHSXNpxWL4SOjm",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S006",
+      "date": "2026-11-03",
+      "file": "posts/stock/S006.jpg",
+      "scene": "Altstadtgasse, hellblaues Leinenhemd offen, Blick über die Schulter",
+      "serie": "Lorenzo's Wardrobe",
+      "status": "stock",
+      "generationId": "dVp3hYOdEm7H5NnlvCdt",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S007",
+      "date": "2026-11-03",
+      "file": "posts/stock/S007.jpg",
+      "scene": "Café Mailand, weißes Hemd offen, Espresso und Croissant (Uhr vor Post auf Logo prüfen)",
+      "serie": "Lorenzo's Wardrobe",
+      "status": "stock",
+      "generationId": "AWWxsEcV2XLJdtEqmaz0",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S008",
+      "date": "2026-11-03",
+      "file": "posts/stock/S008.jpg",
+      "scene": "Abendessen auf Terrasse über dem Meer, schwarzes Hemd, Rotwein, Lichterketten",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "aiIiUvCS4dqGI3VAJkOp",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
     }
   ]
 }
