@@ -15,18 +15,18 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 ## Identität (verbindlich)
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
-- Referenzen in `assets/reference/` (**freigegeben 03.11.2026 22:54: „endlich das ist er“**):
-  - `ref_sitzend_2026-11-03d.png` = **Gesicht (erstes Bild)**: vom Nutzer in ChatGPT erstellt. Markantes Gesicht,
-    kräftige gerade dunkle Brauen, leuchtend eisblaue Augen, scharfer Kiefer, hohe Wangenknochen, leichte Sommersprossen,
-    zerzauste dunkelbraune Locken, ca. 27.
-  - `ref_ganzkoerper_2026-11-03c.png` = **Körper (zweites Bild)**: sehr muskulös, breite runde Schultern, volle Brust,
-    tiefes Sixpack, schmale Taille. Oberkörperfrei immer SO muskulös wie hier.
+- Referenzen in `assets/reference/` (**vom Nutzer gewählt 03.11.2026 23:21**), beide zeigen DENSELBEN Mann:
+  - `ref_e_terrasse_2026-11-03.jpg` (erstes Bild) und `ref_e_strand_2026-11-03.jpg` (zweites Bild): Gesicht wie das
+    ChatGPT-Original (kräftige gerade Brauen, leuchtend eisblaue Augen, scharfer Kiefer, Sommersprossen, zerzauste
+    dunkelbraune Locken, ca. 27) UND der gewünschte Körper (sehr muskulös, volle Brust, breite runde Schultern, tiefes
+    Sixpack, schmale Taille). Muskelmasse genau so, nicht massiger, nicht schlanker.
+  - Herkunft: `ref_sitzend_2026-11-03d.png` (ChatGPT-Gesicht des Nutzers), `ref_ganzkoerper_2026-11-03c.png`.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
 - **Bildmodell: `gpt-image-2`** (dasselbe wie ChatGPT, hält dieses Gesicht als einziges treu), `quality` high,
   `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16. Gemini/Seedream/Flux verändern das Gesicht, nicht verwenden.
 - Bei JEDER Bildgenerierung genau diese zwei anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
-  reference images: keep his face exactly identical to the first image … body like the second image“.
+  reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen: „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
   kleine Unregelmäßigkeiten, „no airbrushing, no beauty filter, normal phone colours, slight noise“.
@@ -87,7 +87,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_sitzend_2026-11-03d.png` + `ref_ganzkoerper_2026-11-03c.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_e_terrasse_2026-11-03.jpg` + `ref_e_strand_2026-11-03.jpg` per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gpt-image-2` (quality high), `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,38 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
