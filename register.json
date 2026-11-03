@@ -389,6 +389,42 @@
       "model": "gpt-image-2",
       "reference": "ref_sitzend_2026-11-03d.png",
       "costUsd": 0.38
+    },
+    {
+      "id": "S012",
+      "date": "2026-11-03",
+      "file": "posts/stock/S012.jpg",
+      "scene": "Klassisches Holzboot in türkiser Bucht, oberkörperfrei, weiße Badeshorts, Sonnenbrille im Haar",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "nWPUbuVhvHob3i15Db5S",
+      "model": "gpt-image-2",
+      "reference": "ref_e",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S013",
+      "date": "2026-11-03",
+      "file": "posts/stock/S013.jpg",
+      "scene": "Steinbalkon Küstenstadt Golden Hour, weißes Leinenhemd ganz offen, dunkle Hose",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "nKLtiNlIkszEg17wQhVy",
+      "model": "gpt-image-2",
+      "reference": "ref_e",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S014",
+      "date": "2026-11-03",
+      "file": "posts/stock/S014.jpg",
+      "scene": "Nahaufnahme im Auto, Sonne auf den Augen, weißes T-Shirt",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "HdPwiN3rSDJ4g1IUNJnT",
+      "model": "gpt-image-2",
+      "reference": "ref_e",
+      "costUsd": 0.38
     }
   ]
 }
