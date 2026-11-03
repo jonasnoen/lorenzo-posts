@@ -15,12 +15,11 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 ## Identität (verbindlich)
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
-- **Referenz-Set g (03.11.2026 23:50, aus dem Gemini-Lieblingsbild S015 gebaut) – IMMER genau diese drei anhängen:**
-  - `ref_g1_gesicht_frontal.jpg` (Gesicht frontal), `ref_g2_gesicht_dreiviertel.jpg` (Gesicht Dreiviertel),
-    `ref_g3_ganzkoerper.jpg` (Ganzkörper oberkörperfrei, Muskelmasse verbindlich).
-  - Aussehen: kräftige gerade dunkle Brauen, hell eisblaue Augen, kräftiger Kiefer, Sommersprossen, kastanienbraune
-    zerzauste Locken mit helleren karamellfarbenen Strähnen (nicht schwarz), ca. 27; sehr muskulös, volle Brust,
-    breite runde Schultern, tiefes Sixpack, schmale Taille.
+- **Referenz-Set i (04.11.2026 00:02, vom Nutzer freigegeben, alle aus `ref_e_terrasse_2026-11-03.jpg`) – IMMER diese drei anhängen:**
+  - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg`, `ref_i3_ganzkoerper.jpg`.
+  - Aussehen: ca. 24–25 (nicht älter machen), kräftige gerade dunkle Brauen, eisblaue Augen, kräftiger Kiefer,
+    Sommersprossen, zerzauste dunkelbraune Locken; sehr muskulös, volle Brust, breite runde Schultern, tiefes Sixpack.
+  - Überholt: Set g (`ref_g*.jpg`, wirkte zu alt), Set h.
   - Ältere Quellen (nur Herkunft, nicht anhängen): `ref_e_terrasse_2026-11-03.jpg`, `ref_e_strand_2026-11-03.jpg`,
     `ref_f_oberkoerperfrei_2026-11-03.jpg`.
   - Lieblingsbild des Nutzers (Blick + Körper): Vorrat S013 (Balkon, offenes Leinenhemd, Golden Hour). Diesen intensiven,
@@ -30,12 +29,12 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
 - **Bildmodell (Nutzer 03.11. 23:44): `gemini-3-pro-image`** (Nano Banana Pro), `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16.
-  Mit dem Referenz-Set g am natürlichsten. Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
+  Modellwahl wird gerade mit Set i neu verglichen (GPT vs. Nano Banana). Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
   `gpt-image-2` (quality high) nur für enge Nahaufnahmen, wenn Gemini das Gesicht verändert.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
   lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
-- Bei JEDER Bildgenerierung genau die drei g-Referenzen anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
+- Bei JEDER Bildgenerierung genau die drei i-Referenzen anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
@@ -97,7 +96,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_g1_gesicht_frontal.jpg` + `ref_g2_gesicht_dreiviertel.jpg` + `ref_g3_ganzkoerper.jpg` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_i1_gesicht_frontal.jpg` + `ref_i2_gesicht_dreiviertel.jpg` + `ref_i3_ganzkoerper.jpg` per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,50 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
