@@ -16,7 +16,8 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
 - **Referenz-Set i (04.11.2026 00:02, vom Nutzer freigegeben, alle aus `ref_e_terrasse_2026-11-03.jpg`) – IMMER diese drei anhängen:**
-  - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg`, `ref_i3_ganzkoerper.jpg`.
+  - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg` (Gesicht) und `ref_i3_koerper_final.png` (Körper,
+    vom Nutzer gewählt 04.11. 00:05: dunkelblaue Leinenhose vor weißer Wand; `ref_i3_ganzkoerper.jpg` ist überholt).
   - Aussehen: ca. 24–25 (nicht älter machen), kräftige gerade dunkle Brauen, eisblaue Augen, kräftiger Kiefer,
     Sommersprossen, zerzauste dunkelbraune Locken; sehr muskulös, volle Brust, breite runde Schultern, tiefes Sixpack.
   - Überholt: Set g (`ref_g*.jpg`, wirkte zu alt), Set h.
@@ -29,7 +30,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
 - **Bildmodell (Nutzer 03.11. 23:44): `gemini-3-pro-image`** (Nano Banana Pro), `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16.
-  Modellwahl wird gerade mit Set i neu verglichen (GPT vs. Nano Banana). Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
+  Mit Set i hält Nano Banana das Gesicht (Vergleich 04.11.); Prompt immer „about 24, do not make him older“. Vorbild-Ergebnis: Vorrat S015 (Balkon, Gemini-Versuch 2, vom Nutzer gewählt).
   `gpt-image-2` (quality high) nur für enge Nahaufnahmen, wenn Gemini das Gesicht verändert.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
@@ -96,7 +97,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_i1_gesicht_frontal.jpg` + `ref_i2_gesicht_dreiviertel.jpg` + `ref_i3_ganzkoerper.jpg` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_i1_gesicht_frontal.jpg` + `ref_i2_gesicht_dreiviertel.jpg` + `ref_i3_koerper_final.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,50 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
