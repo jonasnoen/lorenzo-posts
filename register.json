@@ -13,7 +13,7 @@
     {
       "date": "2026-11-03",
       "what": "Referenzsuche Lorenzo neues Gesicht (Gemini/Seedream/Flux/GPT-Tests)",
-      "costUsd": 3.17
+      "costUsd": 3.55
     }
   ],
   "posts": [
@@ -374,6 +374,18 @@
       "serie": "A moment with Lorenzo",
       "status": "stock",
       "generationId": "yfkoUwGnCGBorsl7KMjf",
+      "model": "gpt-image-2",
+      "reference": "ref_sitzend_2026-11-03d.png",
+      "costUsd": 0.38
+    },
+    {
+      "id": "S011",
+      "date": "2026-11-03",
+      "file": "posts/stock/S011.jpg",
+      "scene": "Ferienhaus-Tür morgens, gerade aufgewacht, oberkörperfrei, Leinenhose, Kaffee (natürlicher als S010, nicht beide hintereinander posten)",
+      "serie": "A moment with Lorenzo",
+      "status": "stock",
+      "generationId": "wlz8yzOnJwF0ptKPRKOG",
       "model": "gpt-image-2",
       "reference": "ref_sitzend_2026-11-03d.png",
       "costUsd": 0.38
