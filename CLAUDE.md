@@ -27,6 +27,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16. Gemini/Seedream/Flux verändern das Gesicht, nicht verwenden.
 - Bei JEDER Bildgenerierung genau diese zwei anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in both
   reference images: keep his face exactly identical to the first image … body like the second image“.
+- Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen: „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
   kleine Unregelmäßigkeiten, „no airbrushing, no beauty filter, normal phone colours, slight noise“.
 - Immer **frisch aus den Referenzen** generieren, keine Bearbeitungsketten (Bild → Edit → Edit macht das Gesicht künstlich).
