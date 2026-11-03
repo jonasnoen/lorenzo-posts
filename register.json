@@ -13,7 +13,7 @@
     {
       "date": "2026-11-03",
       "what": "Referenzsuche Lorenzo neues Gesicht (Gemini/Seedream/Flux/GPT-Tests)",
-      "costUsd": 3.93
+      "costUsd": 5.0
     }
   ],
   "posts": [
@@ -412,7 +412,9 @@
       "generationId": "nKLtiNlIkszEg17wQhVy",
       "model": "gpt-image-2",
       "reference": "ref_e",
-      "costUsd": 0.38
+      "costUsd": 0.38,
+      "favorite": true,
+      "note": "Lieblingsbild des Nutzers: Blick und Körper"
     },
     {
       "id": "S014",

@@ -20,6 +20,10 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
     ChatGPT-Original (kräftige gerade Brauen, leuchtend eisblaue Augen, scharfer Kiefer, Sommersprossen, zerzauste
     dunkelbraune Locken, ca. 27) UND der gewünschte Körper (sehr muskulös, volle Brust, breite runde Schultern, tiefes
     Sixpack, schmale Taille). Muskelmasse genau so, nicht massiger, nicht schlanker.
+  - `ref_f_oberkoerperfrei_2026-11-03.jpg` (drittes Bild, bei Körper-/Oberkörperfrei-Szenen zusätzlich anhängen):
+    Frontalansicht vor weißer Wand, oberkörperfrei, Muskelmasse und Proportionen verbindlich.
+  - Lieblingsbild des Nutzers (Blick + Körper): Vorrat S013 (Balkon, offenes Leinenhemd, Golden Hour). Diesen intensiven,
+    ruhigen Blick in die Kamera als Standard-Mimik nehmen.
   - Herkunft: `ref_sitzend_2026-11-03d.png` (ChatGPT-Gesicht des Nutzers), `ref_ganzkoerper_2026-11-03c.png`.
   - Überholt, NICHT mehr anhängen: `ref_gesicht_2026-11-03*.png`, `ref_b_koerper_ohne_kopf.png`, `ref_koerper_ohne_kopf_2026-11-03c.png`, `ref_a.png`, `ref_b.png`, `turnaround_a.jpg`.
   - `profil.jpg` = aktuelles Profilbild (noch altes Gesicht, bei Gelegenheit neu).
@@ -87,7 +91,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_e_terrasse_2026-11-03.jpg` + `ref_e_strand_2026-11-03.jpg` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: Flow anlegen, `ref_e_terrasse_2026-11-03.jpg` + `ref_e_strand_2026-11-03.jpg` (+ bei Körperszenen `ref_f_oberkoerperfrei_2026-11-03.jpg`) per `creative_attach_reference_file` (Raw-URL) anhängen,
    Bildknoten `gpt-image-2` (quality high), `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,38 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
