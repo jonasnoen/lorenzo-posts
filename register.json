@@ -14,6 +14,11 @@
       "date": "2026-11-03",
       "what": "Referenzsuche Lorenzo neues Gesicht (Gemini/Seedream/Flux/GPT-Tests)",
       "costUsd": 11.19
+    },
+    {
+      "date": "2026-11-04",
+      "what": "4 Looks (Nano Banana) + 3 Reel-Tests (Kling 3 Pro, Boot verworfen)",
+      "costUsd": 3.68
     }
   ],
   "posts": [
@@ -332,5 +337,21 @@
       "S014",
       "S015"
     ]
-  }
+  },
+  "reelDrafts": [
+    {
+      "id": "RD1",
+      "look": "Hosenträger",
+      "start": "posts/reel-tests/start-hosentraeger.jpg",
+      "generationId": "YVKrh9sJGFCasoFjecIT",
+      "status": "vom Nutzer gut befunden, Musik fehlt"
+    },
+    {
+      "id": "RD2",
+      "look": "Anzug",
+      "start": "posts/reel-tests/start-anzug.jpg",
+      "generationId": "TaIGRta5fdSkEbwyGt65",
+      "status": "vom Nutzer gut befunden, Musik fehlt"
+    }
+  ]
 }
