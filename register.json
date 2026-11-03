@@ -213,7 +213,7 @@
       "type": "photo",
       "arm": "vorrat",
       "series": "Lorenzo's Wardrobe",
-      "status": "sending",
+      "status": "scheduled",
       "format": "Vorrat-Post (Di) · Farbregel",
       "title": "Navy, stone, olive: three colours that always work",
       "idea": "Farbregel Navy · Stein · Oliv als nachmachbare Herbstkombination",
@@ -228,7 +228,22 @@
       "elevenlabsFlow": "plx6HQXdPKgL9oNLLuVY",
       "caption": "Navy, stone, olive. Three quiet colours that never fight each other, so you can get dressed in the dark in November.\n\nNavy knit on top, stone wool trousers, and the olive coat for when the wind picks up. Brown suede shoes tie it together.\n\nWhich of the three would you wear first?\n\n#italianstyle #menswear #autumnoutfit #milanstyle #colorcombination #aiinfluencer",
       "tiktokTitle": "Navy, stone, olive: the Italian autumn colour rule 🇮🇹",
-      "scheduledFor": "2026-11-03T19:30:00+01:00"
+      "scheduledFor": "2026-11-03T19:30:00+01:00",
+      "metricool": {
+        "blogId": 7732285,
+        "aiLabel": true,
+        "mediaCommit": "34efc0b5aa4f2548bc5d9208212e17a5e4ae5ac4",
+        "instagram": {
+          "postId": 415595791,
+          "uuid": "-7238285475171446864",
+          "type": "POST"
+        },
+        "tiktok": {
+          "postId": 415595811,
+          "uuid": "-2673786688812200502",
+          "type": "video (6 s Zoom)"
+        }
+      }
     }
   ],
   "test": {
