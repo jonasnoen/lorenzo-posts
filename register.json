@@ -26,7 +26,7 @@
       "id": "R001",
       "type": "reel",
       "format": "crowd-night",
-      "status": "published",
+      "status": "deleted",
       "title": "POV: you take him out in Florence",
       "files": {
         "video": "posts/R001/reel.mp4",
@@ -70,13 +70,14 @@
           "tiktok": null
         }
       },
-      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)",
+      "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
     },
     {
       "id": "R002",
       "type": "reel",
       "format": "F2 walk-in (Blickkontakt, Loop)",
-      "status": "published",
+      "status": "deleted",
       "title": "POV: he said meet me at the harbour",
       "scene": "Hafenpromenade eines Küstendorfs zur blauen Stunde, Lichterketten, Fischerboote; weißes Leinenhemd, beige Leinenhose, Wildleder-Loafer; frontal, läuft auf Kamera zu",
       "files": {
@@ -124,13 +125,14 @@
           "tiktok": null
         }
       },
-      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)",
+      "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
     },
     {
       "id": "P001",
       "type": "photo",
       "format": "Foto (Sa) · Terrasse zur goldenen Stunde",
-      "status": "published",
+      "status": "deleted",
       "title": "Espresso on a rooftop terrace at golden hour",
       "scene": "Dachterrasse einer italienischen Hügelstadt zur goldenen Stunde, Ziegeldächer, Glockenturm, Zitronenbäumchen und Geranien; salbeigrünes Leinenhemd, cremefarbene Leinenhose, braune Loafer; sitzt frontal auf Steinmauer mit Espresso, Blick in Kamera",
       "files": {
@@ -181,13 +183,14 @@
           "tiktok": null
         }
       },
-      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)",
+      "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
     },
     {
       "id": "R003",
       "type": "reel",
       "format": "F6 Event-Auftritt (b) Fotowand mit Paparazzi · Sonntag",
-      "status": "published",
+      "status": "deleted",
       "title": "WHO IS HE?? caught between the flashes",
       "scene": "Erfundenes Abend-Event, neutrale schwarze Fotowand ohne Logos, Fotografen (erfundene Erwachsene) im Vordergrund mit Blitzlicht; schwarzer Smoking mit Satinrevers, weißes Hemd offen; frontal, schaut zu Fotografen, dann in Kamera, knöpft Sakko zu",
       "files": {
@@ -220,14 +223,15 @@
       "pretest": true,
       "arm": "mode",
       "publishedAt": "2026-11-01T19:30:00+01:00",
-      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)"
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie)",
+      "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
     },
     {
       "id": "V001",
       "type": "photo",
       "arm": "vorrat",
       "series": "Lorenzo's Wardrobe",
-      "status": "scheduled",
+      "status": "deleted",
       "format": "Vorrat-Post (Di) · Farbregel",
       "title": "Navy, stone, olive: three colours that always work",
       "idea": "Farbregel Navy · Stein · Oliv als nachmachbare Herbstkombination",
@@ -258,7 +262,8 @@
           "type": "video (6 s Zoom)"
         }
       },
-      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie; Plan war 03.11. 19:30)"
+      "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie; Plan war 03.11. 19:30)",
+      "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
     }
   ],
   "test": {
