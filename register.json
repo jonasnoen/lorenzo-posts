@@ -287,6 +287,26 @@
       "metricoolId": 418854847,
       "metricoolUuid": "1995933685303100336",
       "scheduledFor": "2026-11-06T19:30:00+01:00"
+    },
+    {
+      "id": "R005",
+      "planFor": "2026-11-11",
+      "type": "reel",
+      "arm": "mode",
+      "series": "Milano to Amalfi",
+      "scene": "Palazzo-Treppe abends, dunkelblauer Zweireiher, weißes Hemd offen, braune Loafer",
+      "source": "freigegeben aus verwendbar/videos/lorenzo-reel-anzug.mp4",
+      "hook": [
+        "Navy double-breasted.",
+        "No tie needed."
+      ],
+      "music": "assets/music/songs/rauw-alejandro-todo-de-ti.m4a",
+      "file": "posts/R005/reel.mp4",
+      "cover": "posts/R005/cover.jpg",
+      "caption": "A navy double-breasted suit does the dressing for you. Keep the shirt white and open at the collar, skip the tie, and let brown loafers soften it for an evening walk instead of a meeting. Tie or no tie with a suit like this?\n\n#mensstyle #italianstyle #doublebreasted #navysuit #classicmenswear",
+      "tiktokTitle": "Navy double-breasted, no tie",
+      "costUsd": 0,
+      "status": "ready"
     }
   ],
   "test": {

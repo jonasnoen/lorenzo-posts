@@ -77,7 +77,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Nach `test.to`: Endauswertung schreiben, dann so weitermachen, bis der Nutzer den neuen Mix festlegt.
 - Höchstens ein Post pro Tag. Vorher in Metricool und `register.json` prüfen, ob heute schon etwas geplant
   oder veröffentlicht ist. Wenn ja: nichts tun.
-- Ein Eintrag in `posts` mit Status `ready` wird zuerst verwendet (egal welcher Wochentag). `stock`-Einträge nur an Vorrat-Tagen.
+- Ein Eintrag in `posts` mit Status `ready` wird zuerst verwendet (egal welcher Wochentag). Hat er ein Feld `planFor`, dann NUR an genau diesem Datum; Datei, Hook, Musik und Caption sind dann fertig, nur noch planen. `stock`-Einträge nur an Vorrat-Tagen.
 - Ist das Budget erreicht: nur noch Fotos aus günstigen Läufen oder gar nichts; nie überziehen.
 
 ## Budget (Pflicht)
