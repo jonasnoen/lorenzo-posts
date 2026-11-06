@@ -22,7 +22,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
     schmale Taille. Mimik: ruhiger, intensiver Blick, subtiles Halblächeln mit geschlossenem Mund.
   - Nie Weichzeichner-/Glow-Look: immer „sharp focus, crisp detail, no soft focus, no glow, no haze“ in den Prompt.
   - Alle älteren Referenzbilder und Vorrat-Bilder S001–S015 am 04.11. auf Wunsch gelöscht (nur Git-Historie).
-    Videos bleiben. `profil.jpg` = altes Profilbild, muss erneuert werden.
+    Videos bleiben. `profil.jpg` = Profilbild seit 06.11. (enger Ausschnitt aus dem Gassen-Foto S016).
 - **Bildmodell (Nutzer 03.11. 23:44): `gemini-3-pro-image`** (Nano Banana Pro), `resolution` 2K, `aspect_ratio` 4:5 bzw. 9:16.
   Mit Set i hält Nano Banana das Gesicht (Vergleich 04.11.); Prompt immer „about 24, do not make him older“.
   `gpt-image-2` (quality high) nur für enge Nahaufnahmen, wenn Gemini das Gesicht verändert.
