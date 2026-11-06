@@ -66,7 +66,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Reels rotieren über drei Arme (`"arm"`: `mode`, `koerper`, `portraet`), bis jeder Arm 4 Reels hat; nie zweimal
   hintereinander derselbe Arm. Karussell = Serie „Milano to Amalfi“ oder „Lorenzo's Wardrobe“. Siehe `STRATEGIE.md`.
 - **Vorrat-Post (Di/Do/So)**: KEIN Video generieren. Ein Bild aus dem Vorrat (`register.json` → `stock`, Status
-  `stock`) als Foto-Post: Instagram 4:5 Bild, TikTok 6-s-Zoom-Video mit Musik aus `assets/music/` (ffmpeg, kostenlos).
+  `stock`) als Foto-Post: Instagram 4:5 Bild, TikTok 6-s-Zoom-Video mit einem Song aus `assets/music/songs/` (ffmpeg, kostenlos).
   Gibt es keinen passenden Vorrat: EIN Foto erzeugen (2 Varianten, ≈ 0,80 $), die zweite gute Variante in den Vorrat.
   Vorrat-Posts zählen zu keinem Test-Arm (`"arm": "vorrat"`) und gehören thematisch zu einer der drei Serien.
 - **Vorrat aufbauen**: Bei jedem Reel- und Karussell-Lauf alle guten, nicht verwendeten Varianten (ansehen: Gesicht,
@@ -82,7 +82,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 ## Budget (Pflicht)
 
-- Limit: **50 USD pro Kalendermonat** für alle Generierungen (Bild, Video, Musik), siehe `register.json`.
+- Limit: **50 € pro Kalendermonat (gerechnet als 50 USD, liegt sicher darunter)** für alle Generierungen (Bild, Video, Musik), siehe `register.json`.
 - Vor jeder bezahlten Generierung: Summe `costUsd` des laufenden Monats + Schätzung (`estimate_only`) prüfen.
   Würde das Limit überschritten: nicht generieren, im Bericht melden.
 - Tatsächliche Kosten (aus der ElevenLabs-Antwort, `price_cents`) im Eintrag als `costUsd` speichern.
@@ -118,9 +118,13 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
    `creative_add_flow_asset_node` (generation_id) an Port `start_frame`. Erst `estimate_only`, dann starten.
 3. Video herunterladen, Einzelbilder ansehen (Gesicht stabil, keine Verformungen). Bei Fehlern höchstens EIN
    neuer Versuch.
-4. Schnitt mit `scripts/edit_reel.sh roh.mp4 "Hook Zeile 1" "Zeile 2" posts/<ID>/reel.mp4 [musik] [atmo]`:
-   kurzer Zoom-In, Hook-Text oben (erste 3 s), Musik aus `assets/music/` (oder neu generiert, instrumental) +
-   leise Atmo, Ausblenden am Ende, 1080×1920. Passende neue Musik/Atmo nach `assets/music/` legen.
+4. Schnitt mit `scripts/edit_reel.sh roh.mp4 "Hook Zeile 1" "Zeile 2" posts/<ID>/reel.mp4 <song> assets/music/stille.mp3`:
+   kurzer Zoom-In, Hook-Text oben (erste 3 s), Ausblenden am Ende, 1080×1920.
+   **Musik (Entscheidung des Nutzers 06.11.2026, sein Risiko, nicht erneut infrage stellen):** Songs aus
+   `assets/music/songs/` (12-s-Ausschnitte der vom Nutzer gekauften Songs, Liste in `songs.json`). Claude wählt passend
+   zur Szene, kein Song zweimal innerhalb von 10 Tagen (in `register.json` Feld `music` prüfen). Als Atmo
+   `assets/music/stille.mp3` (keine Straßengeräusche über Songs). Auch die TikTok-Zoom-Videos der Vorrat-Posts bekommen
+   einen Song. Nach 2 Wochen (ab 20.11.) mit dem Nutzer auswerten, welche Songs laufen. Komplette Songs NIE ins Repo.
 
 ## Veröffentlichen über Metricool
 

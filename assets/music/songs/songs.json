@@ -1,0 +1,122 @@
+[
+  {
+    "file": "assets/music/songs/ayra-starr-rush.m4a",
+    "title": "Ayra Starr - Rush",
+    "clipStart": 128.0,
+    "songLength": 186
+  },
+  {
+    "file": "assets/music/songs/baile-inolvidable-bad-bunny.m4a",
+    "title": "BAILE INoLVIDABLE - Bad Bunny",
+    "clipStart": 301.0,
+    "songLength": 368
+  },
+  {
+    "file": "assets/music/songs/bad-bunny-dtmf.m4a",
+    "title": "Bad Bunny - DtMF",
+    "clipStart": 135.0,
+    "songLength": 240
+  },
+  {
+    "file": "assets/music/songs/bad-bunny-nuevayol.m4a",
+    "title": "Bad Bunny - NUEVAYoL",
+    "clipStart": 155.0,
+    "songLength": 186
+  },
+  {
+    "file": "assets/music/songs/bad-bunny-chencho-corleone-me-porto-bonito.m4a",
+    "title": "Bad Bunny, Chencho Corleone – Me Porto Bonito",
+    "clipStart": 51.0,
+    "songLength": 186
+  },
+  {
+    "file": "assets/music/songs/daddy-yankee-gasolina.m4a",
+    "title": "Daddy Yankee - Gasolina",
+    "clipStart": 157.0,
+    "songLength": 193
+  },
+  {
+    "file": "assets/music/songs/eslabo-armado-peso-pluma-ella-baila-sola.m4a",
+    "title": "Eslabo Armado, Peso Pluma - Ella Baila Sola",
+    "clipStart": 54.0,
+    "songLength": 166
+  },
+  {
+    "file": "assets/music/songs/feid-atl-jacob-luna.m4a",
+    "title": "Feid, ATL Jacob - Luna",
+    "clipStart": 68.0,
+    "songLength": 197
+  },
+  {
+    "file": "assets/music/songs/j-balvin-willy-william-mi-gente.m4a",
+    "title": "J Balvin, Willy William – Mi Gente",
+    "clipStart": 40.0,
+    "songLength": 187
+  },
+  {
+    "file": "assets/music/songs/justin-bieber-peaches-ft-daniel-caesar-giveon.m4a",
+    "title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+    "clipStart": 154.0,
+    "songLength": 198
+  },
+  {
+    "file": "assets/music/songs/karol-g-provenza.m4a",
+    "title": "KAROL G - PROVENZA",
+    "clipStart": 174.0,
+    "songLength": 206
+  },
+  {
+    "file": "assets/music/songs/karol-g-si-antes-te-hubiera-conocido.m4a",
+    "title": "KAROL G - Si Antes Te Hubiera Conocido",
+    "clipStart": 106.0,
+    "songLength": 195
+  },
+  {
+    "file": "assets/music/songs/karol-g-shakira-tqg.m4a",
+    "title": "KAROL G, Shakira - TQG",
+    "clipStart": 128.0,
+    "songLength": 198
+  },
+  {
+    "file": "assets/music/songs/karol-g-bichota.m4a",
+    "title": "Karol G - Bichota",
+    "clipStart": 107.0,
+    "songLength": 183
+  },
+  {
+    "file": "assets/music/songs/manuel-turizo-la-bachata.m4a",
+    "title": "Manuel Turizo - La Bachata",
+    "clipStart": 86.0,
+    "songLength": 162
+  },
+  {
+    "file": "assets/music/songs/myke-towers-lala.m4a",
+    "title": "Myke Towers - LALA",
+    "clipStart": 116.0,
+    "songLength": 194
+  },
+  {
+    "file": "assets/music/songs/rauw-alejandro-todo-de-ti.m4a",
+    "title": "Rauw Alejandro - Todo de Ti",
+    "clipStart": 94.0,
+    "songLength": 200
+  },
+  {
+    "file": "assets/music/songs/safaera-bad-bunny-x-jowell-randy-x-nengo-flow.m4a",
+    "title": "Safaera - Bad Bunny x Jowell & Randy x Nengo Flow",
+    "clipStart": 219.0,
+    "songLength": 295
+  },
+  {
+    "file": "assets/music/songs/titi-me-pregunto-bad-bunny.m4a",
+    "title": "Titi Me Pregunto - Bad Bunny",
+    "clipStart": 102.0,
+    "songLength": 244
+  },
+  {
+    "file": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+    "title": "Wizkid - Essence  ft. Justin Bieber, Tems",
+    "clipStart": 185.0,
+    "songLength": 265
+  }
+]
