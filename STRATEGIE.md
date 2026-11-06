@@ -34,7 +34,7 @@ Freien, Szenen mit bewundernden Blicken. Immer mit Stil-Bezug in der Caption (z.
 **Fashion-Episode** (Event/Runway/Fotowand, Format F6): höchstens alle zwei Wochen, zählt zum Arm Mode.
 Nachtleben-Crowd wie R001 zählt zum Körper-Arm.
 
-## 4-Wochen-Test (03.11.–30.11.2026)
+## 4-Wochen-Test (Neustart; Zeitraum siehe `register.json` → `test`)
 - **Täglich ein Post**, 19:30 Europe/Berlin: Mo, Mi, Fr Reel; Sa Karussell; **Di, Do, So Vorrat-Post** (Foto aus dem
   Vorrat, kein Video, meist 0 $). Entscheidung des Nutzers vom 03.11.2026: täglich posten, aber an den Vorrat-Tagen
   ohne neue Videogenerierung, damit Budget und Claude-Nutzungslimit reichen.
@@ -62,7 +62,7 @@ Nachtleben-Crowd wie R001 zählt zum Körper-Arm.
   neue Follower. In `register.json` unter `stats.h48` bzw. `stats.d7`. Fehlende Werte als fehlend, nie erfinden.
 - Kennzahlen pro Arm: (Saves + Shares) je Reichweite, Wiedergabezeit, neue Follower je 1.000 Reichweite (nur wenn
   zuordenbar). Gewinner erst ab mindestens 3 Posts je Arm benennen, Konzept dann in neuen Szenen wiederholen.
-- Endauswertung am 30.11.2026 als `auswertung/test-2026-11.md`. Der Nutzer entscheidet danach über den Mix.
+- Endauswertung am Ende des Testzeitraums als `auswertung/test-<monat>.md`. Der Nutzer entscheidet danach über den Mix.
 
 ## Noch offen (nicht ohne Nutzer entscheiden)
 - Endgültige Zielgruppe (A oder B), Sprechvideos/Stimme (erst wenn die Figur Haltung hat), YouTube Shorts als

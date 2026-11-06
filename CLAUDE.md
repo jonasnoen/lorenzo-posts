@@ -55,7 +55,9 @@ Keine Behauptung, dass eine Szene echt passiert ist.
 **Virale Vorlagen:** Format, Bildaufbau, Hook und Bewegung von erfolgreichen Clips übernehmen, aber NIE fremdes
 Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetzen.
 
-## Wochenplan im 4-Wochen-Test (03.11.–30.11.2026, 19:30 Uhr Europe/Berlin)
+## Wochenplan im 4-Wochen-Test (Neustart: Beginn legt der Nutzer fest, siehe `register.json` → `test.from`/`test.to`; 19:30 Uhr Europe/Berlin)
+
+**Neustart 06.11.2026:** Alle alten Posts wurden vom Nutzer gelöscht (in `register.json` Status `deleted`, nicht auswerten). Der Test beginnt neu mit dem Datum in `test.from`. Ist `test.from` leer: nichts posten (pausiert).
 
 | Mo | Di | Mi | Do | Fr | Sa | So |
 |---|---|---|---|---|---|---|
@@ -72,7 +74,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
   Szene, Serie und Status `stock` eintragen. Zusätzlich pro Reel-Lauf EIN extra 4:5-Bild derselben Szene in anderer
   Pose/Einstellung erzeugen (≈ 0,40 $). Ein Vorrat-Bild nie zweimal posten (nach Verwendung Status `used` + Post-ID).
   Nie zwei Tage hintereinander Bilder derselben Szene posten.
-- Nach dem 30.11.: Endauswertung schreiben, dann so weitermachen, bis der Nutzer den neuen Mix festlegt.
+- Nach `test.to`: Endauswertung schreiben, dann so weitermachen, bis der Nutzer den neuen Mix festlegt.
 - Höchstens ein Post pro Tag. Vorher in Metricool und `register.json` prüfen, ob heute schon etwas geplant
   oder veröffentlicht ist. Wenn ja: nichts tun.
 - Ein Eintrag in `posts` mit Status `ready` wird zuerst verwendet (egal welcher Wochentag). `stock`-Einträge nur an Vorrat-Tagen.
@@ -145,7 +147,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
   `formats.md` ergänzen (Muster erst ab zwei Belegen). Keine vidIQ-Suche an anderen Tagen.
 - Event-Format F6 (Runway/Fotowand/Paparazzi) nur als gelegentliche Fashion-Episode, höchstens alle zwei Wochen,
   zählt zum Arm `mode`. Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten.
-- Gewinner erst ab 3 Posts je Arm benennen; Endauswertung am 30.11. nach `STRATEGIE.md`.
+- Gewinner erst ab 3 Posts je Arm benennen; Endauswertung nach `test.to` gemäß `STRATEGIE.md`.
 
 ## Bericht
 

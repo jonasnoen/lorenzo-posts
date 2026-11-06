@@ -268,10 +268,11 @@
   ],
   "test": {
     "name": "4-Wochen-Test Stil + Dolce Vita",
-    "from": "2026-11-03",
-    "to": "2026-11-30",
+    "from": null,
+    "to": null,
     "plan": "Mo/Mi/Fr Reel (Arme mode/koerper/portraet je 4x), Sa Karussell (4x)",
-    "details": "STRATEGIE.md"
+    "details": "STRATEGIE.md",
+    "note": "Neustart 06.11.2026: Nutzer legt Startdatum fest; dann from = Starttag, to = from + 27 Tage. Solange from leer ist, wird nichts gepostet."
   },
   "stock": [
     {
