@@ -264,15 +264,35 @@
       },
       "mediaDeleted": "2026-11-04 (alter Lorenzo, Dateien nur noch in Git-Historie; Plan war 03.11. 19:30)",
       "deletedNote": "Vom Nutzer am 06.11.2026 auf Instagram/TikTok gelöscht (Neustart). Zahlen nicht mehr auswerten."
+    },
+    {
+      "id": "R004",
+      "date": "2026-11-06",
+      "type": "reel",
+      "arm": "mode",
+      "series": "Lorenzo's Wardrobe",
+      "scene": "Altstadtgasse an Steinmauer, weißes Hemd offen, braune Hosenträger, anthrazit Bundfaltenhose",
+      "source": "freigegeben aus verwendbar/videos/lorenzo-reel-hosentraeger.mp4 (Kling-Video vom 04.11.)",
+      "hook": [
+        "Skip the belt.",
+        "Wear suspenders."
+      ],
+      "music": "assets/music/italian_night_house_01.mp3 (eigene ElevenLabs-Musik)",
+      "file": "posts/R004/reel.mp4",
+      "cover": "posts/R004/cover.jpg",
+      "caption": "Suspenders do what a belt can't: the trousers hang from your shoulders, so the front pleats fall straight and the line from shirt to shoe stays clean. Pair them with high-rise trousers with buttons inside the waistband, never clip-ons, and leave the belt at home. Would you wear suspenders on a normal day?\n\n#mensstyle #italianstyle #suspenders #classicmenswear #oldmoneystyle",
+      "tiktokTitle": "Skip the belt, wear suspenders",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "test": {
     "name": "4-Wochen-Test Stil + Dolce Vita",
-    "from": null,
-    "to": null,
+    "from": "2026-11-06",
+    "to": "2026-12-03",
     "plan": "Mo/Mi/Fr Reel (Arme mode/koerper/portraet je 4x), Sa Karussell (4x)",
     "details": "STRATEGIE.md",
-    "note": "Neustart 06.11.2026: Nutzer legt Startdatum fest; dann from = Starttag, to = from + 27 Tage. Solange from leer ist, wird nichts gepostet."
+    "note": "Neustart: Test läuft 06.11.–03.12.2026 (Nutzer-Freigabe 06.11. 13:05)."
   },
   "stock": [
     {
