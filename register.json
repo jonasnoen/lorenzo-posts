@@ -336,7 +336,17 @@
       "model": "gemini-3-pro-image",
       "reference": "set i",
       "costUsd": 2.01,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 420132858,
+        "tiktok": 420132872
+      },
+      "metricoolUuids": {
+        "instagram": "-5611003388679338633",
+        "tiktok": "8277979284716080793"
+      },
+      "scheduledFor": "2026-11-07T19:30:00+01:00",
+      "mediaCommit": "d7a66e910f96d3e2e287af22d066ac1abd44a325"
     }
   ],
   "test": {
