@@ -307,6 +307,36 @@
       "tiktokTitle": "Navy double-breasted, no tie",
       "costUsd": 0,
       "status": "ready"
+    },
+    {
+      "id": "K001",
+      "date": "2026-11-07",
+      "type": "carousel",
+      "arm": "karussell",
+      "series": "Lorenzo's Wardrobe",
+      "scene": "Eine cremefarbene Strick-Polo, drei Looks: Mailänder Gasse mit Navy-Bundfaltenhose + Wildleder-Loafern; Detail Espresso; Amalfi-Terrasse mit weißer Leinenhose + Sandalen; Hafen am Abend mit olivgrüner Overshirt-Jacke",
+      "idea": "Ein Teil, drei Abende: Knit-Polo tucked (Stadt), untucked (Küste), gelayert (Abend)",
+      "files": [
+        "posts/K001/slide1.jpg",
+        "posts/K001/slide2.jpg",
+        "posts/K001/slide3.jpg",
+        "posts/K001/slide4.jpg"
+      ],
+      "tiktokFile": "posts/K001/tiktok.mp4",
+      "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+      "caption": "One cream knit polo, three evenings. In Milan it goes tucked into navy pleated trousers with a brown belt and suede loafers. On the coast it comes out untucked over white linen, and when the air cools, an olive overshirt goes on top. The trick is the fabric: fine knit looks dressed up, but never stiff. Tucked or untucked, which one is you?\n\n#mensstyle #italianstyle #knitpolo #classicmenswear #capsulewardrobe",
+      "tiktokTitle": "One knit polo, three Italian evenings",
+      "elevenlabsFlow": "n4CFbqIn3EcBgQ5svGLp",
+      "generationIds": [
+        "iqxulTApyZQ8eJypLHdi",
+        "UyZm33eOHPTGrfXBiEZP",
+        "VMxhjfsuqZM0JXwKGRwX",
+        "NfcTB2H9IoxyCQidQ5vL"
+      ],
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 2.01,
+      "status": "sending"
     }
   ],
   "test": {
