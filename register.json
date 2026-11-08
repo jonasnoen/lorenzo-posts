@@ -347,6 +347,23 @@
       },
       "scheduledFor": "2026-11-07T19:30:00+01:00",
       "mediaCommit": "d7a66e910f96d3e2e287af22d066ac1abd44a325"
+    },
+    {
+      "id": "V002",
+      "date": "2026-11-08",
+      "type": "photo",
+      "arm": "vorrat",
+      "series": "Milano to Amalfi",
+      "scene": "Holzboot in türkiser Bucht, Leinenhemd offen, Leinenhose, Goldkette",
+      "idea": "Ton-in-Ton-Leinen: Hemd und Hose in derselben Sandfarbe",
+      "stockId": "S019",
+      "file": "posts/V002/post.jpg",
+      "tiktokFile": "posts/V002/tiktok.mp4",
+      "music": "assets/music/songs/karol-g-provenza.m4a",
+      "caption": "Linen shirt and linen trousers in the same sand tone: one colour from collar to ankle makes the whole look calm and longer, and the creases are part of the charm. Keep the shirt open, add one thin chain, and go barefoot on deck. Matching linen set or mixed colours, what's your call?\n\n#mensstyle #italianstyle #linen #summerstyle #amalficoast",
+      "tiktokTitle": "One colour linen, head to toe",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "test": {
@@ -400,11 +417,12 @@
       "file": "posts/stock/S019.jpg",
       "scene": "Holzboot in türkiser Bucht, Leinenhemd offen, Leinenhose, Goldkette",
       "serie": "Milano to Amalfi",
-      "status": "stock",
+      "status": "used",
       "generationId": "mg1oabW5G1aaOkLRP8L1",
       "model": "gemini-3-pro-image",
       "reference": "set i",
-      "costUsd": 0.5
+      "costUsd": 0.5,
+      "usedBy": "V002"
     },
     {
       "id": "S020",
