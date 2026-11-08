@@ -286,7 +286,36 @@
       "status": "scheduled",
       "metricoolId": 418854847,
       "metricoolUuid": "1995933685303100336",
-      "scheduledFor": "2026-11-06T19:30:00+01:00"
+      "scheduledFor": "2026-11-06T19:30:00+01:00",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-08T18:52:00+01:00",
+          "note": "ca. 47 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 106,
+            "views": 145,
+            "avgWatchTimeS": 3.408,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": null
+          },
+          "tiktok": {
+            "views": 1132,
+            "likes": 4,
+            "shares": 0,
+            "comments": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "R005",
@@ -363,7 +392,17 @@
       "caption": "Linen shirt and linen trousers in the same sand tone: one colour from collar to ankle makes the whole look calm and longer, and the creases are part of the charm. Keep the shirt open, add one thin chain, and go barefoot on deck. Matching linen set or mixed colours, what's your call?\n\n#mensstyle #italianstyle #linen #summerstyle #amalficoast",
       "tiktokTitle": "One colour linen, head to toe",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 420939884,
+        "tiktok": 420939907
+      },
+      "metricoolUuids": {
+        "instagram": "-5540155622787889619",
+        "tiktok": "-6037917434546600767"
+      },
+      "scheduledFor": "2026-11-08T19:30:00+01:00",
+      "mediaCommit": "396b8f6689893b067527be839ac86fa25daf6b57"
     }
   ],
   "test": {
