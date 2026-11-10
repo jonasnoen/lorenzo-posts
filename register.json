@@ -477,7 +477,17 @@
       "caption": "Parked by the harbour, waiting for the last of the sun. A plain white tee only works when it fits: shoulder seam on the shoulder bone, sleeve ending mid-bicep, and cotton heavy enough that it doesn't cling. Get those three right and you don't need anything else. Crew neck or V-neck, which do you reach for?\n\n#mensstyle #italianstyle #whitetee #basics #classicmenswear",
       "tiktokTitle": "The white tee that actually fits",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 423477330,
+        "tiktok": 423477356
+      },
+      "metricoolUuids": {
+        "instagram": "9096538622483253392",
+        "tiktok": "192742613754659112"
+      },
+      "scheduledFor": "2026-11-10T19:30:00+01:00",
+      "mediaCommit": "aa147950d8df1d3bd5a448ca10daffd0acf95d66"
     }
   ],
   "test": {
