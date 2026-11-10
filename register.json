@@ -375,7 +375,36 @@
         "tiktok": "8277979284716080793"
       },
       "scheduledFor": "2026-11-07T19:30:00+01:00",
-      "mediaCommit": "d7a66e910f96d3e2e287af22d066ac1abd44a325"
+      "mediaCommit": "d7a66e910f96d3e2e287af22d066ac1abd44a325",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-10T18:55:00+01:00",
+          "note": "verspätet gemessen, ca. 71 h nach Veröffentlichung (11-09 kein Lauf)",
+          "instagram": {
+            "reach": 3,
+            "views": 5,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 1065,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "V002",
@@ -402,7 +431,53 @@
         "tiktok": "-6037917434546600767"
       },
       "scheduledFor": "2026-11-08T19:30:00+01:00",
-      "mediaCommit": "396b8f6689893b067527be839ac86fa25daf6b57"
+      "mediaCommit": "396b8f6689893b067527be839ac86fa25daf6b57",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-10T18:55:00+01:00",
+          "note": "ca. 47 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 3,
+            "views": 7,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 771,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
+    },
+    {
+      "id": "V003",
+      "date": "2026-11-10",
+      "type": "photo",
+      "arm": "vorrat",
+      "series": "A moment with Lorenzo",
+      "scene": "Auto-Selfie-Nahaufnahme, weißes T-Shirt, Hafen im Hintergrund",
+      "idea": "Das weiße T-Shirt, das sitzt: Schulternaht auf dem Schulterknochen, Ärmel Mitte Bizeps, schwere Baumwolle",
+      "stockId": "S021",
+      "file": "posts/V003/post.jpg",
+      "tiktokFile": "posts/V003/tiktok.mp4",
+      "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+      "caption": "Parked by the harbour, waiting for the last of the sun. A plain white tee only works when it fits: shoulder seam on the shoulder bone, sleeve ending mid-bicep, and cotton heavy enough that it doesn't cling. Get those three right and you don't need anything else. Crew neck or V-neck, which do you reach for?\n\n#mensstyle #italianstyle #whitetee #basics #classicmenswear",
+      "tiktokTitle": "The white tee that actually fits",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "test": {
@@ -481,9 +556,10 @@
       "scene": "Auto-Selfie-Nahaufnahme, weißes T-Shirt, Hafen im Hintergrund",
       "sceneTag": "auto",
       "serie": "A moment with Lorenzo",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/e3.jpg)",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "V003"
     },
     {
       "id": "S022",
