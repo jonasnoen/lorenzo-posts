@@ -48,6 +48,10 @@ Inhalte sind ein Testarm (ein Drittel der Reels), nicht die ganze Marke. **Keine
 Captions auf Englisch: Detail erklären oder kleine Geschichte (2–4 Sätze), dann eine echte Frage, 4–6 Hashtags.
 Keine Motivationssprüche, keine echten Marken nennen oder taggen.
 
+**Mehr oberkörperfrei (Nutzer 12.11.2026):** Lorenzo deutlich öfter ohne Shirt zeigen: Arm `koerper` immer oberkörperfrei
+(Strand, Boot, Bucht, Pool, nach dem Schwimmen, Sport), bei Vorrat-Posts oberkörperfreie Bilder bevorzugen, und auch in
+`mode`-Szenen gern offenes Hemd über nacktem Oberkörper. Proportions-Sätze für Körperbilder beachten.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.
