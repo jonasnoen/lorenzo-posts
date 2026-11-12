@@ -52,6 +52,11 @@ Keine Motivationssprüche, keine echten Marken nennen oder taggen.
 (Strand, Boot, Bucht, Pool, nach dem Schwimmen, Sport), bei Vorrat-Posts oberkörperfreie Bilder bevorzugen, und auch in
 `mode`-Szenen gern offenes Hemd über nacktem Oberkörper. Proportions-Sätze für Körperbilder beachten.
 
+**Sexy Posen (Nutzer 12.11.2026):** Lorenzo immer in selbstbewussten, sexy Model-Posen zeigen – z. B. Hand durchs Haar,
+Hemd lässig offen, Schulter zur Kamera gedreht, leicht angespannte Arme/Brust, intensiver Blick in die Kamera mit Halblächeln.
+Im Prompt immer: „He strikes a confident, sexy, masculine model pose (for example running a hand through his hair, one shoulder
+turned towards the camera, an intense look into the lens with a subtle half smile)“. Nichts Explizites, Inhaltsgrenzen bleiben.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.
