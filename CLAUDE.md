@@ -62,7 +62,8 @@ mit glänzender Haut: „his skin has a natural glossy sheen from sunscreen and 
 chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no soft-focus glow“ ersetzen, damit sich beides nicht widerspricht.
 
 **Glamour-Episoden ab und zu (Nutzer 12.11.2026, etwa 1× pro Woche, zählt zum Arm `mode`, abwechselnd):**
-1. **Von Frauen bewundert:** Lorenzo geht z. B. über eine Piazza, eine Hotel-Terrasse oder eine Bootsparty, zwei bis drei erfundene
+1. **Von Frauen bewundert:** Lorenzo läuft in der Stadt (belebte Einkaufsstraße in Mailand, Gasse in Rom, Promenade) an Leuten vorbei –
+   wirkt am natürlichsten; zwei bis drei erfundene
    Frauen (ausdrücklich „adult women in their mid-twenties“) drehen sich nach ihm um, lächeln, flüstern sich etwas zu. Elegant,
    nichts Sexuelles, kein Körperkontakt. Lorenzo blickt in die Kamera.
 2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend.
