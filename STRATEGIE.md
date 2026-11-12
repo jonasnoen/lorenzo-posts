@@ -31,7 +31,7 @@
 
 Dazu: **Körper-Testarm** (Arm Dolce-Vita-Körper): Meer, Schwimmen, Terrasse, offenes Leinenhemd, Training im
 Freien, Szenen mit bewundernden Blicken. Immer mit Stil-Bezug in der Caption (z. B. Badeshorts-Länge, Leinen am Meer).
-**Fashion-/Glamour-Episode** (Format F6, siehe CLAUDE.md): etwa 1× pro Woche, zählt zum Arm Mode – Fashion-Show im Publikum (erste Reihe, Blick in die Kamera), von Frauen bewundert beim Vorbeilaufen in der Stadt, Ankunft aus Limousine. Kein Blitzlicht, keine Paparazzi, keine Fotowand.
+**Fashion-/Glamour-Episode** (Format F6, siehe CLAUDE.md): etwa 1× pro Woche, zählt zum Arm Mode – Fashion-Show im Publikum (erste Reihe, Blick in die Kamera), von Frauen bewundert beim Vorbeilaufen in der Stadt, Ankunft aus Limousine irgendwo im Alltag (nicht bei einem Event). Kein Blitzlicht, keine Paparazzi, keine Fotowand.
 Nachtleben-Crowd wie R001 zählt zum Körper-Arm.
 
 ## 4-Wochen-Test (Neustart; Zeitraum siehe `register.json` → `test`)

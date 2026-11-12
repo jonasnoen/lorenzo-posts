@@ -69,8 +69,9 @@ chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no sof
 2. **Fashion-Show im Publikum (Nutzer 12.11.):** Lorenzo sitzt in der ersten Reihe einer erfundenen Fashion Show, Models laufen
    unscharf im Hintergrund über den Laufsteg, Lorenzo schaut direkt in die Kamera, Augen scharf und gut sichtbar.
    KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
-3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer hält
-   die Tür, Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
+3. **Ankunft aus der Limousine (Nutzer 12.11.):** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen
+   ohne Logo/Markenzeichen – irgendwo im Alltag (vor einem Hotel, Restaurant, am Hafen, auf einer Stadtstraße), NICHT bei einer
+   Fashion Show oder einem Event. Fahrer hält die Tür, normales Tageslicht, Blick in die Kamera. Kein Blitzlicht, keine Paparazzi.
 Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
