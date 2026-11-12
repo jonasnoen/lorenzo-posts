@@ -510,8 +510,17 @@
       "caption": "The sleeves make the shirt. Two wide folds, ending just below the elbow, keep a white linen shirt relaxed without looking sloppy, and the cuff stays visible as a clean band. With navy trousers and the sea behind you, that's the whole outfit. How do you roll your sleeves: neat folds or pushed up?\n\n#mensstyle #italianstyle #linenshirt #summerstyle #amalficoast",
       "tiktokTitle": "How Italians roll their shirt sleeves",
       "costUsd": 0,
-      "status": "sending",
-      "scheduledFor": "2026-11-12T19:30:00+01:00"
+      "status": "scheduled",
+      "scheduledFor": "2026-11-12T19:30:00+01:00",
+      "metricoolIds": {
+        "instagram": 426021731,
+        "tiktok": 426021766
+      },
+      "metricoolUuids": {
+        "instagram": "1048142317675695959",
+        "tiktok": "8683526585153111518"
+      },
+      "mediaCommit": "75146a2d5212e9265b376ee16a477d1297cae29a"
     }
   ],
   "test": {
