@@ -494,6 +494,24 @@
       },
       "scheduledFor": "2026-11-10T19:30:00+01:00",
       "mediaCommit": "aa147950d8df1d3bd5a448ca10daffd0acf95d66"
+    },
+    {
+      "id": "V004",
+      "date": "2026-11-12",
+      "type": "photo",
+      "arm": "vorrat",
+      "series": "Milano to Amalfi",
+      "scene": "Pastellhäuser am Meer, weißes Hemd offen, navy Hose, an Balustrade",
+      "idea": "Der italienische Ärmel-Roll: zwei breite Umschläge knapp unter dem Ellbogen, dazu Weiß + Navy",
+      "stockId": "S022",
+      "file": "posts/V004/post.jpg",
+      "tiktokFile": "posts/V004/tiktok.mp4",
+      "music": "assets/music/songs/manuel-turizo-la-bachata.m4a",
+      "caption": "The sleeves make the shirt. Two wide folds, ending just below the elbow, keep a white linen shirt relaxed without looking sloppy, and the cuff stays visible as a clean band. With navy trousers and the sea behind you, that's the whole outfit. How do you roll your sleeves: neat folds or pushed up?\n\n#mensstyle #italianstyle #linenshirt #summerstyle #amalficoast",
+      "tiktokTitle": "How Italians roll their shirt sleeves",
+      "costUsd": 0,
+      "status": "sending",
+      "scheduledFor": "2026-11-12T19:30:00+01:00"
     }
   ],
   "test": {
@@ -584,9 +602,10 @@
       "scene": "Pastellhäuser am Meer, weißes Hemd offen, navy Hose, an Balustrade",
       "sceneTag": "balustrade-pastell",
       "serie": "Milano to Amalfi",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/g1.jpg)",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "V004"
     },
     {
       "id": "S023",
