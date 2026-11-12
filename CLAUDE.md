@@ -57,6 +57,10 @@ Hemd lässig offen, Schulter zur Kamera gedreht, leicht angespannte Arme/Brust, 
 Im Prompt immer: „He strikes a confident, sexy, masculine model pose (for example running a hand through his hair, one shoulder
 turned towards the camera, an intense look into the lens with a subtle half smile)“. Nichts Explizites, Inhaltsgrenzen bleiben.
 
+**Glänzende Haut ab und zu (Nutzer 12.11.2026):** etwa jedes dritte Bild (v. a. Arm `koerper`, Strand/Boot/Pool/nach dem Sport)
+mit glänzender Haut: „his skin has a natural glossy sheen from sunscreen and the sun, light reflecting on his shoulders,
+chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no soft-focus glow“ ersetzen, damit sich beides nicht widerspricht.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.
