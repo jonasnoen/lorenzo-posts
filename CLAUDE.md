@@ -70,7 +70,7 @@ chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no sof
    unscharf im Hintergrund über den Laufsteg, Lorenzo schaut direkt in die Kamera, Augen scharf und gut sichtbar.
    KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
 3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer hält
-   die Tür Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
+   die Tür, Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
 Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
