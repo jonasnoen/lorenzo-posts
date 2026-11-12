@@ -66,10 +66,11 @@ chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no sof
    wirkt am natürlichsten; zwei bis drei erfundene
    Frauen (ausdrücklich „adult women in their mid-twenties“) drehen sich nach ihm um, lächeln, flüstern sich etwas zu. Elegant,
    nichts Sexuelles, kein Körperkontakt. Lorenzo blickt in die Kamera.
-2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend.
-   Lorenzo schaut direkt in die Kamera, Augen scharf und gut sichtbar.
+2. **Fashion-Show im Publikum (Nutzer 12.11.):** Lorenzo sitzt in der ersten Reihe einer erfundenen Fashion Show, Models laufen
+   unscharf im Hintergrund über den Laufsteg, Lorenzo schaut direkt in die Kamera, Augen scharf und gut sichtbar.
+   KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
 3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer hält
-   die Tür, Blitzlicht, Blick in die Kamera.
+   die Tür Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
 Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
@@ -173,7 +174,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
   („AI influencer, virtual model, virtual creator, AI-generated male model“) und (2) Model-/Event-/Lifestyle-Nische
   („male model, fashion week, runway, red carpet, paparazzi, Italian lifestyle“). Neue Formate als Ideen in
   `formats.md` ergänzen (Muster erst ab zwei Belegen). Keine vidIQ-Suche an anderen Tagen.
-- Event-Format F6 (Runway/Fotowand/Paparazzi) als Glamour-Episode etwa 1× pro Woche (siehe oben),
+- Event-Format F6 (jetzt: Fashion-Show im Publikum, ohne Blitzlicht/Paparazzi) als Glamour-Episode etwa 1× pro Woche (siehe oben),
   zählt zum Arm `mode`. Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten.
 - Gewinner erst ab 3 Posts je Arm benennen; Endauswertung nach `test.to` gemäß `STRATEGIE.md`.
 
