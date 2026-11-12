@@ -61,6 +61,16 @@ turned towards the camera, an intense look into the lens with a subtle half smil
 mit glänzender Haut: „his skin has a natural glossy sheen from sunscreen and the sun, light reflecting on his shoulders,
 chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no soft-focus glow“ ersetzen, damit sich beides nicht widerspricht.
 
+**Glamour-Episoden ab und zu (Nutzer 12.11.2026, etwa 1× pro Woche, zählt zum Arm `mode`, abwechselnd):**
+1. **Von Frauen bewundert:** Lorenzo geht z. B. über eine Piazza, eine Hotel-Terrasse oder eine Bootsparty, zwei bis drei erfundene
+   Frauen (ausdrücklich „adult women in their mid-twenties“) drehen sich nach ihm um, lächeln, flüstern sich etwas zu. Elegant,
+   nichts Sexuelles, kein Körperkontakt. Lorenzo blickt in die Kamera.
+2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend.
+   Lorenzo schaut direkt in die Kamera, Augen scharf und gut sichtbar.
+3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer hält
+   die Tür, Blitzlicht, Blick in die Kamera.
+Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.
@@ -162,7 +172,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
   („AI influencer, virtual model, virtual creator, AI-generated male model“) und (2) Model-/Event-/Lifestyle-Nische
   („male model, fashion week, runway, red carpet, paparazzi, Italian lifestyle“). Neue Formate als Ideen in
   `formats.md` ergänzen (Muster erst ab zwei Belegen). Keine vidIQ-Suche an anderen Tagen.
-- Event-Format F6 (Runway/Fotowand/Paparazzi) nur als gelegentliche Fashion-Episode, höchstens alle zwei Wochen,
+- Event-Format F6 (Runway/Fotowand/Paparazzi) als Glamour-Episode etwa 1× pro Woche (siehe oben),
   zählt zum Arm `mode`. Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten.
 - Gewinner erst ab 3 Posts je Arm benennen; Endauswertung nach `test.to` gemäß `STRATEGIE.md`.
 
