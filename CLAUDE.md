@@ -29,14 +29,19 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
   lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
-- Bei JEDER Bildgenerierung alle vier Referenz-Knoten (i1–i4) des Master-Flows verbinden. Im Prompt: „The same man as in all four
-  reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
+- **KOSTEN-STANDARD (Nutzer 13.11.2026): Referenz-Collage.** Bei JEDER Bildgenerierung NUR den Collage-Knoten `2p8CXjuDNs0iqzFTELoC`
+  („REF Collage Lorenzo (i1–i4)“, Datei `assets/reference/ref_collage_lorenzo.jpg`, 2×2: oben i1 frontal + i2 Dreiviertel, unten i3 Körper + i4 Größe)
+  verbinden – NICHT mehr die vier Einzel-Knoten (≈ 0,30 $ statt 0,60 $ pro Bild, Test S031 bestanden). Die Einzel-Knoten i1–i4 bleiben nur als Reserve im Flow.
+  Prompt-Anfang: „The reference image is a collage of four photos of the same man (same person): top left his face from the front, top right his face in
+  three-quarter view, bottom left his full body, bottom right a photo showing his height (about 2.00 m, a full head taller than the people around him).
+  Keep his face, eyes, eyebrows, hair and his body build exactly as in the collage, including the same muscle size and proportions. Face, head and hair
+  are an exact copy of the top-left photo …“ (Rest wie oben). Vorlage: Knoten `jIGJL1RPcdzeb6TrZwx0`.
 - **Master-Flow in ElevenLabs (Nutzer 13.11.2026, PFLICHT): „Lorenzo · Referenzen (Master)“, flow_id `PhDE8w0Fz0PqYrO08mW5`.**
   Darin liegen NUR seine 3 Referenzen fest als Knoten: i1 Gesicht frontal `RTQLq5OV83lQ1TRTR7En`, i2 Gesicht Dreiviertel
   `aVmY7pT7Ec1LlEBrXzIf`, i3 Körper `S2vV5hsBdm0dkd6xaTJl`, **i4 Größe `HtkRNfkZNXyhJ83Suxk4`** (Nutzer 13.11.: ca. 2,00 m, einen ganzen Kopf größer als alle,
   Leute neben ihm reichen bis zur Schulter – Datei `assets/reference/ref_i4_groesse.jpg`; fester Teil der Referenz-Collage, IMMER
   mit verbinden; bei Szenen mit anderen Personen im Prompt „a full head taller than everyone around him“). ALLE neuen Lorenzo-Bilder und -Videos in DIESEM Flow erzeugen
-  (neuer Bild-/Videoknoten mit `connect_from` auf alle 4 Referenz-Knoten i1–i4), KEINEN neuen Flow anlegen, Referenzen NICHT neu
+  (neuer Bildknoten mit `connect_from` NUR auf den Collage-Knoten `2p8CXjuDNs0iqzFTELoC`), KEINEN neuen Flow anlegen, Referenzen NICHT neu
   anhängen. Nie Bilder anderer Charaktere (Alessia, Kairo) in diesen Flow legen oder damit verbinden.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
@@ -135,15 +140,15 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Vor jeder bezahlten Generierung: Summe `costUsd` des laufenden Monats + Schätzung (`estimate_only`) prüfen.
   Würde das Limit überschritten: nicht generieren, im Bericht melden.
 - Tatsächliche Kosten (aus der ElevenLabs-Antwort, `price_cents`) im Eintrag als `costUsd` speichern.
-- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,60 $ (mit 4 Referenzen i1–i4), GPT Image 2 high ≈ 0,38 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
+- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,30 $ (mit Referenz-Collage; mit 4 Einzel-Referenzen wären es 0,60 $), GPT Image 2 high ≈ 0,38 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
   Musik 12 s ≈ 0,03 $; Geräusch ≈ 0,003 $.
 
 ## Ablauf Foto-Post
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: im Master-Flow `PhDE8w0Fz0PqYrO08mW5` einen neuen Bildknoten anlegen, verbunden mit den 4 Referenz-Knoten i1–i4 (siehe oben),
-   Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,60 $ je Bild).
+2. ElevenLabs: im Master-Flow `PhDE8w0Fz0PqYrO08mW5` einen neuen Bildknoten anlegen, verbunden NUR mit dem Collage-Knoten `2p8CXjuDNs0iqzFTELoC` (siehe oben),
+   Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,30 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
    dann aufgeben und melden.
@@ -162,7 +167,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 ## Ablauf Reel
 
-1. Startbild wie beim Foto, aber `aspect_ratio` **9:16**, 3 Varianten; bestes wählen.
+1. Startbild wie beim Foto, aber `aspect_ratio` **9:16**, 2 Varianten (Nutzer 13.11., spart Geld); bestes wählen.
 2. Videoknoten `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false; Startbild per
    `creative_add_flow_asset_node` (generation_id) an Port `start_frame`. Erst `estimate_only`, dann starten.
 3. Video herunterladen, Einzelbilder ansehen (Gesicht stabil, keine Verformungen). Bei Fehlern höchstens EIN
