@@ -644,6 +644,25 @@
         "tiktok": "4305393873546267790"
       },
       "mediaCommit": "8eced9142813cec850107de34b672edb4214074e"
+    },
+    {
+      "id": "R007",
+      "date": "2026-11-14",
+      "planFor": "2026-11-15",
+      "type": "reel",
+      "format": "Sprechvideo",
+      "arm": "koerper",
+      "series": "Milano to Amalfi",
+      "scene": "oberkörperfrei auf Segelboot-Deck vor Amalfi, glänzende Haut, Hand im Haar, spricht in die Kamera",
+      "sceneTag": "boot-oberkoerperfrei",
+      "file": "posts/R007/reel.mp4",
+      "music": "assets/music/songs/karol-g-bichota.m4a",
+      "spoken": "Never button the top two. One looks lazy, three looks desperate. Which one are you?",
+      "caption": "Never button the top two. One looks lazy, three looks desperate. Which one are you?\n\n#mensstyle #italianstyle #amalficoast #linenshirt",
+      "tiktokTitle": "The shirt button rule Italian men follow",
+      "costUsd": 1.74,
+      "costNote": "siehe reelDrafts TALK03 (Kling + Sync 3)",
+      "status": "ready"
     }
   ],
   "test": {
@@ -917,7 +936,7 @@
       "type": "Sprechvideo Test Kling 3.0 Pro + Sync 3",
       "scene": "oberkörperfrei auf Segelboot-Deck Amalfi, glänzende Haut, Hand im Haar",
       "text": "Never button the top two. One looks lazy, three looks desperate. Which one are you?",
-      "status": "draft",
+      "status": "ready-as-post",
       "generationId": "4i9REs6kAuUKqkniezmY",
       "costUsd": 1.74,
       "costNote": "Startbild 0,30 + Kling 6 s 0,68 + Sync 3 0,76; nicht blockiert"
