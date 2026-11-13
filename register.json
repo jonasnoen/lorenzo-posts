@@ -906,9 +906,21 @@
       "type": "Sprechvideo kurz",
       "text": "Never button the top two. One looks lazy, three looks desperate. Which one are you?",
       "voice": "Antonio, eleven_v3, 5,7 s",
-      "status": "generating",
+      "status": "draft",
       "costUsd": 1.78,
-      "costNote": "Stimme 0,02 + Creatify Aurora 0,85 (Nutzer: Qualität schlecht, verworfen) + OmniHuman 0,91"
+      "costNote": "Stimme 0,02 + Creatify Aurora 0,85 (Nutzer: Qualität schlecht, verworfen) + OmniHuman 0,91",
+      "generationId": "R1TBWSLFPP3kXTJ3g8vl"
+    },
+    {
+      "id": "TALK03",
+      "date": "2026-11-13",
+      "type": "Sprechvideo Test Kling 3.0 Pro + Sync 3",
+      "scene": "oberkörperfrei auf Segelboot-Deck Amalfi, glänzende Haut, Hand im Haar",
+      "text": "Never button the top two. One looks lazy, three looks desperate. Which one are you?",
+      "status": "draft",
+      "generationId": "4i9REs6kAuUKqkniezmY",
+      "costUsd": 1.74,
+      "costNote": "Startbild 0,30 + Kling 6 s 0,68 + Sync 3 0,76; nicht blockiert"
     }
   ],
   "referenceCosts": [
