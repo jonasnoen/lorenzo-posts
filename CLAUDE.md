@@ -29,7 +29,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
   lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
-- Bei JEDER Bildgenerierung alle vier Referenz-Knoten (i1–i4) des Master-Flows verbinden. Im Prompt: „The same man as in all three
+- Bei JEDER Bildgenerierung alle vier Referenz-Knoten (i1–i4) des Master-Flows verbinden. Im Prompt: „The same man as in all four
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - **Master-Flow in ElevenLabs (Nutzer 13.11.2026, PFLICHT): „Lorenzo · Referenzen (Master)“, flow_id `PhDE8w0Fz0PqYrO08mW5`.**
   Darin liegen NUR seine 3 Referenzen fest als Knoten: i1 Gesicht frontal `RTQLq5OV83lQ1TRTR7En`, i2 Gesicht Dreiviertel
