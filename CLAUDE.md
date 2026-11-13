@@ -77,11 +77,14 @@ Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen
 **Neue Formate L1–L6 (Nutzer 13.11.2026, Details in `formats.md`):** Felsen nach dem Schwimmen, Bootsleiter, Spiegel-Selfie nach dem Training,
 extreme Nahaufnahme im Morgenlicht, Studio-Portrait vor weißer Wand, abends im Bett. Bei der Szenenwahl bevorzugt einsetzen und abwechseln.
 
-**Format „Reaktion im Alltag“ (Nutzer 13.11.2026, etwa 1× pro Woche, Arm `koerper` oder `mode`):** Lorenzo als sehr breiter,
-muskulöser Mann mitten in einer ganz normalen Alltagsszene (Café-Theke, Schlange in einer Bank, Supermarkt, Bäckerei, Bahnsteig),
-daneben normale, kleinere erfundene Erwachsene (Mitte 20+), die sichtbar reagieren: Kellnerin schaut staunend hoch, Mann in der
-Schlange dreht sich mit offenem Mund um. Größen- und Körperkontrast deutlich im Bild, Lorenzo ruhig mit Halblächeln in die Kamera.
-Respektvoll, nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Länder.
+**Format „Krasser Kontrast“ (Nutzer 13.11.2026: „krassere Unterschiede, nicht so semi“; 1–2× pro Woche, Arm `koerper` oder `mode`):**
+Lorenzo passt maximal NICHT in die Szene, Umstehende (erfundene Erwachsene) reagieren deutlich. Für dieses Format ist ein
+trockener, ruhiger Humor erlaubt (Ausnahme von „keine Comedy“): Lorenzo bleibt völlig gelassen, Halblächeln in die Kamera.
+Ideen (abwechseln): im Maßanzug um 6 Uhr auf dem Fischmarkt zwischen Fischern in Gummistiefeln · riesig und muskulös in einer
+Ballettklasse für Erwachsene zwischen zierlichen Tänzerinnen · oberkörperfrei beim Senioren-Aquagym zwischen staunenden älteren
+Damen · im Smoking im Kuhstall beim Melken · quetscht sich in einen winzigen alten Kleinwagen · trägt bei einer Hochzeit als Gast
+die ganze Hochzeitstorte allein · im Leinenanzug auf dem Bauernmarkt mit einem riesigen Kürbis unter dem Arm.
+Hook-Text kurz und trocken (z. B. „Wrong place, right outfit“). Respektvoll, nichts Sexuelles, keine Klischees über Ethnien/Länder.
 
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
