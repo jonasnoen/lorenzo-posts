@@ -838,6 +838,20 @@
       "reference": "set i",
       "costUsd": 0,
       "costNote": "in R006 enthalten"
+    },
+    {
+      "id": "S031",
+      "date": "2026-11-13",
+      "file": "posts/stock/S031.jpg",
+      "scene": "Sitzt oberkörperfrei auf Felsen an der Amalfiküste nach dem Schwimmen, Hand im Haar, navy Badeshorts (Collage-Test)",
+      "sceneTag": "felsen-nach-schwimmen",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "JMt49SOrWLVikn3lNLCr",
+      "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+      "model": "gemini-3-pro-image",
+      "reference": "Collage i1–i4",
+      "costUsd": 0.3
     }
   ],
   "stockArchive": {
