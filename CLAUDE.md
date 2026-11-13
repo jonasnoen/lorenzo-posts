@@ -74,6 +74,9 @@ chest and arms“. Dann den Satz „no glow“ im Qualitätsteil durch „no sof
    Fashion Show oder einem Event. Fahrer hält die Tür, normales Tageslicht, Blick in die Kamera. Kein Blitzlicht, keine Paparazzi.
 Immer: nur erfundene Events, keine echten Eventnamen, Marken, Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
+**Neue Formate L1–L6 (Nutzer 13.11.2026, Details in `formats.md`):** Felsen nach dem Schwimmen, Bootsleiter, Spiegel-Selfie nach dem Training,
+extreme Nahaufnahme im Morgenlicht, Studio-Portrait vor weißer Wand, abends im Bett. Bei der Szenenwahl bevorzugt einsetzen und abwechseln.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.

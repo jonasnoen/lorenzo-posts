@@ -90,3 +90,13 @@ läuft über einen Runway oder sitzt in der ersten Reihe. Handkamera-Look, Umgeb
 - Musik startet sofort im ersten Frame, keine stillen Anfänge.
 - Fast alle Gewinner sind **Loops**: Ende so schneiden, dass es nahtlos in den Anfang übergeht.
 - 5–15 Sekunden reichen; Text-Hook kurz und oben.
+
+## Vom Nutzer vorgegebene Formate (13.11.2026, aus Inspirationsbildern – nur Format übernehmen, nie fremde Gesichter)
+Alle in Lorenzos eigenem Look (glatt rasiert, Locken, eisblaue Augen). Wirkung: private Handyfotos aus dem Alltag, nicht Shooting.
+- **L1 · Nach dem Schwimmen auf den Felsen** (`koerper`): sitzt in einer Bucht an der Amalfiküste auf einem Felsen, Tropfen auf der Haut, Haare nass, Blick in die Kamera. Gut mit glänzender Haut.
+- **L2 · Bootsleiter** (`koerper`): sitzt auf der Badeplattform eines Boots, Beine im türkisen Wasser, eine Hand am Seil, Badeshorts ohne Logo.
+- **L3 · Spiegel-Selfie nach dem Training** (`koerper`): Umkleide/Hotel-Gym, Handy ohne Logo, neutrale Shorts ohne Aufdruck, leicht verschwitzt. Einzige Ausnahme von „keine Selfies“ (Handy im Spiegel sichtbar). Ruhiger Blick/Halblächeln, KEINE herausgestreckte Zunge.
+- **L4 · Extreme Nahaufnahme im Morgenlicht** (`portraet`): Kopf auf dem Unterarm, halbes Gesicht im Bild, warmes Sonnenlicht, Ohrhörer ohne Logo, Augen scharf. Als Reel mit langsamem Zoom (`photo_video.sh`) – günstig.
+- **L5 · Studio-Portrait vor weißer Wand** (`portraet`/`mode`): ein Arm hinter dem Kopf, harter Schatten an der Wand, oberkörperfrei, intensiver Blick – Model-Casting-Look.
+- **L6 · Abends im Bett** (Vorrat, „A moment with Lorenzo“): lehnt in schwarzer Satinbettwäsche, schaut aufs Handy, Halblächeln, Shorts; seitlich/frontal fotografiert, KEINE Füße groß im Vordergrund.
+Nicht übernehmen: Marken-Logos (z. B. Hosenbund), Zunge rausstrecken.
