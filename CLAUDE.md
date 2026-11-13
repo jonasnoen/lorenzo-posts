@@ -86,6 +86,10 @@ Damen · im Smoking im Kuhstall beim Melken · quetscht sich in einen winzigen a
 die ganze Hochzeitstorte allein · im Leinenanzug auf dem Bauernmarkt mit einem riesigen Kürbis unter dem Arm.
 Hook-Text kurz und trocken (z. B. „Wrong place, right outfit“). Respektvoll, nichts Sexuelles, keine Klischees über Ethnien/Länder.
 
+**Format „Reaktion im Alltag“ (bleibt zusätzlich, Nutzer 13.11.2026, etwa 1× pro Woche):** Lorenzo ist riesig und extrem
+muskulös – mitten in normalen Alltagsszenen (Café-Theke, Bank-Schlange, Supermarkt, Aufzug, Bahnsteig) müssen die Leute
+neben ihm (erfundene Erwachsene) sichtbar zu ihm HOCHSCHAUEN, staunen, sich umdrehen. Größenunterschied deutlich im Bild.
+
 **Regeln für Szenen mit anderen Personen:** nur frei erfundene Erwachsene (Mitte 20+, ausdrücklich so prompten),
 nie echte Personen oder Prominente, nichts Sexuelles. Keine echten Orte als Werbung, keine Marken-Logos.
 Keine Behauptung, dass eine Szene echt passiert ist.
