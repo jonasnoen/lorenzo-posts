@@ -35,7 +35,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   Prompt-Anfang: „The reference image is a collage of four photos of the same man (same person): top left his face from the front, top right his face in
   three-quarter view, bottom left his full body, bottom right a photo showing his height (about 2.00 m, a full head taller than the people around him).
   Keep his face, eyes, eyebrows, hair and his body build exactly as in the collage, including the same muscle size and proportions. Face, head and hair
-  are an exact copy of the top-left photo …“ (Rest wie oben). Vorlage: Knoten `jIGJL1RPcdzeb6TrZwx0`.
+  are an exact copy of the top-left photo …“ (Rest wie oben).
 - **Master-Flow in ElevenLabs (Nutzer 13.11.2026, PFLICHT): „Lorenzo · Referenzen (Master)“, flow_id `PhDE8w0Fz0PqYrO08mW5`.**
   Darin liegen NUR seine 3 Referenzen fest als Knoten: i1 Gesicht frontal `RTQLq5OV83lQ1TRTR7En`, i2 Gesicht Dreiviertel
   `aVmY7pT7Ec1LlEBrXzIf`, i3 Körper `S2vV5hsBdm0dkd6xaTJl`, **i4 Größe `HtkRNfkZNXyhJ83Suxk4`** (Nutzer 13.11.: ca. 2,00 m, einen ganzen Kopf größer als alle,
