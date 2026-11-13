@@ -170,6 +170,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 1. Startbild wie beim Foto, aber `aspect_ratio` **9:16**, 2 Varianten (Nutzer 13.11., spart Geld); bestes wählen.
 2. Videoknoten `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false; Startbild per
    `creative_add_flow_asset_node` (generation_id) an Port `start_frame`. Erst `estimate_only`, dann starten.
+   **Spar-Trick (Nutzer 13.11.2026, Test S024 bestanden):** Statt ein neues Startbild zu erzeugen, darf ein geprüftes Vorrat-Bild (`posts/stock/S###.jpg`, Status `stock`) direkt als `start_frame` für Kling dienen (per `creative_attach_reference_file` mit raw-GitHub-URL in den Master-Flow). Spart das Startbild und das Risiko eines Bildfilter-Blocks. Danach im Vorrat Status `used` + Post-ID setzen.
 3. Video herunterladen, Einzelbilder ansehen (Gesicht stabil, keine Verformungen). Bei Fehlern höchstens EIN
    neuer Versuch.
 4. Schnitt mit `scripts/edit_reel.sh roh.mp4 "Hook Zeile 1" "Zeile 2" posts/<ID>/reel.mp4 <song> assets/music/stille.mp3`:
