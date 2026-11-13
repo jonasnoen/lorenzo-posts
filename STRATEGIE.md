@@ -1,5 +1,18 @@
 # Strategie Lorenzo Valenti (verbindlich ab 03.11.2026)
 
+## KURSKORREKTUR 14.–27.11.2026 (Nutzer 13.11.2026, nach Metricool-Daten 1.–13.11.) – hat Vorrang vor älteren Abschnitten
+**Daten:** Instagram verteilt kaum (1 Follower, Reels 10–150 Aufrufe, 61–90 % wischen in den ersten 3 s weg, Ø 2–4 s Wiedergabe,
+0 Saves/Shares). TikTok bringt Reichweite: Lorenzo 725–1.886 Aufrufe/Post, aber nur 0,1–1,6 % Likes/Aufrufe – die Stil-Erklär-Posts erreichen Leute, berühren sie aber nicht.
+**Regeln bis zur Auswertung am 27.11.:**
+1. **TikTok zuerst.** Formate für TikTok bauen, Instagram läuft mit. Auf Instagram zählt vorerst nur die Skip-Rate.
+2. **Die erste Sekunde muss packen:** jedes Reel startet mit Bewegung oder direkter Ansprache, nie mit einem ruhigen Standbild/langsamen Zoom.
+   Hook-Text ab Sekunde 0 mit Frage oder Spannung.
+3. **Sprechvideos 2× pro Woche** (Kling + Sync 3, < 10 s, direkte Frage an den Zuschauer, siehe CLAUDE.md). Sie ersetzen 2 der normalen Reels.
+4. **Lorenzo umstellen:** weniger Stil-Lehre, mehr Aura/Körper (oberkörperfrei, Boot, Felsen), „Krasser Kontrast“ und „Reaktion im Alltag“, Sprechvideos mit Stil-Frage (z. B. „Never button the top two“). Stil-Tipp höchstens noch als 1 Satz im Hook, nicht als Erklärtext.
+5. **Captions kurz:** höchstens 1–2 Sätze + eine echte Frage + 4–6 Hashtags. Keine langen Erklärtexte.
+6. **Ziele:** Skip-Rate (erste 3 s) < 50 %, TikTok Likes/Aufrufe > 5 %. Ein Format, das nach 3 Posts beide Ziele verfehlt, fliegt raus.
+   Bei jedem Lauf h48/d7-Zahlen eintragen (inkl. IG Skip-Rate `IGRE30`, Ø Wiedergabe `IGRE24`, TikTok Likes/Views).
+
 ## Entscheidungen des Nutzers (bestätigt)
 - **Hauptrichtung: Stil + Dolce Vita.** Lorenzo ist ein italienischer Stil-Creator, dessen Welt man gerne verfolgt.
   Kern = italienischer Männerstil (Option „Italian Style Guide“), Welt = Dolce Vita, Form = redaktionelles Erzählen.
