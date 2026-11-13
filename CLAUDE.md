@@ -15,7 +15,7 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 ## Identität (verbindlich)
 
 - **Neu seit 03.11.2026 (Entscheidung des Nutzers):** Lorenzo ist **glatt rasiert**.
-- **Referenzen (04.11.2026, vom Nutzer freigegeben) – in `assets/reference/` liegen NUR noch diese, IMMER alle drei anhängen:**
+- **Referenzen (04.11.2026, vom Nutzer freigegeben) – in `assets/reference/`, IMMER i1–i3 verbinden, i4 (Größe) bei Szenen mit anderen Personen:**
   - `ref_i1_gesicht_frontal.jpg`, `ref_i2_gesicht_dreiviertel.jpg` (Gesicht), `ref_i3_koerper_final.png` (Körper).
   - Aussehen: ca. 24–25 (nicht älter machen), kräftige gerade dunkle Brauen, eisblaue Augen, kräftiger Kiefer,
     Sommersprossen, zerzauste dunkelbraune Locken; sehr muskulös, volle Brust, breite runde Schultern, tiefes Sixpack,
@@ -33,7 +33,9 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
 - **Master-Flow in ElevenLabs (Nutzer 13.11.2026, PFLICHT): „Lorenzo · Referenzen (Master)“, flow_id `PhDE8w0Fz0PqYrO08mW5`.**
   Darin liegen NUR seine 3 Referenzen fest als Knoten: i1 Gesicht frontal `RTQLq5OV83lQ1TRTR7En`, i2 Gesicht Dreiviertel
-  `aVmY7pT7Ec1LlEBrXzIf`, i3 Körper `S2vV5hsBdm0dkd6xaTJl`. ALLE neuen Lorenzo-Bilder und -Videos in DIESEM Flow erzeugen
+  `aVmY7pT7Ec1LlEBrXzIf`, i3 Körper `S2vV5hsBdm0dkd6xaTJl`, **i4 Größe `HtkRNfkZNXyhJ83Suxk4`** (Nutzer 13.11.: ca. 2,00 m, einen ganzen Kopf größer als alle,
+  Leute neben ihm reichen bis zur Schulter – Datei `assets/reference/ref_i4_groesse.jpg`; bei JEDER Szene mit anderen Personen
+  zusätzlich verbinden, v. a. „Reaktion im Alltag“/„Krasser Kontrast“; im Prompt dann „a full head taller than everyone around him“). ALLE neuen Lorenzo-Bilder und -Videos in DIESEM Flow erzeugen
   (neuer Bild-/Videoknoten mit `connect_from` auf alle 3 Referenz-Knoten), KEINEN neuen Flow anlegen, Referenzen NICHT neu
   anhängen. Nie Bilder anderer Charaktere (Alessia, Kairo) in diesen Flow legen oder damit verbinden.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.

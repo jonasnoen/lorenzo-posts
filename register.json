@@ -875,5 +875,12 @@
       "generationId": "TaIGRta5fdSkEbwyGt65",
       "status": "vom Nutzer gut befunden, Musik fehlt"
     }
+  ],
+  "referenceCosts": [
+    {
+      "date": "2026-11-13",
+      "what": "REF i4 Größen-Referenz (2 Versuche)",
+      "costUsd": 1.01
+    }
   ]
 }
