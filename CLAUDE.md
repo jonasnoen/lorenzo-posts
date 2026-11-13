@@ -207,6 +207,13 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
   zählt zum Arm `mode`. Nur erfundene Events, keine echten Eventnamen, Logos, Marken oder Prominenten.
 - Gewinner erst ab 3 Posts je Arm benennen; Endauswertung nach `test.to` gemäß `STRATEGIE.md`.
 
+## Sprechvideos (Nutzer 13.11.2026)
+- Startbild 9:16 im Master-Flow (nur Collage), Stimme `eleven_v3`, Video `bytedance-omnihuman-v1.5` (Knotentyp `avatar`, 1080p, Ports `image` + `audio`).
+- **Kurz halten: Text höchstens ~20 Wörter, fertiges Video unter 10 s** (Kosten ≈ 0,16 $ pro Sekunde, 8 s ≈ 1,30 $). Starker Haken in den ersten Worten.
+- Vor dem Video die Stimme prüfen: Pausen > 0,4 s im fertigen Video per Schnitt auf ≈ 0,3 s kürzen (Jump-Cuts sind ok).
+- Schnitt: Untertitel (Poppins Bold, weiß mit schwarzem Rand, unteres Drittel, phrasenweise) + leiser Song aus `assets/music/songs/` (≈ 13 % Lautstärke, Ein-/Ausblenden), 1080×1920.
+- Stimme: „Antonio – English with Italian Accent“ (`j06nw9Co1V47P1pQkaG8`).
+
 ## Bericht
 
 Zum Schluss 2–3 Sätze auf Deutsch: was gepostet bzw. geplant wurde (Typ, Szene, Uhrzeit, Kosten, Monatssumme)
