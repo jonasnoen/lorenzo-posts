@@ -633,7 +633,17 @@
       "reference": "set i (ref_i1, ref_i2, ref_i3 @5963c41)",
       "costUsd": 2.59,
       "costNote": "3 Startbild-Varianten 9:16 + 1 Vorratbild 4:5 (je 0,506 $) + Kling 3 Pro 5 s (0,564 $)",
-      "status": "sending"
+      "status": "scheduled",
+      "scheduledFor": "2026-11-13T19:30:00+01:00",
+      "metricoolIds": {
+        "instagram": 427280195,
+        "tiktok": 427280212
+      },
+      "metricoolUuids": {
+        "instagram": "6526796661395506193",
+        "tiktok": "4305393873546267790"
+      },
+      "mediaCommit": "8eced9142813cec850107de34b672edb4214074e"
     }
   ],
   "test": {
