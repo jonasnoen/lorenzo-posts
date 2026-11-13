@@ -888,6 +888,17 @@
       "start": "posts/reel-tests/start-anzug.jpg",
       "generationId": "TaIGRta5fdSkEbwyGt65",
       "status": "vom Nutzer gut befunden, Musik fehlt"
+    },
+    {
+      "id": "TALK01",
+      "date": "2026-11-13",
+      "type": "Sprechvideo-Test (OmniHuman 1.5)",
+      "scene": "Altbau-Flur, weißes Leinenhemd, obere zwei Knöpfe offen, spricht in die Kamera",
+      "text": "Italian men have one rule nobody tells you. Never button the top two. One looks lazy. Three looks desperate. Two? That's the sweet spot. Which one are you?",
+      "voice": "Antonio (j06nw9Co1V47P1pQkaG8), eleven_v3",
+      "status": "failed",
+      "costUsd": 0.33,
+      "costNote": "Startbild 0,30 + Stimme 0,03; Video (2,28 $ geschätzt) vom Anbieter blockiert – ob berechnet, unklar"
     }
   ],
   "referenceCosts": [
