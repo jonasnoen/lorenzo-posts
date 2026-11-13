@@ -29,8 +29,13 @@ Metricool-Marke `jonas.noen` (blogId 7001759) für Lorenzo benutzen.
 - Im Prompt bei Gemini immer: „Face, head and hair are an exact copy of the FIRST image: same face width and shape, same
   cheekbones and strong jaw, do not make the face narrower or longer“ und „Hair: medium chestnut-brown tousled curls with
   lighter sun-kissed caramel-brown strands, NOT black, NOT dark espresso“.
-- Bei JEDER Bildgenerierung genau die drei Referenzen anhängen (Raw-URL mit Commit-SHA). Im Prompt: „The same man as in all three
+- Bei JEDER Bildgenerierung genau die drei Referenz-Knoten des Master-Flows verbinden. Im Prompt: „The same man as in all three
   reference images (same person): keep his face, eyes, eyebrows, hair and his body build exactly as in the references, including the same muscle size and proportions“.
+- **Master-Flow in ElevenLabs (Nutzer 13.11.2026, PFLICHT): „Lorenzo · Referenzen (Master)“, flow_id `PhDE8w0Fz0PqYrO08mW5`.**
+  Darin liegen NUR seine 3 Referenzen fest als Knoten: i1 Gesicht frontal `RTQLq5OV83lQ1TRTR7En`, i2 Gesicht Dreiviertel
+  `aVmY7pT7Ec1LlEBrXzIf`, i3 Körper `S2vV5hsBdm0dkd6xaTJl`. ALLE neuen Lorenzo-Bilder und -Videos in DIESEM Flow erzeugen
+  (neuer Bild-/Videoknoten mit `connect_from` auf alle 3 Referenz-Knoten), KEINEN neuen Flow anlegen, Referenzen NICHT neu
+  anhängen. Nie Bilder anderer Charaktere (Alessia, Kairo) in diesen Flow legen oder damit verbinden.
 - Proportionen: bei Körperbildern immer „head relatively small compared to his very wide shoulders (about three head-widths), neck in proportion, no oversized head“ und „photo from about three metres away“.
 - Natürlich wirken lassen (Nutzer 23:30: „sollten halt natürlich bleiben“): „unposed iPhone snapshot taken by a friend“, echtes (auch hartes) Tageslicht, Poren,
   kleine Unregelmäßigkeiten, „no airbrushing, no beauty filter, normal phone colours, slight noise“.
@@ -135,7 +140,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
-2. ElevenLabs: Flow anlegen, `ref_i1_gesicht_frontal.jpg` + `ref_i2_gesicht_dreiviertel.jpg` + `ref_i3_koerper_final.png` per `creative_attach_reference_file` (Raw-URL) anhängen,
+2. ElevenLabs: im Master-Flow `PhDE8w0Fz0PqYrO08mW5` einen neuen Bildknoten anlegen, verbunden mit den 3 Referenz-Knoten (siehe oben),
    Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,50 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
