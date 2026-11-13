@@ -189,7 +189,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
    Medien-URL immer `https://raw.githubusercontent.com/jonasnoen/lorenzo-posts/<commit-sha>/<pfad>`.
    - Instagram: Reel bzw. Post, Caption aus dem Eintrag.
    - TikTok: Titel ist Pflicht, `privacyOption` PUBLIC_TO_EVERYONE.
-   - **KI-Kennzeichnung immer einschalten** (Instagram und TikTok, Felder für AI-generated / AIGC). **Zusätzlich (Nutzer 13.11.2026): jede Caption und jeder TikTok-Titel enthält den Hashtag `#aicreator`** (zählt zu den 4–6 Hashtags). Etikett bleibt trotzdem immer an.
+   - **KI-Kennzeichnung immer einschalten** (Instagram und TikTok, Felder für AI-generated / AIGC).
 4. Metricool-IDs und Status `scheduled` eintragen, committen, pushen.
 5. Unklare Antwort beim Planen: Status `unknown`, NICHT erneut senden, Nutzer per Push-Nachricht bitten,
    in Metricool nachzusehen. Einträge mit `sending`/`unknown` immer zuerst klären.
