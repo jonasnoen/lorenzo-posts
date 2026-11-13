@@ -208,8 +208,12 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Gewinner erst ab 3 Posts je Arm benennen; Endauswertung nach `test.to` gemäß `STRATEGIE.md`.
 
 ## Sprechvideos (Nutzer 13.11.2026)
-- Startbild 9:16 im Master-Flow (nur Collage), Stimme `eleven_v3`, Video `bytedance-omnihuman-v1.5` (Knotentyp `avatar`, 1080p, Ports `image` + `audio`).
-- **Kurz halten: Text höchstens ~20 Wörter, fertiges Video unter 10 s** (Kosten ≈ 0,16 $ pro Sekunde, 8 s ≈ 1,30 $). Starker Haken in den ersten Worten.
+- **Standard ab 13.11.2026 (Nutzer): Kling + Lipsync.** Startbild 9:16 im Master-Flow (nur Collage), Stimme `eleven_v3`, dann
+  1. Videoknoten `kling-3-pro`, 9:16, 1080p, `generate_audio` false, `duration_secs` = Länge der Stimme aufgerundet, Startbild an `start_frame`,
+     Prompt: „looks into the camera and talks to the viewer with natural mouth movement as if speaking, small natural head movements …“;
+  2. Videoknoten `sync-lipsync-v3` (`sync_mode` cut_off), Port `video` = Kling-Knoten, Port `audio` = Stimme.
+  Erst jeweils `estimate_only`. OmniHuman/Creatify Aurora nicht mehr verwenden (OmniHuman blockierte, Aurora zu schlecht). Sexy Szenen (oberkörperfrei, glänzende Haut) liefen mit Kling problemlos.
+- **Kurz halten: Text höchstens ~20 Wörter, fertiges Video unter 10 s** (Kosten ≈ 0,25 $ pro Sekunde + Startbild; 6 s ≈ 1,75 $). Starker Haken in den ersten Worten.
 - Vor dem Video die Stimme prüfen: Pausen > 0,4 s im fertigen Video per Schnitt auf ≈ 0,3 s kürzen (Jump-Cuts sind ok).
 - Schnitt: Untertitel (Poppins Bold, weiß mit schwarzem Rand, unteres Drittel, phrasenweise) + leiser Song aus `assets/music/songs/` (≈ 13 % Lautstärke, Ein-/Ausblenden), 1080×1920.
 - Stimme: „Antonio – English with Italian Accent“ (`j06nw9Co1V47P1pQkaG8`).
