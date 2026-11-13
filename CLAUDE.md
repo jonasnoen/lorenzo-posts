@@ -135,7 +135,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 - Vor jeder bezahlten Generierung: Summe `costUsd` des laufenden Monats + Schätzung (`estimate_only`) prüfen.
   Würde das Limit überschritten: nicht generieren, im Bericht melden.
 - Tatsächliche Kosten (aus der ElevenLabs-Antwort, `price_cents`) im Eintrag als `costUsd` speichern.
-- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,50 $ (mit 3 Referenzen), GPT Image 2 high ≈ 0,38 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
+- Richtwerte: Bild Nano Banana Pro 2K ≈ 0,60 $ (mit 4 Referenzen i1–i4), GPT Image 2 high ≈ 0,38 $; Video Kling 3.0 Pro 5 s 1080p ohne Ton ≈ 0,56 $;
   Musik 12 s ≈ 0,03 $; Geräusch ≈ 0,003 $.
 
 ## Ablauf Foto-Post
@@ -143,7 +143,7 @@ Material (Video, Gesichter, Ton) verwenden oder Lorenzo in fremde Clips einsetze
 1. Szene wählen (Nische oben, Formatkatalog in `formats.md` falls vorhanden), kein Duplikat (Szene UND Blickwinkel
    gegen `register.json` prüfen).
 2. ElevenLabs: im Master-Flow `PhDE8w0Fz0PqYrO08mW5` einen neuen Bildknoten anlegen, verbunden mit den 4 Referenz-Knoten i1–i4 (siehe oben),
-   Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,50 $ je Bild).
+   Bildknoten `gemini-3-pro-image`, `aspect_ratio` **4:5**, `resolution` 2K, 2 Varianten (≈ 0,60 $ je Bild).
 3. Ergebnisse herunterladen und ANSEHEN: Gesicht muss zur Referenz passen, Hände/Finger korrekt, keine
    kaputte Schrift im Hintergrund, keine Extra-Gliedmaßen. Bestes Bild nehmen; wenn beide schlecht: einmal neu,
    dann aufgeben und melden.
