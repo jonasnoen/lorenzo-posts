@@ -314,6 +314,33 @@
             "profileVisits": null,
             "newFollowers": null
           }
+        },
+        "d7": {
+          "measuredAt": "2026-11-13T18:56:00+01:00",
+          "note": "ca. 6 T 23,5 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 108,
+            "views": 146,
+            "avgWatchTimeS": 3.718,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": null
+          },
+          "tiktok": {
+            "views": 1144,
+            "likes": 4,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
         }
       }
     },
@@ -341,7 +368,36 @@
         "instagram": 424742305,
         "tiktok": 424742327
       },
-      "mediaCommit": "0dcd9fd9f6e2febbd14128dea1cd73b0dce1f27d"
+      "mediaCommit": "0dcd9fd9f6e2febbd14128dea1cd73b0dce1f27d",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-13T18:56:00+01:00",
+          "note": "ca. 47 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 10,
+            "views": 12,
+            "avgWatchTimeS": 1.935,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": null
+          },
+          "tiktok": {
+            "views": 1886,
+            "likes": 5,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "K001",
@@ -493,7 +549,36 @@
         "tiktok": "192742613754659112"
       },
       "scheduledFor": "2026-11-10T19:30:00+01:00",
-      "mediaCommit": "aa147950d8df1d3bd5a448ca10daffd0acf95d66"
+      "mediaCommit": "aa147950d8df1d3bd5a448ca10daffd0acf95d66",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-13T18:56:00+01:00",
+          "note": "verspätet, ca. 71 h nach Veröffentlichung (12.11. nicht gemessen); Instagram meldet 0 Reichweite/0 Aufrufe – möglicherweise noch nicht synchronisiert",
+          "instagram": {
+            "reach": 0,
+            "views": 0,
+            "avgWatchTimeS": null,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": 0
+          },
+          "tiktok": {
+            "views": 1862,
+            "likes": 9,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "V004",
@@ -521,6 +606,34 @@
         "tiktok": "8683526585153111518"
       },
       "mediaCommit": "75146a2d5212e9265b376ee16a477d1297cae29a"
+    },
+    {
+      "id": "R006",
+      "date": "2026-11-13",
+      "type": "reel",
+      "arm": "koerper",
+      "series": "Milano to Amalfi",
+      "format": "L1 Felsen nach dem Schwimmen",
+      "scene": "Felsbucht an der Amalfiküste nach dem Schwimmen, sitzt oberkörperfrei auf Kalkfelsen, navy Badeshorts, nasse Locken, glänzende Haut, Hand im Haar, Holzboot im Hintergrund",
+      "idea": "Badeshorts-Regel: einfarbig, Saum Mitte Oberschenkel, kein Logo – dann wirkt es am Meer gepflegt",
+      "hook": [
+        "Swim shorts rule:",
+        "end mid-thigh."
+      ],
+      "music": "assets/music/songs/bad-bunny-chencho-corleone-me-porto-bonito.m4a",
+      "file": "posts/R006/reel.mp4",
+      "cover": "posts/R006/cover.jpg",
+      "caption": "Out of the water, onto the warm rock, and the shorts still look right. The rule is simple: one solid colour, a hem that ends mid-thigh, no logo. Navy works on every coast and dries without looking tired. Short, mid or long: where do you draw the line?\n\n#mensstyle #italianstyle #swimshorts #amalficoast #summerstyle",
+      "tiktokTitle": "The swim shorts rule Italians follow",
+      "elevenlabsFlow": "NFuqyjAN4CMCU59ThpEl",
+      "generationIds": {
+        "start": "QxMvmFfdDNQnfL34hR5T"
+      },
+      "model": "gemini-3-pro-image + kling-3-pro",
+      "reference": "set i (ref_i1, ref_i2, ref_i3 @5963c41)",
+      "costUsd": 2.59,
+      "costNote": "3 Startbild-Varianten 9:16 + 1 Vorratbild 4:5 (je 0,506 $) + Kling 3 Pro 5 s (0,564 $)",
+      "status": "sending"
     }
   ],
   "test": {
@@ -670,6 +783,51 @@
       "status": "stock",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/lorenzo-gpt-strand-muskeln.jpg)",
       "costUsd": 0
+    },
+    {
+      "id": "S028",
+      "date": "2026-11-13",
+      "file": "posts/stock/S028.jpg",
+      "scene": "Felsbucht nach dem Schwimmen, sitzt auf Felsen, Hand im nassen Haar, navy Badeshorts, Boot links (Restvariante R006)",
+      "sceneTag": "felsbucht-schwimmen",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "lyzyJPdcFmhIha0P3EFK",
+      "elevenlabsFlow": "NFuqyjAN4CMCU59ThpEl",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0,
+      "costNote": "in R006 enthalten"
+    },
+    {
+      "id": "S029",
+      "date": "2026-11-13",
+      "file": "posts/stock/S029.jpg",
+      "scene": "Felsbucht nach dem Schwimmen, sitzt frontal auf Felsen, Arm im Haar, navy Badeshorts, Boot hinten (Restvariante R006)",
+      "sceneTag": "felsbucht-schwimmen",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "oZWTFxkvwc7aNmeKBofi",
+      "elevenlabsFlow": "NFuqyjAN4CMCU59ThpEl",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0,
+      "costNote": "in R006 enthalten"
+    },
+    {
+      "id": "S030",
+      "date": "2026-11-13",
+      "file": "posts/stock/S030.jpg",
+      "scene": "Felsbucht, steht knietief im türkisen Wasser, Hand im nassen Haar, navy Badeshorts (Extra-Bild R006)",
+      "sceneTag": "felsbucht-schwimmen",
+      "serie": "Milano to Amalfi",
+      "status": "stock",
+      "generationId": "sTCQhAHiXdqKRl0OahS6",
+      "elevenlabsFlow": "NFuqyjAN4CMCU59ThpEl",
+      "model": "gemini-3-pro-image",
+      "reference": "set i",
+      "costUsd": 0,
+      "costNote": "in R006 enthalten"
     }
   ],
   "stockArchive": {
