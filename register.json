@@ -465,6 +465,33 @@
             "profileVisits": null,
             "newFollowers": null
           }
+        },
+        "d7": {
+          "measuredAt": "2026-11-14T18:56:00+01:00",
+          "note": "ca. 7 T nach Veröffentlichung",
+          "instagram": {
+            "reach": 3,
+            "views": 5,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 1083,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
         }
       }
     },
@@ -605,7 +632,36 @@
         "instagram": "1048142317675695959",
         "tiktok": "8683526585153111518"
       },
-      "mediaCommit": "75146a2d5212e9265b376ee16a477d1297cae29a"
+      "mediaCommit": "75146a2d5212e9265b376ee16a477d1297cae29a",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-14T18:56:00+01:00",
+          "note": "ca. 48 h nach Veröffentlichung; Instagram meldet 0 Reichweite/0 Aufrufe (wie V003, evtl. nicht synchronisiert)",
+          "instagram": {
+            "reach": 0,
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 1865,
+            "likes": 19,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "R006",
@@ -663,6 +719,48 @@
       "costUsd": 1.74,
       "costNote": "siehe reelDrafts TALK03 (Kling + Sync 3)",
       "status": "ready"
+    },
+    {
+      "id": "K002",
+      "date": "2026-11-14",
+      "type": "carousel",
+      "arm": "karussell",
+      "series": "Milano to Amalfi",
+      "scene": "7 Uhr morgens, zwei Welten: Amalfi – oberkörperfrei auf der Badeplattform eines Holzboots (glänzende Haut); Milano – Espresso im Stehen an der Marmortheke, Kamelmantel über navy Rollkragen, Barista und Gast schauen hoch; Amalfi – Terrasse mit Zitronenbaum, weißes Leinenhemd offen, navy Badeshorts, Espresso; Milano – Tram-Straße, Kamelmantel, navy Rollkragen, graue Wollhose, braune Wildleder-Loafer",
+      "sceneTag": "morgen-milano-amalfi",
+      "idea": "Gleicher Morgen, zwei Uniformen: Kamelmantel + navy Rollkragen in der Stadt, offenes Leinen + navy Badeshorts an der Küste – Navy als roter Faden",
+      "files": [
+        "posts/K002/slide1.jpg",
+        "posts/K002/slide2.jpg",
+        "posts/K002/slide3.jpg",
+        "posts/K002/slide4.jpg"
+      ],
+      "tiktokFile": "posts/K002/tiktok.mp4",
+      "hook": [
+        "Same morning.",
+        "Milano or Amalfi?"
+      ],
+      "music": "assets/music/songs/bad-bunny-dtmf.m4a",
+      "caption": "7 a.m., two versions of the same morning: a camel coat over a navy rollneck in Milan, open linen and navy swim shorts in Amalfi. Navy is the thread that ties both together. Which morning are you choosing?\n\n#mensstyle #italianstyle #amalficoast #milanstyle #camelcoat",
+      "tiktokTitle": "Same morning: Milano or Amalfi?",
+      "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+      "nodeIds": [
+        "a2alZoC2rFT1fEOgqQlk",
+        "WKSNycC81lzq8y7GA2pG",
+        "4lSqztaYwqdoRmmJYjJO",
+        "5U7EaypnOft4MJdros6L"
+      ],
+      "generationIds": [
+        "9QcQCoRKybz6bf2qJhDu",
+        "QyGCpbWP7fulGJtVcRrY",
+        "pe5VuiQoQ2RRmVf8HT4R",
+        "ADlV1aZMES08FVDT10gf"
+      ],
+      "model": "gemini-3-pro-image",
+      "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+      "costUsd": 1.21,
+      "costNote": "4 Bilder Nano Banana Pro 2K à 0,303 $",
+      "status": "sending"
     }
   ],
   "test": {
