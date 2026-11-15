@@ -548,6 +548,33 @@
             "profileVisits": null,
             "newFollowers": null
           }
+        },
+        "d7": {
+          "measuredAt": "2026-11-15T18:50:00+01:00",
+          "note": "7 Tage nach Veröffentlichung",
+          "instagram": {
+            "reach": 3,
+            "views": 7,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 777,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
         }
       }
     },
@@ -699,7 +726,37 @@
         "instagram": "6526796661395506193",
         "tiktok": "4305393873546267790"
       },
-      "mediaCommit": "8eced9142813cec850107de34b672edb4214074e"
+      "mediaCommit": "8eced9142813cec850107de34b672edb4214074e",
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-15T18:50:00+01:00",
+          "note": "ca. 47 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 57,
+            "views": 69,
+            "avgWatchTimeS": 2.862,
+            "skipRatePct": 75.9,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": null
+          },
+          "tiktok": {
+            "views": 1867,
+            "likes": 12,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
+      }
     },
     {
       "id": "R007",
@@ -718,7 +775,18 @@
       "tiktokTitle": "The shirt button rule Italian men follow",
       "costUsd": 1.74,
       "costNote": "siehe reelDrafts TALK03 (Kling + Sync 3)",
-      "status": "sending"
+      "status": "scheduled",
+      "scheduledAt": "2026-11-15T19:30:00+01:00",
+      "metricool": {
+        "postId": 429110579,
+        "uuid": "3515462093775916711",
+        "mediaCommit": "69903fab1220a53a932d95bcae202334b209df04",
+        "networks": [
+          "instagram REEL",
+          "tiktok"
+        ],
+        "aiLabel": true
+      }
     },
     {
       "id": "K002",
