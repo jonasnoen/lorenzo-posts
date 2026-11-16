@@ -916,7 +916,18 @@
     "S032",
     "S033"
    ],
-   "status": "sending"
+   "status": "scheduled",
+   "scheduledAt": "2026-11-16T19:30:00+01:00",
+   "metricool": {
+    "postId": 430448264,
+    "uuid": "5557719599734997547",
+    "mediaCommit": "9c7efa7f4d78daf83f9f228dc7cfcbd39f4158a7",
+    "networks": [
+     "instagram REEL",
+     "tiktok"
+    ],
+    "aiLabel": true
+   }
   }
  ],
  "test": {
