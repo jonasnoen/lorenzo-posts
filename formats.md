@@ -101,3 +101,12 @@ Alle in Lorenzos eigenem Look (glatt rasiert, Locken, eisblaue Augen). Wirkung: 
 - **L6 · Abends im Bett** (Vorrat, „A moment with Lorenzo“): lehnt in schwarzer Satinbettwäsche, schaut aufs Handy, Halblächeln, Shorts; seitlich/frontal fotografiert, KEINE Füße groß im Vordergrund.
 Nicht übernehmen: Marken-Logos (z. B. Hosenbund), Zunge rausstrecken.
 - **L7 · Krasser Kontrast** (ersetzt „Reaktion im Alltag“, siehe CLAUDE.md, 1–2× pro Woche) – früher: (Nutzer 13.11., Vorbild: Kontrast-Accounts wie „sehr große Person im Alltag“): Lorenzo neben normalen Leuten in Café/Bank/Supermarkt, deutliche Reaktion der Umstehenden (staunen, hochschauen). Hook-Text z. B. „When the barista has to look up“. Etwa 1× pro Woche.
+
+## vidIQ-Outlier-Check 16.11.2026 (letzte 7 Tage, zwei Suchen)
+- **Bestätigt (2+ Belege): eine KI-Figur, viele Varianten im Takt** – @crib.cutss KI-Mann mit wechselnden Frisuren (649 Tsd, 669×),
+  @davi7.aep KI-Männerfigur mit verschiedenen Frisuren „hair doesn't matter“ (79 Tsd, 5×), @helio.pill Profil-Montage (51 Tsd, 8,5×).
+  → Für Lorenzo: F3-Slideshow „one face, five looks“ (gleiche Pose, 5 Outfits/Frisuren der Serie Wardrobe), schneller Beat, Loop.
+- **Bestätigt (2 Belege): Stil-Aphorismus als Text über ruhigem Walk-Shot (stärkt F5)** – @nableatherhq „Some men get older. Some men get Italian.“
+  (80 Tsd, 19×), @beaucoupbeaumont „dress like a man, become unrecognizable.“ (49 Tsd, 6×).
+- Unbestätigt: direkte Bitte um Urteil zum Look („What do you think of this look? Be honest!“, @marko.global 1,3 Mio, 38×) – passt zu den Sprechvideos mit Frage.
+- Unbestätigt: Red-Carpet-Montage einer Fantasiefigur (@idontdorare 138 Tsd, 15×) – F6 weiterhin nur ohne Blitz/Paparazzi.
