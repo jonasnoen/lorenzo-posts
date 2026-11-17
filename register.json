@@ -631,6 +631,33 @@
             "profileVisits": null,
             "newFollowers": null
           }
+        },
+        "d7": {
+          "measuredAt": "2026-11-17T18:55:00+01:00",
+          "note": "7 Tage nach Veröffentlichung; Instagram-Feedpost meldet weiterhin 0; TikTok-Spalten laut Metricool TKPO07–10 (Views, Likes, Comments, Shares) = 1870/9/0/2 (h48 hatte Comments/Shares evtl. vertauscht)",
+          "instagram": {
+            "reach": 0,
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "saves": 0,
+            "shares": 0,
+            "newFollowers": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "avgWatchTimeS": null
+          },
+          "tiktok": {
+            "views": 1870,
+            "likes": 9,
+            "comments": 0,
+            "shares": 2,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
         }
       }
     },
@@ -786,6 +813,37 @@
           "tiktok"
         ],
         "aiLabel": true
+      },
+      "stats": {
+        "h48": {
+          "measuredAt": "2026-11-17T18:55:00+01:00",
+          "note": "ca. 47 h nach Veröffentlichung",
+          "instagram": {
+            "reach": 106,
+            "views": 133,
+            "avgWatchTimeS": 3.277,
+            "skipRatePct": 66.7,
+            "saves": 0,
+            "shares": 0,
+            "likes": 0,
+            "comments": 0,
+            "nonFollowerReach": null,
+            "profileVisits": null,
+            "newFollowers": null
+          },
+          "tiktok": {
+            "views": 785,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "likesPerViewPct": 0.38,
+            "reach": null,
+            "avgWatchTimeS": null,
+            "saves": null,
+            "profileVisits": null,
+            "newFollowers": null
+          }
+        }
       }
     },
     {
