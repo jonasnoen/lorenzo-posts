@@ -945,8 +945,18 @@
       "caption": "Mid-November, one last swim before the coast goes quiet for winter. The water is colder than it looks, and worth it every single time. Would you still jump in?\n\n#amalficoast #lastswim #italianlifestyle #dolcevita #mensstyle",
       "tiktokTitle": "Last swim of the year. Would you jump in?",
       "costUsd": 0,
-      "status": "sending",
-      "scheduledFor": "2026-11-17T19:30:00+01:00"
+      "status": "scheduled",
+      "scheduledFor": "2026-11-17T19:30:00+01:00",
+      "metricoolIds": {
+        "instagram": 431807511,
+        "tiktok": 431807543
+      },
+      "metricoolUuids": {
+        "instagram": "7485687770982991750",
+        "tiktok": "-8553621483869158578"
+      },
+      "mediaCommit": "e0af359a157a9bfe40e0c78fd743f85c690a1e4e",
+      "aiLabel": true
     }
   ],
   "test": {
@@ -1093,9 +1103,10 @@
       "scene": "Kieselstrand, navy Badeshorts, Hand im Haar",
       "sceneTag": "kieselstrand",
       "serie": "Milano to Amalfi",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/lorenzo-gpt-strand-muskeln.jpg)",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "V005"
     },
     {
       "id": "S028",
