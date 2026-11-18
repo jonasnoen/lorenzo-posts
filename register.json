@@ -1092,9 +1092,19 @@
    "caption": "Golden hour on the coast: white linen left open, dark pleated trousers to make it evening. The lighter the shirt, the darker the trousers. Would you wear it open or button one?\n\n#mensstyle #italianstyle #linenshirt #goldenhour #dolcevita",
    "tiktokTitle": "Linen open, trousers dark. Open or one button?",
    "costUsd": 0,
-   "status": "sending",
+   "status": "scheduled",
    "aiLabel": true,
-   "note": "Ersatz für das geplante Reel (Arm mode): ElevenLabs-Verbindung in dieser Sitzung nicht verfügbar, daher kostenloser Vorrat-Post. Reel-Rotation unverändert (nächster Arm: mode)."
+   "note": "Ersatz für das geplante Reel (Arm mode): ElevenLabs-Verbindung in dieser Sitzung nicht verfügbar, daher kostenloser Vorrat-Post. Reel-Rotation unverändert (nächster Arm: mode).",
+   "scheduledFor": "2026-11-18T19:30:00+01:00",
+   "metricoolIds": {
+    "instagram": 433181890,
+    "tiktok": 433181954
+   },
+   "metricoolUuids": {
+    "instagram": "-4939002113337964322",
+    "tiktok": "-4008580476662169599"
+   },
+   "mediaCommit": "397f1a39bc6028bac16148480f65eb463de76ce0"
   }
  ],
  "test": {
