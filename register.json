@@ -743,6 +743,34 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-19T18:52:00+01:00",
+     "note": "7 Tage nach Veröffentlichung",
+     "instagram": {
+      "reach": 1,
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1874,
+      "likes": 19,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 1.01,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1074,7 +1102,37 @@
     "tiktok": "-8553621483869158578"
    },
    "mediaCommit": "e0af359a157a9bfe40e0c78fd743f85c690a1e4e",
-   "aiLabel": true
+   "aiLabel": true,
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-19T18:52:00+01:00",
+     "note": "ca. 47 h nach Veröffentlichung; Instagram meldet 0 Reichweite/0 Aufrufe (wie bei den anderen Foto-Posts, evtl. nicht synchronisiert)",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1797,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.83,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
+   }
   },
   {
    "id": "V006",
@@ -1122,9 +1180,18 @@
    "caption": "Morning run done before the town wakes up. A plain white ribbed tank and grey shorts: the simplest training kit, as long as it fits. What do you wear when you run, colour or all white?\n\n#mensstyle #italianstyle #morningrun #dolcevita #liguria",
    "tiktokTitle": "Morning run on the coast. Colour or all white?",
    "costUsd": 0,
-   "status": "sending",
+   "status": "scheduled",
    "aiLabel": true,
-   "scheduledFor": "2026-11-19T19:30:00+01:00"
+   "scheduledFor": "2026-11-19T19:30:00+01:00",
+   "metricoolIds": {
+    "instagram": 434547870,
+    "tiktok": 434547901
+   },
+   "metricoolUuids": {
+    "instagram": "-3311898093672643928",
+    "tiktok": "-2387079428596805636"
+   },
+   "mediaCommit": "56910b90d36ddd21214eb2d282c66ea2483d8566"
   }
  ],
  "test": {
@@ -1166,11 +1233,12 @@
    "file": "posts/stock/S018.jpg",
    "scene": "Promenade morgens nach dem Laufen, schwarzes Haarband, weißes Tanktop",
    "serie": "A moment with Lorenzo",
-   "status": "stock",
+   "status": "used",
    "generationId": "5v6CCFj3KmOMoUXI3TC4",
    "model": "gemini-3-pro-image",
    "reference": "set i",
-   "costUsd": 0.5
+   "costUsd": 0.5,
+   "usedBy": "V007"
   },
   {
    "id": "S019",
