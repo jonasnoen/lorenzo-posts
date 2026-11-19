@@ -1105,6 +1105,26 @@
     "tiktok": "-4008580476662169599"
    },
    "mediaCommit": "397f1a39bc6028bac16148480f65eb463de76ce0"
+  },
+  {
+   "id": "V007",
+   "date": "2026-11-19",
+   "type": "photo",
+   "arm": "vorrat",
+   "series": "A moment with Lorenzo",
+   "scene": "Promenade morgens nach dem Laufen, schwarzes Haarband, weißes geripptes Tanktop, graue Shorts, Wasserflasche, Küstenort mit Palmen",
+   "sceneTag": "promenade-lauf",
+   "idea": "Trainings-Look ganz schlicht: weißes geripptes Tanktop + graue Shorts, Hauptsache die Passform stimmt",
+   "stockId": "S018",
+   "file": "posts/V007/post.jpg",
+   "tiktokFile": "posts/V007/tiktok.mp4",
+   "music": "assets/music/songs/myke-towers-lala.m4a",
+   "caption": "Morning run done before the town wakes up. A plain white ribbed tank and grey shorts: the simplest training kit, as long as it fits. What do you wear when you run, colour or all white?\n\n#mensstyle #italianstyle #morningrun #dolcevita #liguria",
+   "tiktokTitle": "Morning run on the coast. Colour or all white?",
+   "costUsd": 0,
+   "status": "sending",
+   "aiLabel": true,
+   "scheduledFor": "2026-11-19T19:30:00+01:00"
   }
  ],
  "test": {
