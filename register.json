@@ -1291,8 +1291,19 @@
     "S034"
    ],
    "stockNote": "Restvariante Start verworfen (Fisch schwebt ohne Hand in der Luft)",
-   "status": "sending",
-   "aiLabel": true
+   "status": "scheduled",
+   "aiLabel": true,
+   "scheduledAt": "2026-11-20T19:30:00+01:00",
+   "metricool": {
+    "postId": 435897476,
+    "uuid": "5043028115201608159",
+    "mediaCommit": "7da8c2ae44e01177d093699d6c154e897794c719",
+    "networks": [
+     "instagram REEL",
+     "tiktok"
+    ],
+    "aiLabel": true
+   }
   }
  ],
  "test": {
