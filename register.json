@@ -839,6 +839,35 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-20T19:00:00+01:00",
+     "note": "7 Tage nach Veröffentlichung",
+     "instagram": {
+      "reach": 61,
+      "views": 70,
+      "avgWatchTimeS": 2.831,
+      "skipRatePct": 78.0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 1885,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.64,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1162,7 +1191,37 @@
     "instagram": "-4939002113337964322",
     "tiktok": "-4008580476662169599"
    },
-   "mediaCommit": "397f1a39bc6028bac16148480f65eb463de76ce0"
+   "mediaCommit": "397f1a39bc6028bac16148480f65eb463de76ce0",
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-20T19:00:00+01:00",
+     "note": "ca. 47 h nach Veröffentlichung; Instagram meldet 0 Reichweite/0 Aufrufe (wie V003–V005, evtl. nicht synchronisiert)",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1692,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.77,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
+   }
   },
   {
    "id": "V007",
@@ -1192,6 +1251,48 @@
     "tiktok": "-2387079428596805636"
    },
    "mediaCommit": "56910b90d36ddd21214eb2d282c66ea2483d8566"
+  },
+  {
+   "id": "R009",
+   "date": "2026-11-20",
+   "type": "reel",
+   "format": "Krasser Kontrast",
+   "arm": "mode",
+   "series": "Lorenzo's Wardrobe",
+   "scene": "6 Uhr Fischmarkt am Hafen, navy Dreiteiler, weißes Hemd offen, braune Lederschuhe, läuft auf die Kamera zu; Fischer in gelben/orangen Gummi-Latzhosen staunen, einer hält einen Fisch hoch",
+   "sceneTag": "fischmarkt-anzug",
+   "idea": "Krasser Kontrast: Maßanzug zwischen Fischern in Gummistiefeln – Hook „Wrong place, right outfit“",
+   "file": "posts/R009/reel.mp4",
+   "startImage": "posts/R009/start.jpg",
+   "hook": [
+    "6 a.m. fish market.",
+    "Wrong place, right outfit."
+   ],
+   "music": "assets/music/songs/bad-bunny-nuevayol.m4a",
+   "caption": "6 a.m., the boats are in and the only man in a three-piece navy suit is me. Nobody asked, everybody looked. Would you dress up for the fish market, or is that a crime?\n\n#mensstyle #italianstyle #threepiecesuit #dolcevita #fishmarket",
+   "tiktokTitle": "Wrong place, right outfit. Suit at the fish market?",
+   "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+   "nodeIds": {
+    "startImage": "soFMdiN5nUTGrOWFbfHP",
+    "extraImage": "BGshkRKPQyN2KJBdsbPd",
+    "kling": "pHoymri2EXk1mIJpbYxM"
+   },
+   "generationIds": {
+    "start": "ji3LDcWSBMMNsKXfE8GT",
+    "restStartVerworfen": "wjtJZfh5E0W0AWsmMc4T",
+    "extra": "tjDbTn4pXJqdaE7noND8",
+    "kling": "mp9nGYHpeFlGU7w7atmS"
+   },
+   "model": "gemini-3-pro-image + kling-3-pro 5 s",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 1.47,
+   "costNote": "3 Bilder Nano Banana Pro 2K à 0,303 (2× Start 9:16, 1× Extra 4:5) + Kling 5 s 0,564",
+   "stockAdded": [
+    "S034"
+   ],
+   "stockNote": "Restvariante Start verworfen (Fisch schwebt ohne Hand in der Luft)",
+   "status": "sending",
+   "aiLabel": true
   }
  ],
  "test": {
@@ -1423,6 +1524,16 @@
    "status": "stock",
    "generationId": "rTIAKOYan4JDaxUIKrU8",
    "createdAt": "2026-11-16"
+  },
+  {
+   "id": "S034",
+   "file": "posts/stock/S034.jpg",
+   "scene": "6 Uhr Fischmarkt am Hafen, navy Dreiteiler, weißes Hemd offen, steht am Fischstand mit Papierpäckchen, Fischhändler in oranger Schürze schaut hoch (Extra-Bild R009)",
+   "series": "Lorenzo's Wardrobe",
+   "sceneTag": "fischmarkt-anzug",
+   "status": "stock",
+   "generationId": "tjDbTn4pXJqdaE7noND8",
+   "createdAt": "2026-11-20"
   }
  ],
  "stockArchive": {
