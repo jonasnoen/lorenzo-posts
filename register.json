@@ -929,6 +929,35 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "9 Tage nach Veröffentlichung (verspätet)",
+     "instagram": {
+      "reach": 107,
+      "views": 133,
+      "avgWatchTimeS": 3.277,
+      "skipRatePct": 66.7,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 798,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.38,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1011,6 +1040,34 @@
       "profileVisits": null,
       "newFollowers": null,
       "likesPerViewPct": 0.39
+     }
+    },
+    "d7": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "10 Tage nach Veröffentlichung (verspätet); IG-Karussell",
+     "instagram": {
+      "reach": 3,
+      "views": 3,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 783,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.38,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
      }
     }
    }
@@ -1101,6 +1158,35 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "8 Tage nach Veröffentlichung (verspätet)",
+     "instagram": {
+      "reach": 112,
+      "views": 142,
+      "avgWatchTimeS": 4.91,
+      "skipRatePct": 50.9,
+      "saves": 0,
+      "shares": 0,
+      "likes": 2,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 789,
+      "likes": 7,
+      "comments": 1,
+      "shares": 3,
+      "likesPerViewPct": 0.89,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1154,6 +1240,34 @@
       "comments": 0,
       "shares": 0,
       "likesPerViewPct": 0.83,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    },
+    "d7": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "7 Tage nach Veröffentlichung",
+     "instagram": {
+      "reach": 2,
+      "views": 2,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1803,
+      "likes": 16,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.89,
       "reach": null,
       "avgWatchTimeS": null,
       "saves": null,
@@ -1250,7 +1364,37 @@
     "instagram": "-3311898093672643928",
     "tiktok": "-2387079428596805636"
    },
-   "mediaCommit": "56910b90d36ddd21214eb2d282c66ea2483d8566"
+   "mediaCommit": "56910b90d36ddd21214eb2d282c66ea2483d8566",
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "verspätet gemessen (ca. 5 Tage nach Veröffentlichung); Instagram meldet 0 (wie V003–V006)",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1644,
+      "likes": 11,
+      "comments": 0,
+      "shares": 2,
+      "likesPerViewPct": 0.67,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
+   }
   },
   {
    "id": "R009",
@@ -1303,6 +1447,37 @@
      "tiktok"
     ],
     "aiLabel": true
+   },
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-24T18:55:00+01:00",
+     "note": "verspätet gemessen (ca. 4 Tage nach Veröffentlichung, an 22./23.11. kein Lauf)",
+     "instagram": {
+      "reach": 107,
+      "views": 156,
+      "avgWatchTimeS": 3.36,
+      "skipRatePct": 59.8,
+      "saves": 1,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 1517,
+      "likes": 15,
+      "comments": 0,
+      "shares": 2,
+      "likesPerViewPct": 0.99,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
    }
   },
   {
