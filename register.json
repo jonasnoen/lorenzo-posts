@@ -1304,6 +1304,26 @@
     ],
     "aiLabel": true
    }
+  },
+  {
+   "id": "V008",
+   "date": "2026-11-24",
+   "type": "photo",
+   "arm": "vorrat",
+   "series": "A moment with Lorenzo",
+   "scene": "Mailänder Altbau, lehnt am offenen Fenster, Hand im Haar, Espresso in der Hand, weißes Leinenhemd offen, steinbeige Bundfaltenhose, Fischgrät-Parkett",
+   "sceneTag": "fenster-milano-morgen",
+   "idea": "Morgen-Uniform zu Hause: weißes Leinenhemd offen + steinbeige Bundfaltenhose – erst Espresso, dann Knöpfe",
+   "stockId": "S033",
+   "file": "posts/V008/post.jpg",
+   "tiktokFile": "posts/V008/tiktok.mp4",
+   "music": "assets/music/songs/baile-inolvidable-bad-bunny.m4a",
+   "caption": "Coffee first, buttons later. White linen and stone trousers, the only morning uniform I need in Milan. Standing at the window or sitting down, how do you take your first espresso?\n\n#mensstyle #italianstyle #milano #linenshirt #dolcevita",
+   "tiktokTitle": "Coffee first, buttons later. Window or table?",
+   "costUsd": 0,
+   "status": "sending",
+   "aiLabel": true,
+   "scheduledFor": "2026-11-24T19:30:00+01:00"
   }
  ],
  "test": {
