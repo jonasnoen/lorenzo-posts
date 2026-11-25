@@ -1334,6 +1334,34 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-25T18:55:00+01:00",
+     "note": "7 Tage nach Veröffentlichung",
+     "instagram": {
+      "reach": 2,
+      "views": 2,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1708,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 0.88,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1508,6 +1536,55 @@
     "tiktok": "-9141528347311389808"
    },
    "mediaCommit": "7b296dc55a2e4848dba466cf9693e7bd0c12efc8"
+  },
+  {
+   "id": "R010",
+   "date": "2026-11-25",
+   "type": "reel",
+   "format": "Sprechvideo",
+   "arm": "portraet",
+   "series": "A moment with Lorenzo",
+   "scene": "Studio-Portrait (L5) vor weißer Wand, harter Sonnenschatten, oberkörperfrei, dünne Goldkette, navy Hose, Hand im Haar; spricht in die Kamera",
+   "sceneTag": "studio-weisse-wand",
+   "idea": "Direkte Stil-Frage an den Zuschauer: dünne Goldkette ohne Hemd – classy oder zu viel?",
+   "file": "posts/R010/reel.mp4",
+   "startImage": "posts/R010/start.jpg",
+   "voiceFile": "posts/R010/voice.mp3",
+   "hook": [
+    "Gold chain, no shirt.",
+    "Classy or too much?"
+   ],
+   "spoken": "Be honest. A thin gold chain, no shirt. Classy… or too much? Tell me.",
+   "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+   "caption": "One thin gold chain, nothing else. Some say it's the most Italian accessory there is, others say it's too much. Classy or too much? Be honest.\n\n#mensstyle #goldchain #italianstyle #dolcevita #menswear",
+   "tiktokTitle": "Gold chain, no shirt: classy or too much?",
+   "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+   "nodeIds": {
+    "startImage": "nh8wgqmcGhVHOM4tcOK2",
+    "startPick": "ZhtVDrFntGtchdUh1GLF",
+    "extraImage": "2ZcFeI9JpW2LxnODNKTk",
+    "tts": "pAZ9bgMkk2VF185mtk2v",
+    "kling": "hFyf71FZOmp9xfF1k3y7",
+    "sync": "RaUAcFAG0ugc2QPmdNXl"
+   },
+   "generationIds": {
+    "start": "Ti61aU6XzE2hGcdjKpYb",
+    "restStart": "IY68o0WSMuDbnrTvsw4E",
+    "extra": "CQgUiShwJXgMXopPxVWO",
+    "tts": "ojcEMAGqOPMHFBk5oKgx",
+    "kling": "TRAB66GIwfHfXtNTVTqz",
+    "sync": "uFN5sZsrSNHZTy6pqozA"
+   },
+   "model": "gemini-3-pro-image + kling-3-pro 7 s + sync-lipsync-v3",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 2.54,
+   "costNote": "3 Bilder Nano Banana Pro 2K à 0,303 (2× Start 9:16, 1× Extra 4:5) + Stimme eleven_v3 0,011 + Kling 7 s 0,789 + Sync 3 0,825",
+   "stockAdded": [
+    "S035",
+    "S036"
+   ],
+   "status": "sending",
+   "aiLabel": true
   }
  ],
  "test": {
@@ -1750,6 +1827,32 @@
    "status": "stock",
    "generationId": "tjDbTn4pXJqdaE7noND8",
    "createdAt": "2026-11-20"
+  },
+  {
+   "id": "S035",
+   "date": "2026-11-25",
+   "file": "posts/stock/S035.jpg",
+   "scene": "Studio vor weißer Wand, oberkörperfrei, dünne Goldkette, navy Hose, Hand im Haar, harter Schatten (Restvariante R010)",
+   "series": "A moment with Lorenzo",
+   "sceneTag": "studio-weisse-wand",
+   "status": "stock",
+   "generationId": "IY68o0WSMuDbnrTvsw4E",
+   "model": "gemini-3-pro-image",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 0
+  },
+  {
+   "id": "S036",
+   "date": "2026-11-25",
+   "file": "posts/stock/S036.jpg",
+   "scene": "Studio, lehnt an weißer Wand, oberkörperfrei, Arme verschränkt, dünne Goldkette, navy Bundfaltenhose, harter Schatten (Extra-Bild R010)",
+   "series": "Lorenzo's Wardrobe",
+   "sceneTag": "studio-weisse-wand",
+   "status": "stock",
+   "generationId": "CQgUiShwJXgMXopPxVWO",
+   "model": "gemini-3-pro-image",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 0
   }
  ],
  "stockArchive": {
