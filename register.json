@@ -1583,8 +1583,19 @@
     "S035",
     "S036"
    ],
-   "status": "sending",
-   "aiLabel": true
+   "status": "scheduled",
+   "aiLabel": true,
+   "scheduledAt": "2026-11-25T19:30:00+01:00",
+   "metricool": {
+    "postId": 442119987,
+    "uuid": "-3988607179879529407",
+    "mediaCommit": "8f4abb5d7ff45ae0115a1fc3eb8337f178b17dbd",
+    "networks": [
+     "instagram REEL",
+     "tiktok"
+    ],
+    "aiLabel": true
+   }
   }
  ],
  "test": {
