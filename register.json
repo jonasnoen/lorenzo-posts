@@ -1613,9 +1613,18 @@
    "caption": "Last swim before winter, towel still on my shoulder. The sea is quieter in November, and so is everyone on it. Would you still jump in this late in the year?\n\n#dolcevita #amalficoast #italianstyle #mensstyle #lastswim",
    "tiktokTitle": "Last swim before winter. Would you still jump in?",
    "costUsd": 0,
-   "status": "sending",
+   "status": "scheduled",
    "aiLabel": true,
-   "scheduledFor": "2026-11-26T19:30:00+01:00"
+   "scheduledFor": "2026-11-26T19:30:00+01:00",
+   "metricoolIds": {
+    "instagram": 443455197,
+    "tiktok": 443455224
+   },
+   "metricoolUuids": {
+    "instagram": "1535302638589658743",
+    "tiktok": "-1918754280551528349"
+   },
+   "mediaCommit": "31588ea7ef881c9734b0084c18a430df73c60342"
   }
  ],
  "test": {
@@ -1753,9 +1762,10 @@
    "scene": "Auf dem Boot sitzend, Handtuch über der Schulter, Felsküste",
    "sceneTag": "boot",
    "serie": "A moment with Lorenzo",
-   "status": "stock",
+   "status": "used",
    "source": "vom Nutzer freigegeben (verwendbar/fotos/lorenzo-gpt-boot-natuerlich.jpg)",
-   "costUsd": 0
+   "costUsd": 0,
+   "usedBy": "V009"
   },
   {
    "id": "S027",
