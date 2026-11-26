@@ -1596,6 +1596,26 @@
     ],
     "aiLabel": true
    }
+  },
+  {
+   "id": "V009",
+   "date": "2026-11-26",
+   "type": "photo",
+   "arm": "vorrat",
+   "series": "A moment with Lorenzo",
+   "scene": "Sitzt oberkörperfrei auf dem Holzboot nach dem Schwimmen, graues Handtuch über der Schulter, nasse Locken, Felsküste im Hintergrund",
+   "sceneTag": "boot",
+   "idea": "Letztes Bad der Saison im November: nasse Locken, Handtuch über der Schulter, ruhiges Wasser",
+   "stockId": "S026",
+   "file": "posts/V009/post.jpg",
+   "tiktokFile": "posts/V009/tiktok.mp4",
+   "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+   "caption": "Last swim before winter, towel still on my shoulder. The sea is quieter in November, and so is everyone on it. Would you still jump in this late in the year?\n\n#dolcevita #amalficoast #italianstyle #mensstyle #lastswim",
+   "tiktokTitle": "Last swim before winter. Would you still jump in?",
+   "costUsd": 0,
+   "status": "sending",
+   "aiLabel": true,
+   "scheduledFor": "2026-11-26T19:30:00+01:00"
   }
  ],
  "test": {
