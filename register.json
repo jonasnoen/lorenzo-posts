@@ -1421,6 +1421,34 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-27T18:55:00+01:00",
+     "note": "ca. 8 Tage nach Veröffentlichung (26.11. kein Messlauf); Instagram meldet weiter 0",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "profileVisits": null,
+      "avgWatchTimeS": null,
+      "nonFollowerReach": null
+     },
+     "tiktok": {
+      "views": 1648,
+      "likes": 11,
+      "comments": 0,
+      "shares": 2,
+      "likesPerViewPct": 0.67,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1535,7 +1563,37 @@
     "instagram": "-3643606888116433314",
     "tiktok": "-9141528347311389808"
    },
-   "mediaCommit": "7b296dc55a2e4848dba466cf9693e7bd0c12efc8"
+   "mediaCommit": "7b296dc55a2e4848dba466cf9693e7bd0c12efc8",
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-27T18:55:00+01:00",
+     "note": "ca. 71 h nach Veröffentlichung (26.11. kein Messlauf); Instagram meldet 0 (wie V003–V007)",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "profileVisits": null,
+      "avgWatchTimeS": null,
+      "nonFollowerReach": null
+     },
+     "tiktok": {
+      "views": 1228,
+      "likes": 20,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 1.63,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
+   }
   },
   {
    "id": "R010",
@@ -1625,6 +1683,55 @@
     "tiktok": "-1918754280551528349"
    },
    "mediaCommit": "31588ea7ef881c9734b0084c18a430df73c60342"
+  },
+  {
+   "id": "R011",
+   "date": "2026-11-27",
+   "type": "reel",
+   "format": "Sprechvideo",
+   "arm": "koerper",
+   "series": "Milano to Amalfi",
+   "scene": "Pool-Terrasse über dem Meer an der Amalfiküste, steht oberkörperfrei an der Poolkante nach dem Schwimmen, nasse Locken, glänzende Haut, kurze navy Badeshorts; nimmt die Hand aus dem Haar und spricht in die Kamera",
+   "sceneTag": "pool-terrasse-amalfi",
+   "idea": "Direkte Stil-Frage: Badeshorts über oder unter dem Knie? (Körper-Arm mit Stil-Bezug)",
+   "file": "posts/R011/reel.mp4",
+   "startImage": "posts/R011/start.jpg",
+   "voiceFile": "posts/R011/voice.mp3",
+   "hook": [
+    "Above or below the knee?"
+   ],
+   "spoken": "Swim shorts. Above the knee... or below? Italians only have one answer. What's yours?",
+   "music": "assets/music/songs/rauw-alejandro-todo-de-ti.m4a",
+   "caption": "Fresh out of the pool, and the same old debate. Swim shorts above the knee or below? Pick a side.\n\n#mensstyle #swimshorts #italianstyle #amalficoast #dolcevita",
+   "tiktokTitle": "Swim shorts: above or below the knee? Pick a side.",
+   "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+   "nodeIds": {
+    "startImage": "DJZDv2blLH7SnKmfltNQ",
+    "extraImage": "vHHHSjU53H6Mbc2YYWym",
+    "tts": "6bLFLQ8W5Jwr3sPlldW2",
+    "voiceCut": "5dghCmUPTGGQBoi0aDYE",
+    "kling": "4a7Kq0eFY8W1TMZeYiwb",
+    "sync": "5JzqrATMnNqHR2A41FPL"
+   },
+   "generationIds": {
+    "start": "WQVUKM0EhN9v5Km4Qex9",
+    "restStart": "Luw89kLRq45NTUcoFNEx",
+    "extra": "qrBWrh6OHrjtjhW0J2J6",
+    "tts": "G3P4LhUJfK0ijuG7CIGN",
+    "kling": "S5ZgohV0sQlWmWznlJkX",
+    "sync": "Fi1toNWR4Cimegk0vHWW"
+   },
+   "model": "gemini-3-pro-image + kling-3-pro 7 s + sync-lipsync-v3",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 2.55,
+   "costNote": "3 Bilder Nano Banana Pro 2K à 0,303 (2× Start 9:16, 1× Extra 4:5) + Stimme eleven_v3 0,014 + Kling 7 s 0,789 + Sync 3 0,835",
+   "editNote": "Stimme 7,6 s → Pausen auf 0,3 s gekürzt (6,27 s); Untertitel Poppins Bold phrasenweise, Hook oben 0–3 s, Song 13 %",
+   "stockAdded": [
+    "S037",
+    "S038"
+   ],
+   "status": "sending",
+   "aiLabel": true
   }
  ],
  "test": {
@@ -1891,6 +1998,32 @@
    "sceneTag": "studio-weisse-wand",
    "status": "stock",
    "generationId": "CQgUiShwJXgMXopPxVWO",
+   "model": "gemini-3-pro-image",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 0
+  },
+  {
+   "id": "S037",
+   "date": "2026-11-27",
+   "file": "posts/stock/S037.jpg",
+   "scene": "Pool-Terrasse über dem Meer an der Amalfiküste, steht oberkörperfrei an der Poolkante, Hand im nassen Haar, navy Badeshorts, glänzende Haut (Restvariante R011)",
+   "series": "Milano to Amalfi",
+   "sceneTag": "pool-terrasse-amalfi",
+   "status": "stock",
+   "generationId": "Luw89kLRq45NTUcoFNEx",
+   "model": "gemini-3-pro-image",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 0
+  },
+  {
+   "id": "S038",
+   "date": "2026-11-27",
+   "file": "posts/stock/S038.jpg",
+   "scene": "Pool-Terrasse Amalfiküste, sitzt oberkörperfrei auf der Poolkante, Beine im Wasser, navy Badeshorts, weißes Handtuch, Abendlicht (Extra-Bild R011)",
+   "series": "Milano to Amalfi",
+   "sceneTag": "pool-terrasse-amalfi",
+   "status": "stock",
+   "generationId": "qrBWrh6OHrjtjhW0J2J6",
    "model": "gemini-3-pro-image",
    "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
    "costUsd": 0
