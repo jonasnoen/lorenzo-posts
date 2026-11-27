@@ -1730,8 +1730,19 @@
     "S037",
     "S038"
    ],
-   "status": "sending",
-   "aiLabel": true
+   "status": "scheduled",
+   "aiLabel": true,
+   "scheduledAt": "2026-11-27T19:30:00+01:00",
+   "metricool": {
+    "postId": 444698895,
+    "uuid": "536979111930643965",
+    "mediaCommit": "f2dce8fafeaec9a2e992e6da24a6bf6e5fa659a9",
+    "networks": [
+     "instagram REEL",
+     "tiktok"
+    ],
+    "aiLabel": true
+   }
   }
  ],
  "test": {
