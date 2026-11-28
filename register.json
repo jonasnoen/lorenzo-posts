@@ -1533,6 +1533,35 @@
       "profileVisits": null,
       "newFollowers": null
      }
+    },
+    "d7": {
+     "measuredAt": "2026-11-28T18:55:00+01:00",
+     "note": "ca. 8 Tage nach Veröffentlichung",
+     "instagram": {
+      "reach": 107,
+      "views": 158,
+      "avgWatchTimeS": 3.386,
+      "skipRatePct": 59.3,
+      "saves": 1,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 1530,
+      "likes": 15,
+      "comments": 0,
+      "shares": 2,
+      "likesPerViewPct": 0.98,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
     }
    }
   },
@@ -1653,6 +1682,37 @@
      "tiktok"
     ],
     "aiLabel": true
+   },
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-28T18:55:00+01:00",
+     "note": "verspätet, ca. 71 h nach Veröffentlichung (27.11. nicht gemessen)",
+     "instagram": {
+      "reach": 15,
+      "views": 16,
+      "avgWatchTimeS": 2.059,
+      "skipRatePct": 80.0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "nonFollowerReach": null,
+      "profileVisits": null,
+      "newFollowers": null
+     },
+     "tiktok": {
+      "views": 1562,
+      "likes": 12,
+      "comments": 0,
+      "shares": 1,
+      "likesPerViewPct": 0.77,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
    }
   },
   {
@@ -1682,7 +1742,36 @@
     "instagram": "1535302638589658743",
     "tiktok": "-1918754280551528349"
    },
-   "mediaCommit": "31588ea7ef881c9734b0084c18a430df73c60342"
+   "mediaCommit": "31588ea7ef881c9734b0084c18a430df73c60342",
+   "stats": {
+    "h48": {
+     "measuredAt": "2026-11-28T18:55:00+01:00",
+     "note": "ca. 47 h nach Veröffentlichung; Instagram meldet 0 (wie V003–V008)",
+     "instagram": {
+      "reach": 0,
+      "views": 0,
+      "saves": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "newFollowers": 0,
+      "profileVisits": null,
+      "avgWatchTimeS": null
+     },
+     "tiktok": {
+      "views": 1577,
+      "likes": 28,
+      "comments": 0,
+      "shares": 0,
+      "likesPerViewPct": 1.78,
+      "reach": null,
+      "avgWatchTimeS": null,
+      "saves": null,
+      "profileVisits": null,
+      "newFollowers": null
+     }
+    }
+   }
   },
   {
    "id": "R011",
