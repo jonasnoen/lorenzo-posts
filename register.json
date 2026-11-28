@@ -1832,6 +1832,49 @@
     ],
     "aiLabel": true
    }
+  },
+  {
+   "id": "K003",
+   "date": "2026-11-28",
+   "type": "carousel",
+   "arm": "karussell",
+   "series": "Lorenzo's Wardrobe",
+   "scene": "Eine dunkelbraune Wildleder-Trucker-Jacke, vier Looks im späten Novemberlicht: Mailänder Altbau-Fenster mit Fensterläden – offen über nacktem Oberkörper, navy Bundfaltenhose, Wildleder-Loafer ohne Socken; Mailänder Tram-Straße – über cremefarbenem Rollkragen, graue Wollhose, braune Wildleder-Loafer; Amalfi-Hafen zur goldenen Stunde – über weißem T-Shirt, weiße Leinenhose, Ledersandalen; Porträt im Steinportal in Mailand – Kragen hoch, Rollkragen, Suede- und Strickstruktur",
+   "sceneTag": "wildlederjacke-vier-wege",
+   "idea": "Ein Teil, vier Wege: dieselbe braune Wildlederjacke über nackter Haut, über Rollkragen, über weißem T-Shirt am Meer, als Kragen-Detail – Braun + Navy/Creme/Grau/Weiß",
+   "files": [
+    "posts/K003/slide1.jpg",
+    "posts/K003/slide2.jpg",
+    "posts/K003/slide3.jpg",
+    "posts/K003/slide4.jpg"
+   ],
+   "tiktokFile": "posts/K003/tiktok.mp4",
+   "hook": [
+    "One jacket.",
+    "Four ways."
+   ],
+   "music": "assets/music/songs/titi-me-pregunto-bad-bunny.m4a",
+   "caption": "One brown suede jacket, four ways: over bare skin, over a cream rollneck, over a white tee by the sea. Which one would you actually wear?\n\n#mensstyle #italianstyle #suedejacket #menswear #dolcevita",
+   "tiktokTitle": "One suede jacket, four ways. Which one?",
+   "elevenlabsFlow": "PhDE8w0Fz0PqYrO08mW5",
+   "nodeIds": [
+    "YnJmibIHCurXAKUd4XHi",
+    "MY51s3yVpB23v1Ebu57r",
+    "cwQBEilZ1mDCL2LPUf24",
+    "tvChTNsAJGOjFMGvN16F"
+   ],
+   "generationIds": [
+    "e9QvZki9JeSjhIl4XcLs",
+    "MTSfB108kjQr7E3E5Qz5",
+    "4Q42rLy5ngv6gRNKX2dT",
+    "oqRjLvjtElWLY3OyrQw9"
+   ],
+   "model": "gemini-3-pro-image",
+   "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
+   "costUsd": 1.21,
+   "costNote": "4 Bilder Nano Banana Pro 2K à 0,303 $",
+   "status": "sending",
+   "aiLabel": true
   }
  ],
  "test": {
