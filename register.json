@@ -1873,8 +1873,18 @@
    "reference": "Collage i1–i4 (2p8CXjuDNs0iqzFTELoC)",
    "costUsd": 1.21,
    "costNote": "4 Bilder Nano Banana Pro 2K à 0,303 $",
-   "status": "sending",
-   "aiLabel": true
+   "status": "scheduled",
+   "aiLabel": true,
+   "scheduledFor": "2026-11-28T19:30:00+01:00",
+   "metricoolIds": {
+    "instagram": 445665307,
+    "tiktok": 445665330
+   },
+   "metricoolUuids": {
+    "instagram": "-3104312676356112110",
+    "tiktok": "-4814577594363852960"
+   },
+   "mediaCommit": "1dfb4a96166b9cc532ef60aee5097b8860c46d77"
   }
  ],
  "test": {
